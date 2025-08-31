@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sun, 31 Aug 2025 19:36:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 19:38:18 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
     <category>Tech News</category>
     <generator>RSS Builder</generator>
@@ -36,5 +36,14 @@
     <atom:link href="https://raw.githubusercontent.com/ted-coey/bluelightingpodcast/main/rss.xml" rel="self" type="application/rss+xml"/>
 
     <!-- Episodes will be inserted here as <item> blocks -->
+
+  <item>
+    <title>Nano Banana: The Meme-Powered Image Revolution</title>
+    <description><![CDATA[Discover why creators are obsessed with “Nano Banana”—Google’s new high-consistency image tool in Gemini. Learn how stable likeness, fast multi-step edits, and watermark safeguards are changing workflows for artists, marketers, and everyday users. We break down costs, real-world uses, and pro tips for perfect prompts, plus why this fun meme-model is winning fans across the AI art community.]]></description>
+    <pubDate>Sun, 31 Aug 2025 19:38:18 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/nano_banana_revolution.mp3" length="3761760" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1756669098912</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Podcast+Image+-+nano_banana_revolution.jpg"/>
+  </item>
 </channel>
 </rss>

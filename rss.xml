@@ -10,7 +10,12 @@
     <copyright>© 2025 Blue Lightning</copyright>
     <lastBuildDate>Sun, 31 Aug 2025 19:38:18 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
-    <category>Tech News</category>
+     <itunes:category text="Business">
+       <itunes:category text="Entrepreneurship"/>
+     </itunes:category>
+     <itunes:category text="Technology">
+       <itunes:category text="Tech News"/>
+     </itunes:category>
     <generator>RSS Builder</generator>
     <description>
       Blue Lightning AI Daily is your go-to AI podcast for creators, delivering fast, focused updates on the world of generative AI. 

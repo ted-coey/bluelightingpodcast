@@ -1,1 +1,41 @@
-~)^�+-zo�
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+    <title>Blue Lightning AI Daily</title>
+    <link>https://yourdomain.com/podcast</link>
+    <language>en-us</language>
+    <copyright>© 2025 Blue Lightning</copyright>
+    <lastBuildDate>Sun, 31 Aug 2025 12:00:00 GMT</lastBuildDate>
+    <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
+    <category>Tech News</category>
+    <generator>n8n RSS Builder</generator>
+    <description>
+      Blue Lightning AI Daily is your go-to AI podcast for creators, delivering fast, focused updates on the world of generative AI. 
+      We cover the latest breakthroughs in large language models (LLMs), AI video editing, AI photography, AI audio tools, and creative automation. 
+      Each episode gives digital creators, content marketers, and creative professionals clear insights into how AI is transforming storytelling, 
+      production, and the creator economy. Stay informed, stay creative, and stay ahead with daily AI news made simple.
+    </description>
+
+    <!-- iTunes / Apple Podcasts tags -->
+    <itunes:author>Blue Lightning</itunes:author>
+    <itunes:summary>
+      Blue Lightning AI Daily is your go-to AI podcast for creators, delivering fast, focused updates on the world of generative AI. 
+      We cover the latest breakthroughs in LLMs, AI video, AI audio, and creative tools.
+    </itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://yourdomain.com/podcast-cover.jpg"/>
+    <itunes:owner>
+      <itunes:name>Blue Lightning</itunes:name>
+      <itunes:email>you@example.com</itunes:email>
+    </itunes:owner>
+
+    <!-- Atom self-link (recommended for apps like Apple Podcasts / Overcast) -->
+    <atom:link href="https://yourdomain.com/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <!-- Episodes will be inserted here as <item> blocks -->
+
+  </channel>
+</rss>

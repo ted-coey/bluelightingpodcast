@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sun, 31 Aug 2025 19:18:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 19:36:56 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
     <category>Tech News</category>
     <generator>RSS Builder</generator>
@@ -45,6 +45,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Nano+Banana%3A+Google%27s+Meme+Model+Goes+Mainstream.mp3" length="3761760" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1756667922682</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Nano+Banana%3A+Google%27s+Meme+Model+Goes+Mainstream.jpg"/>
+  </item>
+
+  <item>
+    <title>Nano Banana: Google’s Image Consistency Craze</title>
+    <description><![CDATA[Meet “Nano Banana”—Gemini’s lightning-fast, ultra-consistent image engine that’s taking social feeds by storm. Zane and Pippa peel back how creators, marketers, and everyday users are whipping up rock-solid edits, wardrobe swaps, and backgrounds—no more character drift or endless do-overs. Get an insider look at pricing, watermarks, and how teams and casuals are already going bananas for repeatable results.]]></description>
+    <pubDate>Sun, 31 Aug 2025 19:36:56 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/nano_banana_consistency.mp3" length="3761760" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1756669016258</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Podcast+Image+-+nano_banana_consistency.jpg"/>
   </item>
 </channel>
 </rss>

@@ -11,7 +11,7 @@
     <lastBuildDate>Sun, 31 Aug 2025 19:11:12 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
     <category>Tech News</category>
-    <generator>n8n RSS Builder</generator>
+    <generator>RSS Builder</generator>
     <description>
       Blue Lightning AI Daily is your go-to AI podcast for creators, delivering fast, focused updates on the world of generative AI. 
       We cover the latest breakthroughs in large language models (LLMs), AI video editing, AI photography, AI audio tools, and creative automation. 
@@ -26,41 +26,16 @@
       We cover the latest breakthroughs in LLMs, AI video, AI audio, and creative tools.
     </itunes:summary>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://yourdomain.com/podcast-cover.jpg"/>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/blue-lighting-cover.jpg"/>
     <itunes:owner>
       <itunes:name>Blue Lightning</itunes:name>
       <itunes:email>you@example.com</itunes:email>
     </itunes:owner>
 
     <!-- Atom self-link (recommended for apps like Apple Podcasts / Overcast) -->
-    <atom:link href="https://yourdomain.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://raw.githubusercontent.com/ted-coey/bluelightingpodcast/main/rss.xml" rel="self" type="application/rss+xml"/>
 
     <!-- Episodes will be inserted here as <item> blocks -->
 
-  
-  <item>
-    <title>Nano Banana: Google’s Meme Model Delivers Consistent AI Images</title>
-    <description><![CDATA[Meet “Nano Banana,” the internet’s favorite new AI image tool from Google Gemini. We break down why creators are buzzing—think stable faces, fast multi-step edits, and watermarked trust. From product colorways to character sheets, find out how Nano Banana makes series-ready visuals a breeze. Plus: pricing, how to try it, and how it stacks up against Midjourney and Firefly. Go bananas for consistency!]]></description>
-    <pubDate>Sun, 31 Aug 2025 18:21:49 GMT</pubDate>
-    <enclosure url="https://drive.google.com/uc?export=download&amp;id=16cbXNQuHsWHBBacH16dcg3ets0bL6zQp" length="3761760" type="audio/mpeg" />
-    <guid isPermaLink="false">bl-1756664509406</guid>
-  </item>
-
-  <item>
-    <title>Nano Banana: Gemini’s Meme Engine Takes Over AI Art</title>
-    <description><![CDATA[Discover “Nano Banana”—Google Gemini’s viral, high-consistency image engine creators love. Zane and Pippa break down why this fast, stable tool matters for anyone making portraits, product shots, or creative edits. Hear about pricing, watermarks, real-world workflows, and meme magic. Plus, tips for creators, marketers, and devs chasing series-ready results without headaches. Stay consistent—and a little bananas—with Blue Lightning AI Daily!]]></description>
-    <pubDate>Sun, 31 Aug 2025 18:51:43 GMT</pubDate>
-    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lQ8MZUrnUzKX58id4ryCCk1c1oKKmMrB" length="3761760" type="audio/mpeg" />
-    <guid isPermaLink="false">bl-1756666303370</guid>
-  </item>
-
-  <item>
-    <title>Nano Banana: Gemini’s Meme Engine Takes Over AI Art</title>
-    <description><![CDATA[Discover “Nano Banana”—Google Gemini’s viral, high-consistency image engine creators love. Zane and Pippa break down why this fast, stable tool matters for anyone making portraits, product shots, or creative edits. Hear about pricing, watermarks, real-world workflows, and meme magic. Plus, tips for creators, marketers, and devs chasing series-ready results without headaches. Stay consistent—and a little bananas—with Blue Lightning AI Daily!]]></description>
-    <pubDate>Sun, 31 Aug 2025 19:11:12 GMT</pubDate>
-    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Nano+Banana%3A+Gemini%E2%80%99s+Meme+Engine+Takes+Over+AI+Art.mp3" length="3761760" type="audio/mpeg" />
-    <guid isPermaLink="false">bl-1756667472500</guid>
-    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Nano+Banana%3A+Gemini%E2%80%99s+Meme+Engine+Takes+Over+AI+Art.jpg"/>
-  </item>
 </channel>
 </rss>

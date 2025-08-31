@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sun, 31 Aug 2025 18:21:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 18:51:43 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
     <category>Tech News</category>
     <generator>n8n RSS Builder</generator>
@@ -44,6 +44,14 @@
     <pubDate>Sun, 31 Aug 2025 18:21:49 GMT</pubDate>
     <enclosure url="https://drive.google.com/uc?export=download&amp;id=16cbXNQuHsWHBBacH16dcg3ets0bL6zQp" length="3761760" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1756664509406</guid>
+  </item>
+
+  <item>
+    <title>Nano Banana: Gemini’s Meme Engine Takes Over AI Art</title>
+    <description><![CDATA[Discover “Nano Banana”—Google Gemini’s viral, high-consistency image engine creators love. Zane and Pippa break down why this fast, stable tool matters for anyone making portraits, product shots, or creative edits. Hear about pricing, watermarks, real-world workflows, and meme magic. Plus, tips for creators, marketers, and devs chasing series-ready results without headaches. Stay consistent—and a little bananas—with Blue Lightning AI Daily!]]></description>
+    <pubDate>Sun, 31 Aug 2025 18:51:43 GMT</pubDate>
+    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lQ8MZUrnUzKX58id4ryCCk1c1oKKmMrB" length="3761760" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1756666303370</guid>
   </item>
 </channel>
 </rss>

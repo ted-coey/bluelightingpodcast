@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sun, 31 Aug 2025 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 18:21:49 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
     <category>Tech News</category>
     <generator>n8n RSS Builder</generator>
@@ -37,5 +37,13 @@
 
     <!-- Episodes will be inserted here as <item> blocks -->
 
-  </channel>
+  
+  <item>
+    <title>Nano Banana: Google’s Meme Model Delivers Consistent AI Images</title>
+    <description><![CDATA[Meet “Nano Banana,” the internet’s favorite new AI image tool from Google Gemini. We break down why creators are buzzing—think stable faces, fast multi-step edits, and watermarked trust. From product colorways to character sheets, find out how Nano Banana makes series-ready visuals a breeze. Plus: pricing, how to try it, and how it stacks up against Midjourney and Firefly. Go bananas for consistency!]]></description>
+    <pubDate>Sun, 31 Aug 2025 18:21:49 GMT</pubDate>
+    <enclosure url="https://drive.google.com/uc?export=download&amp;id=16cbXNQuHsWHBBacH16dcg3ets0bL6zQp" length="3761760" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1756664509406</guid>
+  </item>
+</channel>
 </rss>

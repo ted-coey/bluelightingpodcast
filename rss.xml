@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sun, 31 Aug 2025 19:38:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 15:49:19 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -49,6 +49,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/nano_banana_revolution.mp3" length="3761760" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1756669098912</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Podcast+Image+-+nano_banana_revolution.jpg"/>
+  </item>
+
+  <item>
+    <title>Grok Code Fast 1: Blazing Agent Loops, Zero Lag</title>
+    <description><![CDATA[We break down xAI’s Grok Code Fast 1, a lightning-speed coding model made for agents that build, test, and fix in sub-seconds. From creators to dev teams, learn how this low-latency engine transforms workflows, slashes context-switching, and enables affordable micro-automation. Find out where to try it now, tips for better results, and why speed matters for creative pros.]]></description>
+    <pubDate>Mon, 01 Sep 2025 15:49:19 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/grok_code_fast_1_zero_lag.mp3" length="3825504" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1756741759524</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Podcast+Image+-+grok_code_fast_1_zero_lag.jpg"/>
   </item>
 </channel>
 </rss>

@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Mon, 01 Sep 2025 15:49:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 18:28:17 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -55,6 +55,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/grok_code_fast_1_zero_lag.mp3" length="3825504" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1756741759524</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Podcast+Image+-+grok_code_fast_1_zero_lag.jpg"/>
+  </item>
+
+  <item>
+    <title>Google Vids Superpowers: AI B-Roll, Avatars, and Speed</title>
+    <description><![CDATA[Google Vids just leveled up! We break down the new AI features: fast image-to-video b-roll, on-brand AI presenters, and transcript magic, all inside Google Workspace. Dive into how creators, marketers, and teams can storyboard, auto-edit, and publish videos quicker—no pro skills required. Hear workflow shortcuts, big-picture impacts, and why Google is pushing video-first collaboration. Get ready to power up your content game!]]></description>
+    <pubDate>Tue, 02 Sep 2025 18:28:17 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/google_vids_ai_boost.mp3" length="3573000" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1756837697227</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Podcast+Image+-+google_vids_ai_boost.jpg"/>
   </item>
 </channel>
 </rss>

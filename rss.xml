@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Tue, 02 Sep 2025 18:28:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 16:29:11 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -64,6 +64,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/google_vids_ai_boost.mp3" length="3573000" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1756837697227</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Podcast+Image+-+google_vids_ai_boost.jpg"/>
+  </item>
+
+  <item>
+    <title>Go Bananas for On-Model AI Art in Descript!</title>
+    <description><![CDATA[Descript’s new “nano banana” image model keeps your characters and products looking consistent across edits. Learn why creators, marketers, YouTubers, and brand designers are obsessed—plus how Google’s watermarking ups trust and safety. From faster thumbnails to brand-safe ads, Blue Lightning AI Daily unpacks this delicious update and introduces the consistency wave rolling through creative AI tools.]]></description>
+    <pubDate>Wed, 03 Sep 2025 16:29:11 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/bananas_for_consistency.mp3" length="3552648" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1756916951036</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Podcast+Image+-+bananas_for_consistency.jpg"/>
   </item>
 </channel>
 </rss>

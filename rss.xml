@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Fri, 05 Sep 2025 22:20:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 22:37:26 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -75,5 +75,14 @@
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Podcast+Image+-+bananas_for_consistency.jpg"/>
   </item>
 
+
+  <item>
+    <title>Google Photos Create Tab: Motion Magic Unleashed</title>
+    <description><![CDATA[Discover Google Photos’ new Create tab and the Veo 3-powered Photo-to-Video upgrade. We break down fresh Remix styles, cinematic animations, and highlight videos—all in-app. Find out how creators can batch slick stories faster with AI, tap into highlights from old archives, and skip the extra editing hassle. Pro tips included for eye-catching, scroll-stopping visuals. Turn memories into motion—no excuses!]]></description>
+    <pubDate>Fri, 05 Sep 2025 22:37:26 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/google_photos_magic.mp3" length="3201240" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1757111846421</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Podcast+Image+-+google_photos_magic.jpg"/>
+  </item>
 </channel>
 </rss>

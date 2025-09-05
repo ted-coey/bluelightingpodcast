@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Wed, 03 Sep 2025 16:29:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 22:20:54 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -73,6 +73,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/bananas_for_consistency.mp3" length="3552648" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1756916951036</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Podcast+Image+-+bananas_for_consistency.jpg"/>
+  </item>
+
+  <item>
+    <title>Google Photos Goes Creator Mode with Veo 3 Power</title>
+    <description><![CDATA[Google Photos debuts its new Create tab, rolling all its creative features into one spot and supercharging Photo-to-Video with Veo 3 AI. Zane and Pippa break down what’s changed, who benefits, tips for creators, why it matters for brand workflows, and what this means for the future of AI-powered social content. Is this your new one-tap studio?]]></description>
+    <pubDate>Fri, 05 Sep 2025 22:20:54 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/google_photos_create_tab.mp3" length="1488432" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1757110854662</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Podcast+Image+-+google_photos_create_tab.jpg"/>
   </item>
 </channel>
 </rss>

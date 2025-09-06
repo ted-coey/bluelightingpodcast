@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Fri, 05 Sep 2025 22:37:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 17:12:55 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -83,6 +83,14 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/google_photos_magic.mp3" length="3201240" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1757111846421</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Podcast+Image+-+google_photos_magic.jpg"/>
+  </item>
+
+  <item>
+    <title>Alibaba Qwen3‑Max‑Preview: Trillion-Parameter AI for Creators</title>
+    <description><![CDATA[On this episode of Blue Lightning AI Daily, Zane and Pippa dive into Alibaba’s new Qwen3‑Max‑Preview, a trillion-plus parameter large language model making waves for content creators. Is it just big model hype, or does scale translate to workflow wins? Discover how Qwen3‑Max‑Preview offers improved instruction following, long multi-turn chats, and powerful agentic features for planning and tool use. Learn how creators from daily YouTubers and podcasters to filmmakers and brand agencies can benefit from longer context windows, more reliable outputs, and streamlined content pipelines. We break down Alibaba’s pitch versus competitors, pricing insights, and where this model fits in the arms race with OpenAI, Google, and Anthropic. Plus, hear hands-on scenarios for creative pros and hobbyists, pricing comparisons, and warnings about preview limitations. Whether you run a pro studio or create on a shoestring budget, discover how Qwen3‑Max‑Preview changes the game for AI-powered content. Tune in for everything you need to know about this bold new entry in the 2025 AI landscape.]]></description>
+    <pubDate>Sat, 06 Sep 2025 17:12:55 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250906130359338+-+qwen3_max_preview_ai.mp3" length="4877424" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1757178775769</guid>
   </item>
 </channel>
 </rss>

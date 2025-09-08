@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sat, 06 Sep 2025 17:13:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2025 21:32:32 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -93,6 +93,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250906130359338+-+qwen3_max_preview_ai.mp3" length="4877424" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1757178834891</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250906130359338+-+qwen3_max_preview_ai.jpg"/>
+  </item>
+
+  <item>
+    <title>Vidu Q1 Drops Seven-Image Continuity for AI Video</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, we break down ShengShu Technology’s latest Vidu Q1 update: multi-reference video generation. Imagine keeping your characters, props, and backgrounds consistent across a whole sequence—not just a shot—using up to seven reference images. Vidu Q1’s Reference-to-Video workflow aims to crush the classic problems like disappearing hats and morphing hero products, letting creators lock in continuity and reduce time lost to patchwork fixes. We compare it with rivals like Runway, Pika, and Luma and explain how more references mean fewer weird wardrobe jumps or identity drift. Find out why this helps everyone from YouTube regulars to ad agencies, plus solo filmmakers tired of reshoots and cleanup. We cover new features like 'First-to-Last Frame' seamless transitions and API-powered automation for brands. Hear practical workflows for character scenes and branded product shots, plus vital tips for prepping references and matching lighting. We also flag limitations like over-rigid faces and ambiguous input images, explain pricing and availability, and dig into how the update fits the evolving battle for AI video control. Will this replace your whole toolkit? Not yet. But for continuity, Vidu Q1’s seven-ref system might be your secret weapon. Tune in for the meme send-off and practical advice you can use today.]]></description>
+    <pubDate>Mon, 08 Sep 2025 21:32:32 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250908171755570+-+vidu_q1_seven_refs_update.mp3" length="3828984" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1757367152301</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250908171755570+-+vidu_q1_seven_refs_update.jpg"/>
   </item>
 </channel>
 </rss>

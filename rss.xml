@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Mon, 08 Sep 2025 21:32:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 22:44:54 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -102,6 +102,15 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250908171755570+-+vidu_q1_seven_refs_update.mp3" length="3828984" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1757367152301</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250908171755570+-+vidu_q1_seven_refs_update.jpg"/>
+  </item>
+
+  <item>
+    <title>Apple vs Pixel: AI-Powered Phones Go Native</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, Zane and Pippa break down the seismic shift in mobile AI as Apple and Google roll out radical new features. Apple’s iPhone event showcased Apple Intelligence—a generative AI layer baked right into your device, with privacy at its core and slick workflow upgrades like Writing Tools and smarter Siri. Meanwhile, Google’s Pixel 9 drops Gemini everywhere: from voice summaries to Docs to fast image gen, all woven across Android and the cloud. We compare Apple’s privacy-first on-device AI with Google’s “AI mesh” that syncs across your digital life. Whether you’re a YouTuber, podcaster, designer, or writer, we dig into real creator use cases—like instant script rewrites, visual thumbnails, clean transcriptions, fast collaboration, and obsessive privacy controls. Which approach saves more time? What about battery life, data safety, and regional rollouts? Plus, we unpack what these moves mean for the whole app ecosystem, pro tools, and that growing subscription subtext around AI. Are you Team Continuity or Team Cloud Mesh? Tune in for the ultimate iPhone vs Pixel AI vibe check—because wherever you land, creators finally win as AI becomes the default layer, not just another app.]]></description>
+    <pubDate>Tue, 09 Sep 2025 22:44:54 GMT</pubDate>
+    <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250909182003491+-+apple_vs_pixel_ai.mp3" length="4323672" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1757457894366</guid>
+    <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250909182003491+-+apple_vs_pixel_ai.jpg"/>
   </item>
 </channel>
 </rss>

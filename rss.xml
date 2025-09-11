@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Tue, 09 Sep 2025 22:44:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 15:18:23 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -111,6 +111,21 @@
     <enclosure url="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/20250909182003491+-+apple_vs_pixel_ai.mp3" length="4323672" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1757457894366</guid>
     <itunes:image href="https://blue-lighting-podcast.s3.us-east-2.amazonaws.com/Image+20250909182003491+-+apple_vs_pixel_ai.jpg"/>
+  </item>
+
+  <item>
+    <title>Nvidia Rubin CPX: AI That Remembers Your Entire Movie</title>
+    <description><![CDATA[Ready for AI that never forgets—and keeps your edits in sync? Today we unpack Nvidia’s new Rubin CPX inference chip, built just for creative pros who need their AI to recall every beat of a scene or line of code. Rubin CPX is all about massive context windows: million-token, hour-scale workflows where generative tools never lose the thread.
+
+Zane and Pippa run through the hardware hype: 30 PFLOPs of power, 128 GB of rapid memory, and on-chip video encode and decode. The magic? Rubin CPX fuses media engines with transformer inference right on silicon, so long-form audio, video, dubbing, and code analysis all stay coherent—no more forgetting that intro gag or missing a key plot twist.
+
+Hear why data centers and creative tools are racing to adopt it, and what that means for YouTubers, podcasters, TikTokers, and filmmakers itching for continuous AI-powered workflows. Learn how “context lock” and “style sync” might finally work across your full project, not just short clips. Plus: We break down Nvidia’s bold revenue claims, rollout timeline, and how new workflows could replace tedious chunking and stitching for anyone creating hour-plus content.
+
+Get the scoop on specs, architecture, competitive landscape, and the practical impact for creators and studios. If you’re dreaming of AI that holds the whole story together, Rubin CPX is the tech to watch.]]></description>
+    <pubDate>Thu, 11 Sep 2025 15:18:23 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20250911093026288+-+nvidia_rubin_cpx_pod.mp3" length="5063496" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1757603903251</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20250911093026288+-+nvidia_rubin_cpx_pod.jpg"/>
   </item>
 </channel>
 </rss>

@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Thu, 11 Sep 2025 15:18:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 18:05:23 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -126,6 +126,15 @@ Get the scoop on specs, architecture, competitive landscape, and the practical i
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20250911093026288+-+nvidia_rubin_cpx_pod.mp3" length="5063496" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1757603903251</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20250911093026288+-+nvidia_rubin_cpx_pod.jpg"/>
+  </item>
+
+  <item>
+    <title>Synamedia’s All-In AI: Smarter Streams and Highlights</title>
+    <description><![CDATA[Today we break down Synamedia’s headline-grabbing AI rollout at IBC2025, which brings artificial intelligence to every corner of the streaming and broadcast workflow. From conversational search that lets you instantly find moments like "Messi’s third goal" to live tagging that auto-flags game highlights as they happen, this is a serious upgrade for anyone working with live or on demand video. Synamedia bakes in dynamic creative personalization, contextual ad intelligence, and even an AI video quality agent that tunes encoders on the fly—saving time, money, and network headaches. Quortex Switch debuts in Europe, promising standards-based multi-CDN switching with smarter, real-time routing decisions, while ContentArmor watermarking keeps content secure. We cover who benefits most (think broadcasters, sports streamers, rights holders, and pro creator teams), and why even small creators will feel the ripple effect as platforms get these upgrades. Plus, insights into the industry move toward open standards like OpenMOQ and Media over QUIC for better real-time streaming. If you care about clips, live highlights, quality, or smarter delivery, this episode unpacks the future of broadcast AI—beyond demos, these are workflow game-changers rolling out now.]]></description>
+    <pubDate>Thu, 11 Sep 2025 18:05:23 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20250911123526354+-+synamedia_ai_stack.mp3" length="4149456" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1757613923235</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20250911123526354+-+synamedia_ai_stack.jpg"/>
   </item>
 </channel>
 </rss>

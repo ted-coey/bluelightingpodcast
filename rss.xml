@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Thu, 11 Sep 2025 18:05:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 15:33:03 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -135,6 +135,15 @@ Get the scoop on specs, architecture, competitive landscape, and the practical i
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20250911123526354+-+synamedia_ai_stack.mp3" length="4149456" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1757613923235</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20250911123526354+-+synamedia_ai_stack.jpg"/>
+  </item>
+
+  <item>
+    <title>Seedream 4.0: 4K Image AI That Means Business</title>
+    <description><![CDATA[Ready for true 4K AI images in any dimension and workflow? Today Zane and Pippa break down Seedream 4.0 from ByteDance, the latest contender in the AI image generator world. Seedream 4.0 brings genuine 4K output, custom aspect ratios, and an API built for creators and teams who care about precision, speed, and scalable workflows. We dig into why the exact-pixel control is a game changer for YouTubers, brands, podcasters, and design studios that need reliable asset generation without pixel drama. With claims of being over ten times faster than the last version, plus cost-effective direct pricing at just $0.03 per image, Seedream is positioning itself as perfect for large campaigns and creators who need consistent, production-ready batches. We talk about hands and faces (yep, improved!), lighting coherence, and multi-image orchestrations that save precious hours of cleanup and cropping. We also size up Seedream 4.0 against rivals like Nano Banana, Midjourney, and Ideogram—unpacking ELO benchmarks, versatility, and why this tool feels less like a toy and more like a production engine. Pippa and Zane run through rapid-fire use cases, workflow wins, and practical money-saving tips. Whether you are a solo creative, content team, or developer wiring into Seedream’s batch API, this episode has the need-to-know on today’s fastest and sharpest generative art engine. Is it a must-have or just nice-to-have? Find out, plus learn where and how to get started.]]></description>
+    <pubDate>Sat, 13 Sep 2025 15:33:03 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20250913110529795+-+seedream_4_0_4k.mp3" length="3578040" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1757777583063</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20250913110529795+-+seedream_4_0_4k.jpg"/>
   </item>
 </channel>
 </rss>

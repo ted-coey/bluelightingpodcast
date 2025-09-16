@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sat, 13 Sep 2025 15:33:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 18:24:58 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -144,6 +144,15 @@ Get the scoop on specs, architecture, competitive landscape, and the practical i
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20250913110529795+-+seedream_4_0_4k.mp3" length="3578040" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1757777583063</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20250913110529795+-+seedream_4_0_4k.jpg"/>
+  </item>
+
+  <item>
+    <title>YouTube Drops Veo 3 Fast and Speech to Song for Shorts</title>
+    <description><![CDATA[YouTube is supercharging content creation with a trio of new AI features dropping right into Shorts: Veo 3 Fast for rapid prompt-to-video generation, Edit with AI for instant draft edits, and Speech to Song that morphs lines of dialogue into catchy musical hooks. On this episode, we break down how Veo 3 Fast lets you spin up 480p clips with audio in seconds, right from the Shorts camera or YouTube Create app. Edit with AI scans your raw footage, drafts a highlight reel, sequences edits, adds music, and even provides voice narration, all in a tap or two. We also dive into Speech to Song, powered by DeepMind’s Lyria 2, which lets creators turn spoken lines into shareable audio hooks complete with auto-attribution. Find out which creators benefit most, how YouTube’s integrated approach compares to TikTok and third-party tools like CapCut or Runway, and what it means for your posting workflow. Plus, updates on YouTube’s policies for AI content, watermarks, and deepfake protection, as well as rollout timing, limitations, and where these features are available first. Discover how these tools help brands, solo creators, podcasters, and even filmmakers rethink their process—saving hours and unlocking new ways to experiment and share ideas instantly on Shorts.]]></description>
+    <pubDate>Tue, 16 Sep 2025 18:24:58 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20250916141337713+-+youtube_veo_3_fast_ai.mp3" length="3402168" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1758047098824</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20250916141337713+-+youtube_veo_3_fast_ai.jpg"/>
   </item>
 </channel>
 </rss>

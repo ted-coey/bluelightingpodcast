@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Tue, 16 Sep 2025 18:24:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 18:15:03 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -153,6 +153,15 @@ Get the scoop on specs, architecture, competitive landscape, and the practical i
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20250916141337713+-+youtube_veo_3_fast_ai.mp3" length="3402168" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1758047098824</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20250916141337713+-+youtube_veo_3_fast_ai.jpg"/>
+  </item>
+
+  <item>
+    <title>ElevenLabs Studio 3.0: A Timeline Revolution for Creators</title>
+    <description><![CDATA[ElevenLabs Studio 3.0 is here and it is shaking up the game for podcasters, YouTubers, audiobook creators, and agencies. In this episode, we dive deep into everything new: true video support, seamless voiceovers and music beds, automatic multilingual captions, and the headline feature, Speech Correction—just edit your text and your own cloned voice matches right up, no more closet re-records. Now, creators can upload video, mix in narration, underscoring, and sound effects, all on a single browser-based timeline. It is designed to cut out app-hopping and let your creative process flow from scriptwriting to finished media in one place. We compare Studio 3.0 to Descript, CapCut, and Adobe, and unpack why ElevenLabs stands out with its elite text-to-speech technology and integrated music and SFX. Who benefits most from this upgrade? From solo TikTokers and podcast producers to agencies managing client feedback, Studio 3.0 speeds up workflows and simplifies feedback and revisions. Multilingual support is a sleeper hit, opening doors to new audiences without extra tools. We break down the pros, cons, and limitations, including free tier restrictions and browser performance. For anyone in voice-led media, Studio 3.0 might just replace half your current tool stack. Tune in for all the practical use cases, pricing tips, and the future of voice-first production.]]></description>
+    <pubDate>Wed, 17 Sep 2025 18:15:03 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20250917135710858+-+elevenlabs_studio_3.mp3" length="4261584" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1758132903023</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20250917135710858+-+elevenlabs_studio_3.jpg"/>
   </item>
 </channel>
 </rss>

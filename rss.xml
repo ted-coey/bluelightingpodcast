@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Wed, 17 Sep 2025 18:15:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 20:11:25 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -162,6 +162,21 @@ Get the scoop on specs, architecture, competitive landscape, and the practical i
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20250917135710858+-+elevenlabs_studio_3.mp3" length="4261584" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1758132903023</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20250917135710858+-+elevenlabs_studio_3.jpg"/>
+  </item>
+
+  <item>
+    <title>Zoom Drops Photoreal Avatars and Cross-Platform AI Notes</title>
+    <description><![CDATA[Zoom just shook up video meetings at Zoomtopia with AI Companion 3.0, launching November 2025 for paid Workplace users at no extra cost. The update packs a punch: photorealistic avatars that mimic your real expressions arrive in December, offering a polished on-camera presence for when you want to skip the makeup or hit a meeting without being camera-ready. More than just looking real, these avatars could change the culture of remote work—with norms around disclosure sure to follow.
+
+But the feature everyone’s buzzing about? AI Companion’s new cross-platform notes. Now, Zoom’s slick note-taking follows you not just in Zoom, but across Microsoft Teams and Google Meet too. That means automatic summaries, action items, and follow-ups no matter which platform you or your clients prefer, slashing busywork and context-switching for agencies, creators, educators, and podcasters alike.
+
+Zoom 3.0 ups the fidelity too: 60fps video meetings, 1080p and 4K sharing hit Zoom Rooms for smoother design reviews, crisper content walkthroughs, and vibrant classroom sessions. “Free up my time” agentic features debut as well, with proactive nudges to keep you focused and drop low-value calls, moving Zoom’s AI from passive notetaker to active meeting coordinator.
+
+The competition is fierce, with Microsoft, Google, and Cisco all dropping AI-powered meeting tools and avatars. But Zoom’s cross-platform notes and photoreal avatars are a bold play, aiming for both style and serious productivity gains. Expect companies to clarify policies on avatar use and watch how deep Zoom’s integration really goes—but if the rollout lives up to the hype, your next meeting might just star your digital twin and a smarter notetaker.]]></description>
+    <pubDate>Fri, 19 Sep 2025 20:11:25 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20250919160158448+-+zoom_ai_companion_3.mp3" length="3548136" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1758312685004</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20250919160158448+-+zoom_ai_companion_3.jpg"/>
   </item>
 </channel>
 </rss>

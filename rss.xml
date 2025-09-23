@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Tue, 23 Sep 2025 00:41:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 13:55:54 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -186,6 +186,15 @@ The competition is fierce, with Microsoft, Google, and Cisco all dropping AI-pow
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20250922195704275+-+lucy_edit_dev_hf.mp3" length="3556896" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1758588062872</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20250922195704275+-+lucy_edit_dev_hf.jpg"/>
+  </item>
+
+  <item>
+    <title>Qwen3-Omni: Real-Time Multimodal AI Goes Open Source</title>
+    <description><![CDATA[Can AI really respond in under a second and handle text, video, speech, and images—all at once? Meet Qwen3-Omni from Alibaba’s Qwen team. This open-source, Apache 2.0-licensed model combines multimodal understanding with real-time, streaming speech. Qwen3-Omni features a clever split: the Thinker does the smart perception, while the Talker delivers lightning-fast voice feedback, shrinking typical multi-tool workflows into one live loop. The big advantage? Sub-second response times reported as low as 211 milliseconds, open weights, and legal clarity for commercial use. Whether you’re a YouTuber wanting express captions, a podcaster making global episodes, or a developer building real-time agents, Qwen3-Omni drops speed and versatility where others gatekeep. It stands out from closed rivals like GPT-4o Realtime and Google’s Astra, and even edges out open options such as SeamlessM4T with less restrictive licensing. In today’s episode, discover how Qwen3-Omni can tighten creator workflows, sharpen media searches with OCR and Vision Q&A, and give you full control over data and deployment. We break down practical use cases—for video, podcasting, design, and even Twitch streams—and reality check the claims around speed and model size. If you’re building anything voice-interactive or content-smart, Qwen3-Omni’s all-in-one approach could change your pipeline and maybe even your budget.]]></description>
+    <pubDate>Tue, 23 Sep 2025 13:55:54 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20250923092902312+-+qwen3_omni_multimodal.mp3" length="3111696" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1758635754698</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20250923092902312+-+qwen3_omni_multimodal.jpg"/>
   </item>
 </channel>
 </rss>

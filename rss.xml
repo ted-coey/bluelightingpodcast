@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Fri, 19 Sep 2025 20:11:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 00:41:02 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -177,6 +177,15 @@ The competition is fierce, with Microsoft, Google, and Cisco all dropping AI-pow
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20250919160158448+-+zoom_ai_companion_3.mp3" length="3548136" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1758312685004</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20250919160158448+-+zoom_ai_companion_3.jpg"/>
+  </item>
+
+  <item>
+    <title>Lucy Edit Dev: AI Video Edits with One Command</title>
+    <description><![CDATA[Get ready for your fastest video edit yet. Today, Zane and Pippa break down Lucy Edit Dev from Decart AI—an open-weight, instruction-following video editor now on Hugging Face. Unlike text-to-video generators, Lucy Edit Dev lets you edit existing footage with natural language prompts: swap a kimono, replace a background, or turn a barista into an astronaut, all without painstaking masking. Powered by a VAE and Diffusion Transformer backbone in the tradition of Wan 2.2, Lucy Edit Dev keeps shot composition, motion, and timing stable while delivering precise instruction-driven edits. It is dev-focused, open for research and R and D, but under a non-commercial license, making it perfect for prototyping, benchmarking, or personal creative exploration. Find out why creators, marketers, designers, and researchers are excited about this new “do what I said” tool for efficient A B testing and visual experimentation. We cover setup needs, real-world uses, limitations like GPU compute, edge cases and license restrictions, plus how Lucy Edit Dev stacks up against Runway, Pika, Luma, and Adobe’s video AI tools. Whether you are tired of tedious rotoscoping or want to quickly generate multiple style options for your YouTube video, discover if Lucy Edit Dev unlocks a new layer of creative control and speed. Listen in for takeaways, practical tips, and the tagline memes you did not know you needed.]]></description>
+    <pubDate>Tue, 23 Sep 2025 00:41:02 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20250922195704275+-+lucy_edit_dev_hf.mp3" length="3556896" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1758588062872</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20250922195704275+-+lucy_edit_dev_hf.jpg"/>
   </item>
 </channel>
 </rss>

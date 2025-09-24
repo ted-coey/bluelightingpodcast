@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Tue, 23 Sep 2025 13:55:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 11:29:49 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -195,6 +195,15 @@ The competition is fierce, with Microsoft, Google, and Cisco all dropping AI-pow
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20250923092902312+-+qwen3_omni_multimodal.mp3" length="3111696" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1758635754698</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20250923092902312+-+qwen3_omni_multimodal.jpg"/>
+  </item>
+
+  <item>
+    <title>Suno v5: AI Music Goes Pro with Studio-Ready Sound</title>
+    <description><![CDATA[Blue Lightning AI takes you inside Suno v5, the latest AI music model delivering release-ready tracks with lifelike vocals, cleaner mixes, and tighter creative control. Explore how Suno v5 raises the bar on audio fidelity, arrangement, and prompt accuracy. Hear about its game-changing remaster feature, which lets you upgrade old tracks with faithful or adventurous new versions. Compare Suno to Udio and learn why v5 could streamline workflows for creators, podcasters, marketers, and musicians. Get the scoop on paid-only access, value calculation, and upcoming features hinted by Suno's WavTool acquisition. Discover real-world scenarios from TikTok hooks to pro client projects, plus a candid breakdown of current pros and cons. This is your fast guide to deciding if Suno v5 is the AI music upgrade you have been waiting for.]]></description>
+    <pubDate>Wed, 24 Sep 2025 11:29:49 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20250924062448156+-+suno_v5_music_upgrade.mp3" length="2924088" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1758713389659</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20250924062448156+-+suno_v5_music_upgrade.jpg"/>
   </item>
 </channel>
 </rss>

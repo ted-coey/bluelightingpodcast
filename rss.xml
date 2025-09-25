@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Wed, 24 Sep 2025 11:29:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 19:23:48 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -204,6 +204,15 @@ The competition is fierce, with Microsoft, Google, and Cisco all dropping AI-pow
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20250924062448156+-+suno_v5_music_upgrade.mp3" length="2924088" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1758713389659</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20250924062448156+-+suno_v5_music_upgrade.jpg"/>
+  </item>
+
+  <item>
+    <title>Kling AI 2.5 Turbo: No More Wobbly Shots</title>
+    <description><![CDATA[Kling AI just launched its 2.5 Turbo Video model and it is a true game changer for creators. Say goodbye to drifting camera shots and random style changes. This update brings tighter prompt fidelity, reduced jitter and flicker, and huge improvements in character and motion stability. Whether you produce ads, music visuals, or social campaigns, Kling 2.5 Turbo gives you cleaner frames and fewer do-overs for faster workflows. With aspect ratios for every platform, 30 fps, and up to 1080p on pro accounts, it fits vertical and widescreen projects alike. Costs are down by around 30 percent per shot over version 2.1, so you can experiment more without burning credits. Access it now in the Kling app or request the API if you want to automate your pipeline. Need steady shots for client work or music videos? The new model actually keeps hair color, backgrounds, and objects consistent between frames and scenes. Drag and drop your references for multi-angle consistency and enjoy smoother handoffs to post production. If you want tools that just work, Kling 2.5 Turbo moves AI video forward from flashy demos to reliable daily production. Bonus: the platform race with ByteDance, OpenAI, and Runway is heating up fast. For creators, that means smarter options, simpler workflows, and the ability to hit deadlines with less stress. Listen in for tips on getting the most out of the new version and why this update is all about fewer reshoots and more creativity.]]></description>
+    <pubDate>Thu, 25 Sep 2025 19:23:48 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20250925150959828+-+kling25_turbo_release.mp3" length="3898320" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1758828228323</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20250925150959828+-+kling25_turbo_release.jpg"/>
   </item>
 </channel>
 </rss>

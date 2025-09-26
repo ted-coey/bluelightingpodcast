@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Fri, 26 Sep 2025 10:06:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 20:09:40 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -222,6 +222,15 @@ The competition is fierce, with Microsoft, Google, and Cisco all dropping AI-pow
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20250926050818058+-+alibaba_wan_25_av_sync.mp3" length="3831816" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1758881185010</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20250926050818058+-+alibaba_wan_25_av_sync.jpg"/>
+  </item>
+
+  <item>
+    <title>Meta Vibes: AI Video Creation Goes Feed-Native</title>
+    <description><![CDATA[Today we break down Meta’s ambitious new feature: Vibes. This end-to-end AI video creation and publishing feed lets you prompt, remix, edit, and post bite-sized videos directly from the Meta AI app or web, blending creation and distribution in one seamless loop. Unlike other AI video tools that stop at exporting, Vibes lets you go live with a single tap and instantly push clips to Instagram or Facebook Stories and Reels. We compare Vibes to rivals like TikTok Symphony, YouTube Dream Screen, Runway, and Pika to see who’s best positioned for the coming age of AI-native short videos. We cover how remixing and trend chaining work inside Vibes, what the workflow means for creators and brands, and the pros and cons of this all-in-one approach. Will the feed surface hit trends, or just flood with filler content? How does built-in attribution, AI music, and cross-platform posting change the game for brands and hobbyists alike? What are the early risks, quality questions, and dealbreakers to watch? Tune in for a fast-paced, glitch-free (or maybe not) look at how Meta’s Vibes could change speed, style, and strategy for anyone chasing short-form video in 2025.]]></description>
+    <pubDate>Fri, 26 Sep 2025 20:09:40 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20250926153906971+-+meta_vibes_ai_feed.mp3" length="3654384" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1758917380091</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20250926153906971+-+meta_vibes_ai_feed.jpg"/>
   </item>
 </channel>
 </rss>

@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Thu, 25 Sep 2025 19:23:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 10:06:25 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -213,6 +213,15 @@ The competition is fierce, with Microsoft, Google, and Cisco all dropping AI-pow
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20250925150959828+-+kling25_turbo_release.mp3" length="3898320" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1758828228323</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20250925150959828+-+kling25_turbo_release.jpg"/>
+  </item>
+
+  <item>
+    <title>Alibaba Wan 2.5-Preview: All-in-One A/V AI Creation</title>
+    <description><![CDATA[Dive into Alibaba's Wan 2.5-Preview, the breakthrough model claiming the crown for unified multimodal generation. Zane and Pippa break down what makes this model unique: native support for text, images, video, and audio in perfect sync—no more bouncing between editing tools or struggling to line up sound to visuals. Hear how creators, marketers, and designers can generate beat-synced short videos, animated cover art, or flawlessly branded product shots all within a single model. Learn how real-time reference images, audio stems, and precise prompts allow advanced control over pacing, narration, SFX, and style. Compare Wan 2.5 to OpenAI’s Sora, Runway Gen-3, and Google’s Veo 3 as the crew discusses who wins in the new race for native audio-video generation. The episode covers how this API-first tool changes workflow efficiency, identity preservation, motion branding, and product visualization—plus practical limits, pricing, and region availability for creatives and teams. From TikTok and YouTube Shorts to next-level product videos, discover why Alibaba’s 'all-in-one A/V AI' might change how you generate and sync content forever.]]></description>
+    <pubDate>Fri, 26 Sep 2025 10:06:25 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20250926050818058+-+alibaba_wan_25_av_sync.mp3" length="3831816" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1758881185010</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20250926050818058+-+alibaba_wan_25_av_sync.jpg"/>
   </item>
 </channel>
 </rss>

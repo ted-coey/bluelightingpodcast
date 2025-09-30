@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Fri, 26 Sep 2025 20:09:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 19:52:12 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -231,6 +231,21 @@ The competition is fierce, with Microsoft, Google, and Cisco all dropping AI-pow
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20250926153906971+-+meta_vibes_ai_feed.mp3" length="3654384" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1758917380091</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20250926153906971+-+meta_vibes_ai_feed.jpg"/>
+  </item>
+
+  <item>
+    <title>Sora 2 Debuts: One-Take Audio and Video AI Magic</title>
+    <description><![CDATA[OpenAI’s Sora 2 has landed, launching as an invite-only iOS app and promising to reinvent short-form creation with synchronized audio and video in just one step. Today, Zane and Pippa break down what creators need to know: Sora 2 unifies visuals and sound, letting you generate flawless 10-second clips complete with music, dialogue, ambience, and effects all at once. Forget scrambling for soundtracks or wrangling multiple apps. Instead, TikTokers, YouTubers, marketers, and designers can whip up pro-feeling clips as fast as they can come up with prompts. 
+ 
+How does Sora 2 compare? Google’s Veo 3 offers similar features, but is aimed at enterprises through Vertex AI, while Alibaba's Wan 2.5-Preview puts open, customizable tools in your hands. Sora 2 is a creator-first experience with a built-in feed and algorithmic reach—think more social, less back-end integration. 
+ 
+Access is tightly controlled at launch: no API, strict moderation, and public-figure blocking, with short clips and a TikTok-style feed the early norm. If you’re a brand or agency needing hundreds of variants, Sora 2 is an experimental playground for now. For solo creators, it is an instant cheat code for cutting production time and impressing audiences. 
+ 
+Tune in for a speed-run of Sora 2’s strengths, trade-offs, policy guardrails, and what it means for the future of AI-powered content creation.]]></description>
+    <pubDate>Tue, 30 Sep 2025 19:52:12 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20250930151315097+-+sora2_unified_av_magic.mp3" length="4078944" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1759261932027</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20250930151315097+-+sora2_unified_av_magic.jpg"/>
   </item>
 </channel>
 </rss>

@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Tue, 30 Sep 2025 19:52:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 19:32:16 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -246,6 +246,15 @@ Tune in for a speed-run of Sora 2’s strengths, trade-offs, policy guardrails, 
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20250930151315097+-+sora2_unified_av_magic.mp3" length="4078944" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1759261932027</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20250930151315097+-+sora2_unified_av_magic.jpg"/>
+  </item>
+
+  <item>
+    <title>Claude Sonnet 4.5: AI That Actually Gets Work Done</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, we break down Anthropic's Claude Sonnet 4.5—an upgrade that is less about hype and more about major workflow wins for creators, marketers, podcasters, and anyone managing projects. Discover how Sonnet 4.5 is leading key benchmarks like OSWorld for computer use and SWE-bench Verified for real-world coding challenges. New features let the model autonomously run agent tasks for up to 30 hours, navigate apps and the web more smoothly, and recover work with new checkpoints and instant rollbacks. Hear how the Chrome extension, Agent SDK, and sharper task memory minimize context drift and grunt work for creators of all types—whether you are wrangling YouTube footage, updating podcast show notes, or managing design assets. We compare Sonnet 4.5 to GPT-5 and Gemini 2.5, explain pricing, and get real about where it shines or might stumble (hello, CAPTCHAs and flaky web UIs). If you want AI that does more than just “chat,” and actually moves your tasks forward, tune in for a rapid-fire tour of what’s new, what’s hype-free, and how Sonnet 4.5 could save hours from your week.]]></description>
+    <pubDate>Wed, 01 Oct 2025 19:32:16 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251001150339399+-+claude_sonnet_4_5_launch.mp3" length="4017960" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1759347136227</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251001150339399+-+claude_sonnet_4_5_launch.jpg"/>
   </item>
 </channel>
 </rss>

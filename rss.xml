@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Wed, 01 Oct 2025 19:32:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 01:38:44 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -255,6 +255,19 @@ Tune in for a speed-run of Sora 2’s strengths, trade-offs, policy guardrails, 
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251001150339399+-+claude_sonnet_4_5_launch.mp3" length="4017960" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1759347136227</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251001150339399+-+claude_sonnet_4_5_launch.jpg"/>
+  </item>
+
+  <item>
+    <title>Tencent Open-Sources HunyuanImage-3.0: Game On</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, Zane and Pippa dive into the groundbreaking release of HunyuanImage-3.0 from Tencent. This new text-to-image model is fully open-sourced—including weights and inference code—offering creators unparalleled control in visual generation. Unlike previous diffusion models like Stable Diffusion or FLUX, HunyuanImage-3.0 is natively multimodal, blending text and image reasoning into one fluid stream for improved composition and prompt fidelity.
+
+We break down how HunyuanImage-3.0’s 80-billion-parameter Mixture-of-Experts architecture delivers stable, on-brand visuals for both solo creators and large studios. The episode covers use cases from design agencies needing private deployments to YouTubers, filmmakers, podcasters, and TikTokers eager for consistent visual style. There are caveats: rendering perfect in-image text remains a challenge, hardware requirements are steep, and the license imposes limits—especially for those scaling projects or working in certain jurisdictions.
+
+Plus, hear how the Instruct variant promises fewer prompt revisions, why the open community will accelerate plugin and integration support, and what this means for competitors like Midjourney and DALL·E. Zane and Pippa give practical advice for running the model locally, explain the cost tradeoffs for creators, and share their editorial verdicts after hands-on testing. Whether you want creative freedom, on-prem compliance, or just to experiment with the next wave in open AI imagery, this episode unpacks everything you need to know about HunyuanImage-3.0.]]></description>
+    <pubDate>Fri, 03 Oct 2025 01:38:44 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251002211630679+-+tencent_hunyuanimage3.mp3" length="3505872" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1759455524084</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251002211630679+-+tencent_hunyuanimage3.jpg"/>
   </item>
 </channel>
 </rss>

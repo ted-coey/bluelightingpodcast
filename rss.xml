@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Fri, 03 Oct 2025 01:38:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 21:41:11 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -268,6 +268,15 @@ Plus, hear how the Instruct variant promises fewer prompt revisions, why the ope
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251002211630679+-+tencent_hunyuanimage3.mp3" length="3505872" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1759455524084</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251002211630679+-+tencent_hunyuanimage3.jpg"/>
+  </item>
+
+  <item>
+    <title>OpenAI DevDay 2025: Apps, Agents, Sora 2 &amp; GPT‑5 Pro</title>
+    <description><![CDATA[Dive into the biggest announcements from OpenAI’s DevDay 2025 with Zane and Pippa. We break down how ChatGPT is evolving from a single assistant into a true creative platform. Discover how new Apps in ChatGPT end constant tab-switching with one-stop creative tools, and how the Agents SDK gives teams auditable, policy-aware automation. Creators, coders, and marketers will all want the scoop on Sora 2’s next-gen video capabilities, the lightning-fast GPT-realtime-mini voice features, and the returns of the Codex code model family. We cover the strategic edge of deploying domain-specific AI in your workflow, what features to try first, new pricing clues, and crucial safety guardrails for brand-safe production. Compare OpenAI’s new offerings to Google Gemini, Anthropic, Runway Gen-3, Pika, and Adobe Firefly, and get practical ideas for YouTubers, podcasters, indie filmmakers, and design teams. If you want to work faster, automate smarter, and build with the latest AI from the ground up, don’t miss this rapid recap of Apps, Agents, Sora 2, GPT-image-1-mini, Realtime-mini, Codex, and the mighty GPT‑5 Pro.]]></description>
+    <pubDate>Mon, 06 Oct 2025 21:41:11 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251006165257756+-+openai_devday_2025_recap.mp3" length="5070096" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1759786871018</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251006165257756+-+openai_devday_2025_recap.jpg"/>
   </item>
 </channel>
 </rss>

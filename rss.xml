@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Mon, 06 Oct 2025 21:41:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 19:46:23 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -277,6 +277,19 @@ Plus, hear how the Instruct variant promises fewer prompt revisions, why the ope
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251006165257756+-+openai_devday_2025_recap.mp3" length="5070096" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1759786871018</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251006165257756+-+openai_devday_2025_recap.jpg"/>
+  </item>
+
+  <item>
+    <title>gpt-image-1-mini: The Creator’s Fast Lane for Cheap Visuals</title>
+    <description><![CDATA[OpenAI just dropped gpt-image-1-mini, and it is the new daily driver for creators who need images fast and on a budget. In this episode, Zane and Pippa break down mini’s biggest selling points: lightning-quick image generation, affordable API rates, and creator-friendly features like text-to-image, image-to-image, inpainting, and style guidance via reference images. With fixed resolution options and flexible quality tiers, this model is built to keep costs predictable while delivering enough polish for YouTubers, social teams, ecom, and indie filmmakers.
+
+We compare gpt-image-1-mini’s pricing to alternatives like Midjourney, Stable Diffusion, and Adobe Firefly. The verdict: gpt-image-1-mini is not your showpiece tool, but it is the MVP for bulk content, batch iterations, and last mile edits when “good enough” and “on time” are the goals. We walk through real-world workflows for batch thumbnails, ad variants, product mockups, and storyboard frames. The bottom line: you can test 100 ideas for just a few bucks, hang at a beginner level with simple prompts and masks, or tune things up with more advanced features if you are a pro.
+
+Hear about practical limitations, community experiments, and where mini fits in the new landscape of API-first, budget-forward image models. If you want a reliable, plug-and-play image generator for fast creative projects, mini could be your new favorite tool. Stay tuned for real use cases, honest takes, and fun analogies from the field.]]></description>
+    <pubDate>Wed, 08 Oct 2025 19:46:23 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251008145348464+-+gpt_image_1_mini_daily.mp3" length="3935856" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1759952783766</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251008145348464+-+gpt_image_1_mini_daily.jpg"/>
   </item>
 </channel>
 </rss>

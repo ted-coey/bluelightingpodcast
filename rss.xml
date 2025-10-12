@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Wed, 08 Oct 2025 19:46:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 22:58:44 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -290,6 +290,15 @@ Hear about practical limitations, community experiments, and where mini fits in 
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251008145348464+-+gpt_image_1_mini_daily.mp3" length="3935856" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1759952783766</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251008145348464+-+gpt_image_1_mini_daily.jpg"/>
+  </item>
+
+  <item>
+    <title>Sora 2 Joins Artlist: All-in-One Video Creation Powerup</title>
+    <description><![CDATA[Big news for creators: Sora 2 is now live inside Artlist, meaning instant access to high-fidelity AI video generation without chasing an OpenAI invite. This episode unpacks what makes the Artlist x Sora 2 launch a game changer for YouTubers, marketers, agencies and solo makers. Consolidate video gen, stock, SFX, voiceover, and licensed music under one roof. We break down how Artlist’s credits system works across different plans, and why bundling these tools means faster pitching, fewer legal headaches, and less tool-juggling. Hear which creators and teams will benefit most, plus how it stacks up against other platforms like Google Veo 3 with Flow, Runway, and Adobe’s ecosystem. We get into practical examples: from TikTok product drops to filmmaker pre-visualization and pitch frames—all with commercial licensing covered, no more rights-chasing marathons. Learn the trade-offs, dealbreakers, and who should keep an eye on feature updates. The future of creator-friendly, production-legal AI video is here, and Sora 2 in Artlist is setting a new bar.]]></description>
+    <pubDate>Sun, 12 Oct 2025 22:58:44 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251012162929884+-+sora2_artlist_creators.mp3" length="2891184" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1760309924463</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251012162929884+-+sora2_artlist_creators.jpg"/>
   </item>
 </channel>
 </rss>

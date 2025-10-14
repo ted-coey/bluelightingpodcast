@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Tue, 14 Oct 2025 01:40:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 23:05:31 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -308,6 +308,15 @@ Hear about practical limitations, community experiments, and where mini fits in 
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251013211613688+-+grok_imagine_multirender.mp3" length="3646392" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1760406048287</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251013211613688+-+grok_imagine_multirender.jpg"/>
+  </item>
+
+  <item>
+    <title>AI Video for a Nickel: Fal Launches $0.01/s Kandinsky-5</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, we dive into Fal.ai’s game-changing move: text-to-video creation with Kandinsky-5 starting at just one cent per second. That means five seconds for five cents—cheaper than your iced coffee! Hosts Zane and Pippa break down what this means for creators, from social teams to indie agencies and educators. With two variants—Distill for rapid, budget-friendly drafts and Standard for higher quality—Fal's offering is all about low-cost, high-iteration workflows at social-friendly resolutions. We compare Fal’s new pricing to competition like Sora 2 on Artlist and Runway, explaining the wild savings for creators who need to test ideas rapidly. Plus, we talk practical use cases: TikTok drafts, YouTube intros, pitch storyboards, animator mood reels, and even on-set previsualization. Learn about the limits, like resolution caps and working within short 5 or 10-second clips, and the transparency offered by AI Forever’s open model docs. Whether you’re a solo hustler or running a team, this episode explores how Fal and Kandinsky-5 make rapid AI video a daily habit instead of a special treat. From “idea confetti” to predicting a new draft aesthetic, we cover why this move just might reshape creative workflows for good.]]></description>
+    <pubDate>Tue, 14 Oct 2025 23:05:31 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251014180611746+-+fal_kandinsky5_nickel.mp3" length="4132080" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1760483131893</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251014180611746+-+fal_kandinsky5_nickel.jpg"/>
   </item>
 </channel>
 </rss>

@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sun, 12 Oct 2025 22:58:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 01:40:48 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -299,6 +299,15 @@ Hear about practical limitations, community experiments, and where mini fits in 
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251012162929884+-+sora2_artlist_creators.mp3" length="2891184" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1760309924463</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251012162929884+-+sora2_artlist_creators.jpg"/>
+  </item>
+
+  <item>
+    <title>Grok Imagine Turbocharges AI Video with Multi-Render</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, we dive into xAI’s Grok upgrades shaking up short-form video creation. The new Grok Imagine delivers parallel variants from a single prompt, speeding content creation for TikTokers, agencies, and YouTubers. The highly anticipated “Eve” voice gives a natural, human-like narration right in the app, reducing the need for third-party TTS tools. xAI’s push is toward lightning-fast draft-to-publish workflow: create synced six-second clips, batch test promo hooks, and never fuss with exporting audio again. We break down who benefits most from these upgrades, from solo creators to brand teams, and discuss the new “spicy” mode’s built-in moderation filters. Plus, learn how xAI’s “world models” tease could transform indie game development by 2026 and what Macrohard might mean for automated coding. Stay tuned for a full competitive landscape, pricing rundown, and why Grok’s mobile-first speed and built-in voice features set it apart from OpenAI’s Sora, Google’s Veo, and more. Our hosts explain how Grok Imagine’s speed and variety can reduce tool-hopping, increase creative throughput, and change the AI video game. Grab your coffee and join us as we cover the latest in creator-centric AI tools.]]></description>
+    <pubDate>Tue, 14 Oct 2025 01:40:48 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251013211613688+-+grok_imagine_multirender.mp3" length="3646392" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1760406048287</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251013211613688+-+grok_imagine_multirender.jpg"/>
   </item>
 </channel>
 </rss>

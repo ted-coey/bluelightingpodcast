@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Tue, 14 Oct 2025 23:05:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 18:14:46 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -317,6 +317,15 @@ Hear about practical limitations, community experiments, and where mini fits in 
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251014180611746+-+fal_kandinsky5_nickel.mp3" length="4132080" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1760483131893</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251014180611746+-+fal_kandinsky5_nickel.jpg"/>
+  </item>
+
+  <item>
+    <title>Google Veo 3.1: Native Vertical Video &amp; End-Frame Control</title>
+    <description><![CDATA[Today we break down Google Veo 3.1’s game-changing release for video creators in AI Studio and the Gemini API. The headline features: native vertical video (9:16 format) and powerful end-frame control, letting you call your final shot with precision. No more awkward reframes or patchwork edits—vertical is now the master format, streamlining workflows for Shorts, Reels, TikTok, stories, and brand campaigns. We compare Veo 3.1’s editorial upgrades and stability improvements to rivals like Sora 2, Runway, and Luma, highlighting who benefits most: social teams, indie founders, podcasters, designers, and anyone posting short-form video content. We cover how end-frame targeting, scene extension, and character reference images make multi-part stories and series workflows much smoother. If you are tired of wrestling with aspect ratios or losing identities across shots, Veo 3.1 means less manual clean-up and more creative control. Learn practical workflow tips, availability details, pricing guidance, and why this shift from ‘cool AI demo’ toward real production control matters. Discover what creators, brands, and editors can unlock today—and why the era of cropping is over. Pour one out for 2023’s cropped faces: with Veo 3.1, the future is vertical—and it’s in your hands.]]></description>
+    <pubDate>Wed, 15 Oct 2025 18:14:46 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251015135017530+-+google_veo_3_vertical.mp3" length="3612528" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1760552086430</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251015135017530+-+google_veo_3_vertical.jpg"/>
   </item>
 </channel>
 </rss>

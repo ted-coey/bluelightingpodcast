@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Wed, 15 Oct 2025 18:14:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 01:58:33 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -326,6 +326,15 @@ Hear about practical limitations, community experiments, and where mini fits in 
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251015135017530+-+google_veo_3_vertical.mp3" length="3612528" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1760552086430</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251015135017530+-+google_veo_3_vertical.jpg"/>
+  </item>
+
+  <item>
+    <title>ChatGPT Atlas: OpenAI Drops the AI Super Browser</title>
+    <description><![CDATA[OpenAI just launched ChatGPT Atlas, its first-ever web browser with ChatGPT built right in—no more clunky extensions or hopping between apps. Atlas debuts on macOS, with Windows, iOS, and Android on the way. What makes Atlas different? A page-aware sidebar that understands the content you’re viewing and a new Agent Mode, previewed for Plus, Pro, and Business users, lets you perform supervised multi-step actions like navigating sites, filling forms, and collecting info—all within one tab. Privacy advocates breathe easy: Browser Memories are off by default and never used for model training unless you opt in. Power users, creators, and everyday web surfers all get streamlined workflows, from building podcast scripts to designing mood boards or auto-generating captions. We break down how Atlas compares with Copilot in Edge, Arc Max, and the classic Chrome extensions, explore its impact on productivity, cover the guardrails for Agent Mode, and call out who stands to benefit most. If you’ve ever dreamed of your tabs pulling their own weight, it’s time to meet Atlas. Catch all the news, caveats, and meme-worthy scenarios in today’s Blue Lightning AI Daily recap.]]></description>
+    <pubDate>Thu, 23 Oct 2025 01:58:33 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251022214909899+-+chatgpt_atlas_browser.mp3" length="4297296" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1761184713725</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251022214909899+-+chatgpt_atlas_browser.jpg"/>
   </item>
 </channel>
 </rss>

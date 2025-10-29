@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Thu, 23 Oct 2025 01:58:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 02:08:53 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -335,6 +335,15 @@ Hear about practical limitations, community experiments, and where mini fits in 
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251022214909899+-+chatgpt_atlas_browser.mp3" length="4297296" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1761184713725</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251022214909899+-+chatgpt_atlas_browser.jpg"/>
+  </item>
+
+  <item>
+    <title>Adobe Firefly Goes Unlimited: Your R&amp;D Sprint Starts Now</title>
+    <description><![CDATA[It is a big day for creative workflows! Adobe has just launched unlimited image and video generations in Firefly and Creative Cloud Pro, but only until December 1. This exclusive window lets creators, designers, editors, and studios stretch their imagination without worrying about generative credits or monthly caps. Tap into Adobe’s latest Firefly Image Models, experiment with the upgraded Firefly Video Model, and access integrated partner models including Google’s Imagen and Veo directly in the Firefly web app. Instantly compare multiple looks and aesthetics side by side, then seamlessly transfer assets into Photoshop, Illustrator, Premiere Pro, or After Effects for polished results. Whether you are a solo artist, social media creator, small studio, or agency, this window gives you the chance to prototype, iterate, and stress-test your brand’s visual language at high speed and scale. Key features like Content Credentials ensure provenance on every output, supporting client trust and compliance. There are a few fine-print notes: unlimited generations are web app only, partner model regional access may vary, and after December 1, credits return. But for now, unleash your experiments and build a deep asset library. No extra fees for current Firefly or Creative Cloud Pro subscribers—and no watermark, just receipts for every comp. Listen for practical workflows, competitive comparisons, and why this shift signals a new era of model choice inside creative suites. The clock is ticking: will you use the unlimited moment to level up your content pipeline?]]></description>
+    <pubDate>Wed, 29 Oct 2025 02:08:53 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251028215254063+-+adobe_firefly_unlimited.mp3" length="3445032" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1761703733410</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251028215254063+-+adobe_firefly_unlimited.jpg"/>
   </item>
 </channel>
 </rss>

@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Wed, 29 Oct 2025 02:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 00:33:01 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -344,6 +344,15 @@ Hear about practical limitations, community experiments, and where mini fits in 
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251028215254063+-+adobe_firefly_unlimited.mp3" length="3445032" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1761703733410</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251028215254063+-+adobe_firefly_unlimited.jpg"/>
+  </item>
+
+  <item>
+    <title>Claude Haiku 4.5: Fast, Cheap, and Creator-Friendly AI</title>
+    <description><![CDATA[Happy Halloween and happy Friday! Today’s Blue Lightning AI Daily dives deep into Anthropic’s new lightweight model, Claude Haiku 4.5. This speedy AI delivers reliable, sub-second responses and comes in at just $1 per million input tokens and $5 for outputs. Designed for creators, developers, and studios who need rapid brainstorming, batch content variants, scripts, outlines, and micro-apps without burning a hole in the budget. We break down its impressive SWE-bench Verified score, wallet-friendly cost levers like prompt caching and batch APIs, plus real-world workflow impacts: creators can reclaim real time by skipping AI wait screens and only using bigger models for tough tasks. We also size up the competition in the fast-lane like Google Gemini Flash and OpenAI’s light models and explain how Haiku’s tight ecosystem with Claude.ai, Amazon Bedrock, and Google Cloud Vertex AI makes it easy for anyone from hobbyists to compliance-focused teams. Plus, we give a quick look at Alibaba’s Qwen3-Omni, a new multimodal model for voice, video, and hands-free workflows. If you create, prototype, or iterate on content fast, this episode will clue you in on why you’ll probably want Claude Haiku 4.5 in your workflow stack. Tune in to hear just how much time and money you can save with the speed-first AI revolution.]]></description>
+    <pubDate>Sat, 01 Nov 2025 00:33:01 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251031200951904+-+claude_haiku_45_fast_cheaper.mp3" length="3564288" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1761957181313</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251031200951904+-+claude_haiku_45_fast_cheaper.jpg"/>
   </item>
 </channel>
 </rss>

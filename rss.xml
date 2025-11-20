@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sat, 01 Nov 2025 00:33:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 17:02:06 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -353,6 +353,15 @@ Hear about practical limitations, community experiments, and where mini fits in 
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251031200951904+-+claude_haiku_45_fast_cheaper.mp3" length="3564288" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1761957181313</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251031200951904+-+claude_haiku_45_fast_cheaper.jpg"/>
+  </item>
+
+  <item>
+    <title>Google Nano Banana Pro: No More Melty Poster Text</title>
+    <description><![CDATA[Google DeepMind just launched Nano Banana Pro, its highest-fidelity image generation and editing model yet—and the name is just the start of the fun. In this episode, Zane and Pippa break down why this release matters: reliably readable text in images, deeper creative control over lighting and composition, and easy, model-driven edits. Creators can finally make posters, packaging comps, thumbnails, and banners with crisp, professional typography that does not morph into gibberish. The rollout spans the Gemini app for everyday users and enterprise access via Gemini API, Google AI Studio, and Vertex AI—plus Adobe is bringing Nano Banana Pro into Firefly and Photoshop for direct use in pro workflows. We discuss SynthID watermarking for provenance, tips for strong, creative prompts, and how this model’s improvements can save hours per project. Whether you’re a solo creator or a whole design team, learn how Nano Banana Pro could reshape your daily workflow. We also cover how it stacks up to Midjourney, Ideogram, and Stable Diffusion on text and composition, its limitations like watermarking and small text handling, and pro tips on getting predictable results. Meme moment: “Your poster text… finally readable.”]]></description>
+    <pubDate>Thu, 20 Nov 2025 17:02:06 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251120113031799+-+nano_banana_pro_text.mp3" length="4302216" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1763658126195</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251120113031799+-+nano_banana_pro_text.jpg"/>
   </item>
 </channel>
 </rss>

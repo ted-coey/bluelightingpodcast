@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Thu, 20 Nov 2025 17:02:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 17:14:28 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -362,6 +362,15 @@ Hear about practical limitations, community experiments, and where mini fits in 
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20251120113031799+-+nano_banana_pro_text.mp3" length="4302216" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1763658126195</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20251120113031799+-+nano_banana_pro_text.jpg"/>
+  </item>
+
+  <item>
+    <title>Adobe Firefly’s Prompt to Edit Will Save Your Videos</title>
+    <description><![CDATA[Ever wished you could zap away a neon shirt photo-bomber or make a background sign disappear without hours of tedious editing? Adobe Firefly Video’s new Prompt to Edit feature is here to grant your most annoying video wishes and it just dropped in public beta. In today’s episode, Hunter and Riley break down how Prompt to Edit lets creators make detailed changes to existing footage using only text instructions. Is it actual magic? Almost: type what you want changed, get clip variations, and iterate—no need for reshoots or suffering through endless hours of masks and roto. We look at what edits this tool is actually built for, like removing objects, swapping backgrounds, changing the mood with lighting tweaks, and even replacing prop colors. It is a massive relief for YouTubers, agencies, TikTokers, and anyone stuck making tiny but critical revisions to video projects. But there are catches. Video editing is still trickier than images, with possible warping or fuzzy results—especially if you love wild handheld shots. Hunter and Riley dish honest advice: start with clear, simple footage and keep prompts specific. Plus, why Firefly’s new multi-model power, including a Runway Gen-4.5 partnership, points to an all-in-one workflow future—so creators can stop juggling tool tabs and actually get paid for creativity, not misery. We also go behind the scenes at CES to meet the opera-singing AI panda, unpack what it means for creators when AI models misrepresent their abilities, and laugh about X’s Community Notes fact-checking literal jokes. The AI world is wild, but Prompt to Edit is raising the bar for making deliverables easier, faster, and way less soul-crushing. Tune in for practical tips and a few hilarious AI meltdowns along the way.]]></description>
+    <pubDate>Fri, 09 Jan 2026 17:14:28 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260109110043135+-+firefly_prompt_to_edit.mp3" length="3346632" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1767978868841</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260109110043135+-+firefly_prompt_to_edit.jpg"/>
   </item>
 </channel>
 </rss>

@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Fri, 09 Jan 2026 17:14:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 17:50:32 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -371,6 +371,15 @@ Hear about practical limitations, community experiments, and where mini fits in 
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260109110043135+-+firefly_prompt_to_edit.mp3" length="3346632" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1767978868841</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260109110043135+-+firefly_prompt_to_edit.jpg"/>
+  </item>
+
+  <item>
+    <title>LTX-2: Open AI Video Meets Sync Audio Game-Changer</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, we dig into Lightricks’ headline drop: the open-source release of LTX-2. Why is everyone buzzing? LTX-2 does what AI video has rarely managed—generates video with native, time-synced audio. That means drafts look and sound closer to the real thing, with music, ambience, dialogue, and effects synced right to the visuals. Hunter and Riley break down why this is a massive upgrade for creators and teams, replacing silent previews and janky temp tracks with instant rough cuts that feel alive. Even better, LTX-2 is open weights and local-first, so agencies and brands can control privacy, cost, and workflow from day one—no cloud uploads required. But with power comes new challenges, from technical setup (hello GPU troubleshooting) to style drift, IP management, and the need for an actual AI style guide. Audio quality is impressive but not flawless, especially in complex scenes. The pair explore what creators can expect, how LTX-2 shifts the bottleneck in production, and why client expectations are about to get even trickier. Also, in a quickfire CES round-up: hologram buddies, AI lollipops, sassy fridges, dancing robot dogs, and smart LEGO—proving that sometimes the least weird AI news is the most useful. If you care about streamlined creative workflows, privacy, and moving beyond “fixing it in post,” this episode is for you.]]></description>
+    <pubDate>Sat, 10 Jan 2026 17:50:32 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260110122249942+-+ltx2_video_audio_sync.mp3" length="3483264" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1768067432669</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260110122249942+-+ltx2_video_audio_sync.jpg"/>
   </item>
 </channel>
 </rss>

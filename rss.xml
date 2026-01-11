@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sat, 10 Jan 2026 17:50:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 17:47:29 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -380,6 +380,15 @@ Hear about practical limitations, community experiments, and where mini fits in 
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260110122249942+-+ltx2_video_audio_sync.mp3" length="3483264" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1768067432669</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260110122249942+-+ltx2_video_audio_sync.jpg"/>
+  </item>
+
+  <item>
+    <title>AI Wants Your Decks: PowerPoint Autocomplete Arrives</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, Hunter and Riley break down OpenAI's bold next phase: asking contractors to upload real workplace deliverables like PowerPoint decks, spreadsheets, and code repos. Why does this matter? It's not just about more data; it's about better data. Training AI on actual business artifacts could mean generative agents that deliver finished, client-ready work in native file formats, not just essays or blog posts. But with opportunity comes risk: can humans really sanitize sensitive corporate data before uploading? Is removing a logo enough when the real secrets are in the structure and presentation? The hosts explore the line between useful AI assistants and dangerous corporate oversharing, plus shoutouts to “Superstar Scrubbing,” a privacy tool that's as fun to say as it is controversial to trust. Meanwhile, new releases like Lightricks’ LTX-2 and Adobe Firefly hint at an industry shift from simple generation to true completion, where AI delivers outputs that actually play, edit, and present. Falcon H1R-7B’s long context capabilities show why this change matters for creators whose real work lives in massive, messy stacks of brand guidelines and feedback. The episode closes with practical tips for creators and marketers: structure your briefs, safeguard your data, and keep humans in the loop. All this and more, with far fewer vibe checks than your average spreadsheet.]]></description>
+    <pubDate>Sun, 11 Jan 2026 17:47:29 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260111122147825+-+ai_wants_your_decks.mp3" length="2822208" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1768153649558</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260111122147825+-+ai_wants_your_decks.jpg"/>
   </item>
 </channel>
 </rss>

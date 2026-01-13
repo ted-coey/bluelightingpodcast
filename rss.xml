@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sun, 11 Jan 2026 17:47:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 18:37:45 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -389,6 +389,21 @@ Hear about practical limitations, community experiments, and where mini fits in 
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260111122147825+-+ai_wants_your_decks.mp3" length="2822208" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1768153649558</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260111122147825+-+ai_wants_your_decks.jpg"/>
+  </item>
+
+  <item>
+    <title>Adobe Firefly Adds GPT Image 1.5: Smarter Text, Smoother Workflow</title>
+    <description><![CDATA[Today on Blue Lightning Daily, Hunter and Riley unravel Adobe Firefly’s bold move to integrate OpenAI’s GPT Image 1.5 as a partner model. This update means you can now tap into OpenAI’s powerful image generation, right inside Firefly—no more bouncing between apps or wrestling with file chaos like 'final_final_FORREAL.psd.'
+
+We break down how this shift transforms Firefly into a true creative cockpit, letting you pick the best AI engine for each stage of a project. If you’ve ever groaned at AI-generated text that looked like it was created by a haunted typewriter, brace yourself: GPT Image 1.5 promises legible, prompt-following, brand-ready typography. This episode is packed with practical tips for creators and marketing teams, from nailing those approval-ready comps to knowing when to reach for Adobe’s native model versus OpenAI’s for pixel-perfect results.
+
+We get real about model literacy, discuss how workflows are evolving towards fewer handoffs and more reliable drafts, and debate whether AI finally spelling things right will end the era of funny, cursed text memes. Plus: a look at Adobe’s strategic play to own the creative workflow, creator challenges for this week, and why getting from brief to deliverable has never been smoother—or funnier.
+
+Tune in for tips, snark, and the latest in AI tools that make Monday easier—not just more impressive.]]></description>
+    <pubDate>Tue, 13 Jan 2026 18:37:45 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260113122337463+-+adobe_firefly_gpt_image.mp3" length="3356400" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1768329465643</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260113122337463+-+adobe_firefly_gpt_image.jpg"/>
   </item>
 </channel>
 </rss>

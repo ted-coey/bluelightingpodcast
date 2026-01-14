@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Tue, 13 Jan 2026 18:37:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 18:00:18 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -404,6 +404,15 @@ Tune in for tips, snark, and the latest in AI tools that make Monday easier—no
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260113122337463+-+adobe_firefly_gpt_image.mp3" length="3356400" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1768329465643</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260113122337463+-+adobe_firefly_gpt_image.jpg"/>
+  </item>
+
+  <item>
+    <title>Google Veo 3.1: Native Vertical AI Video Arrives</title>
+    <description><![CDATA[Goodbye to awkward crops and hello to native vertical AI video! In today’s Blue Lightning Daily, Hunter and Riley break down the arrival of Google Veo 3.1, the upgrade that finally treats vertical video like a first-class citizen. The hosts explain why true 9 by 16 output is more than a new aspect ratio: it is the difference between endless post-production tweaks and actually hitting shipping deadlines. They walk through Veo 3.1’s new features, including upscaling, reference image support, first and last frame controls for pro editing, and stronger consistency. Find out why cropping is chaos for marketing teams, how AI’s “cousin swap” phenomenon hurts brand storytelling, and why controls for art direction matter for both agencies and solo creators. Plus, hear how watermarking and provenance fit into AI video’s future, and why every workflow needs to plan for those odd AI-generated hands. If your team creates social video at scale, you will not want to miss this episode. Learn what Veo 3.1 really means for creativity, automation, and your next viral ad.]]></description>
+    <pubDate>Wed, 14 Jan 2026 18:00:18 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260114122346058+-+google_veo_31_vertical.mp3" length="4207944" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1768413618289</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260114122346058+-+google_veo_31_vertical.jpg"/>
   </item>
 </channel>
 </rss>

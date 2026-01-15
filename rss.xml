@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Wed, 14 Jan 2026 18:00:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 18:27:53 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -413,6 +413,15 @@ Tune in for tips, snark, and the latest in AI tools that make Monday easier—no
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260114122346058+-+google_veo_31_vertical.mp3" length="4207944" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1768413618289</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260114122346058+-+google_veo_31_vertical.jpg"/>
+  </item>
+
+  <item>
+    <title>Adobe Firefly: From Clip Generator to Real Video Editor</title>
+    <description><![CDATA[Is Adobe Firefly’s video editor beta quietly morphing into a serious, browser-based editing hub? Today, Riley and Hunter dive into Firefly’s new multi-track timeline, transcript-based editing, and integrated Generation History. No more exporting sad demo clips and bouncing files between downloads and mysterious folders. Now, creators can actually assemble, review, and iterate—all in-browser. The hosts discuss why transcript editing feels game-changing for rough cuts (but not always for legal review), how multi-track timelines turn Firefly from a toy into a workflow tool, and how Generation History saves your best takes from chaos. Plus, they debate the rise of template culture—is this the Canva-fication of video—and why Adobe’s core play seems less about winning the model race and more about controlling the workspace where creators get work done. You’ll also hear how these new tools supercharge fast review cycles and compress the dreaded early edit loop, but why a solid internet connection—and a final human pass—are still essential. If you’ve ever lost a file named final_final_FORREAL, this one’s for you. Tune in for a fun, practical take on Firefly’s evolution and the direction of browser-based creative AI.]]></description>
+    <pubDate>Thu, 15 Jan 2026 18:27:53 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260115122639007+-+adobe_firefly_video_ep.mp3" length="3942192" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1768501673046</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260115122639007+-+adobe_firefly_video_ep.jpg"/>
   </item>
 </channel>
 </rss>

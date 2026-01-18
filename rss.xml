@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Thu, 15 Jan 2026 18:27:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 18:25:19 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -422,6 +422,15 @@ Tune in for tips, snark, and the latest in AI tools that make Monday easier—no
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260115122639007+-+adobe_firefly_video_ep.mp3" length="3942192" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1768501673046</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260115122639007+-+adobe_firefly_video_ep.jpg"/>
+  </item>
+
+  <item>
+    <title>GLM-Image: The AI That Typesets Without Tears</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, creators and marketers finally get the feature they've been begging for: true marketing-grade AI-generated visuals with readable, usable text. Zhipu AI has open-sourced GLM-Image—a major leap in image generation models that can handle actual poster headlines, sharp product shots, and those tricky little disclaimers without turning your copy into a cryptic alphabet soup. We dive into why typography is so tough for AI, how GLM-Image claims to solve it, and why open weights matter for creative teams needing control, repeatability, and privacy. Plus, we walk through the first-hour sniff test every creator should use: can GLM-Image nail a YouTube thumbnail, promo ad, and full event poster with all the details? Hear why the model architecture lets it plan layouts and render clean text, what the open-source angle really means for workflows, and where brand consistency is still the ultimate challenge. Along the way, we break down how the AI ecosystem is racing from fun demos to real production tools—across Sora 2’s video and Adobe’s workflow moves. And, as always, a look at the chaos and charisma of modern AI: delivery robots versus trains, trendy TikTok dramas, and why every new model should be tested like an overconfident intern. Get hands-on advice, spicy takes, and a practical playbook for running GLM-Image through its paces. Join us for a fast, fun hit of what matters in generative AI visuals right now.]]></description>
+    <pubDate>Sun, 18 Jan 2026 18:25:19 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260118122413034+-+glm_image_typography.mp3" length="3804072" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1768760719265</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260118122413034+-+glm_image_typography.jpg"/>
   </item>
 </channel>
 </rss>

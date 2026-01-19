@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sun, 18 Jan 2026 18:25:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 21:30:30 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -431,6 +431,15 @@ Tune in for tips, snark, and the latest in AI tools that make Monday easier—no
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260118122413034+-+glm_image_typography.mp3" length="3804072" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1768760719265</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260118122413034+-+glm_image_typography.jpg"/>
+  </item>
+
+  <item>
+    <title>ChatGPT Sponsored Messages and the New Go Tier Explained</title>
+    <description><![CDATA[OpenAI is transforming ChatGPT from a simple assistant into a fully-fledged discovery platform—and things just got even more interesting. This episode dives into the debut of sponsored messages inside ChatGPT and the announcement of ChatGPT Go, an $8 monthly plan that offers more usage and features, but still includes ads. Hosts Hunter and Riley unpack why this middle tier is getting attention, and how the line between user assistance and advertising is becoming blurrier. How do sponsored messages really shape user behavior, and what does this mean for trust in the AI you talk to every day? Creators get unique insights on adapting their products for the new era of ChatGPT-centric workflows: why templates, custom GPTs, and plug-and-play prompt packs are becoming the new gold standard, and how to position yourself for organic discovery in an AI platform that’s suddenly full of ads. Plus, a lightning roundup of other AI ecosystem updates: Sora 2, PixVerse R1, Adobe Firefly’s web video editor, and GLM-Image’s open-source leap. If you’re building for, selling in, or just curious about where the AI internet is headed, this episode will get you up to speed—and arm you with a few strong opinions on the future of sponsored discovery.]]></description>
+    <pubDate>Mon, 19 Jan 2026 21:30:30 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260119122129927+-+chatgpt_go_sponsored.mp3" length="3379704" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1768858230907</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260119122129927+-+chatgpt_go_sponsored.jpg"/>
   </item>
 </channel>
 </rss>

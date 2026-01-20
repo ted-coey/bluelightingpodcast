@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Mon, 19 Jan 2026 21:30:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 22:01:35 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -440,6 +440,15 @@ Tune in for tips, snark, and the latest in AI tools that make Monday easier—no
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260119122129927+-+chatgpt_go_sponsored.mp3" length="3379704" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1768858230907</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260119122129927+-+chatgpt_go_sponsored.jpg"/>
+  </item>
+
+  <item>
+    <title>Sora 2: AI Video Gets a Social Remix</title>
+    <description><![CDATA[OpenAI just dropped Sora 2, and it's not just about better text-to-video AI. Imagine TikTok, but every clip is generated and remixable at lightning speed. In this episode, Hunter and Riley explore how Sora 2 packages creation, discovery, and audience into one addictive app. Swipeable feeds, instant remixing, and identity 'Cameos' let you cast yourself or friends directly into scenes. What does this mean for creators? Less time spent writing prompts, more time shipping variations. It is fast, fun, and a little brain-melting. But who actually owns the audience—creators, or OpenAI’s algorithmic feed? And what happens to originality when remixing is the default? Plus, the team unpacks the new risks: deepfakes, trend sameness, and the creative trap of letting the feed set all your ideas. Cameos make identity casting easy, but require strong guardrails for brands and transparency around 'synthetic authenticity.' The story connects with the broader AI video landscape too, including PixVerse’s new real-time world mode and GLM-Image’s open-source boost in design skills. Bottom line: Sora 2 is workflow-native and all about speed, but humans still need to guide strategy, review, and keep things fresh. Tune in for a creator-first perspective on the shifting balance between AI automation and human taste–and how to keep your content from turning into soup.]]></description>
+    <pubDate>Tue, 20 Jan 2026 22:01:35 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260120122556999+-+sora_2_ai_goes_social.mp3" length="3251256" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1768946495726</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260120122556999+-+sora_2_ai_goes_social.jpg"/>
   </item>
 </channel>
 </rss>

@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Tue, 20 Jan 2026 22:01:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 22:09:05 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -449,6 +449,15 @@ Tune in for tips, snark, and the latest in AI tools that make Monday easier—no
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260120122556999+-+sora_2_ai_goes_social.mp3" length="3251256" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1768946495726</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260120122556999+-+sora_2_ai_goes_social.jpg"/>
+  </item>
+
+  <item>
+    <title>Adobe Premiere Pro 26: Object Mask and the End of Rotoscoping?</title>
+    <description><![CDATA[Adobe just dropped Premiere Pro 26 and the star is Object Mask, a new AI-powered tool promising to make rotoscoping a thing of the past. In this episode, Hunter and Riley break down exactly how Object Mask can save editors from frame-by-frame drudgery by tracking people or objects with a click. We unpack the difference between local on-device AI masking and cloud-dependent Firefly generation, plus the real-world masking pain points like hair, motion blur, and those moments where the mask picks Dua Lipa's face from the background instead of your subject. The episode also tackles workflow hacks for combining Object Mask with new shape tools, how to survive the flood of client micro-edits, and why the tighter Frame.io panel could prevent version-control madness. We compare the “start with footage” approach of Premiere against the wild generative discovery sweeping tools like Sora 2, and discuss what Adobe needs to get right so creators do not jump ship for faster or cheaper alternatives. If you are a volume editor working on social, UGC, or marketing content, this is the time to try Object Mask on your real-world edits. Find out why the most valuable upgrade might be not just speed, but consistency and sanity for teams of every size.]]></description>
+    <pubDate>Wed, 21 Jan 2026 22:09:05 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260121122228719+-+premiere_26_object_mask.mp3" length="3796344" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1769033345700</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260121122228719+-+premiere_26_object_mask.jpg"/>
   </item>
 </channel>
 </rss>

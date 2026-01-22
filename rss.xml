@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Wed, 21 Jan 2026 22:09:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 18:25:58 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -458,6 +458,15 @@ Tune in for tips, snark, and the latest in AI tools that make Monday easier—no
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260121122228719+-+premiere_26_object_mask.mp3" length="3796344" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1769033345700</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260121122228719+-+premiere_26_object_mask.jpg"/>
+  </item>
+
+  <item>
+    <title>Adobe Firefly: AI Fixes Timelines and Fakes Reality</title>
+    <description><![CDATA[Today on Blue Lightning Daily, we dive deep into Adobe's latest push to make AI an essential editing tool right inside Premiere Pro and After Effects. Discover why the new Generative Extend feature is less about sci-fi magic and more about saving editors from tedious micro-edits. Is this the end of endless padding and awkward transitions or the dawn of infinite client revisions? We debate whether AI-powered edits could quietly alter meaning and what creators and brands should watch out for in the age of time-bending tools. Plus, learn how Object Mask aims to turn the pain of subject isolation into a one-click breeze, and how After Effects upgrades like native 3D parametric shapes and SVG import are boosting designers. We cover real workflow wins, new ethical puzzles, the impact for solo creators versus teams, and what you should know about cloud versus local AI. If you care about video, marketing, or creative tech, this episode distills what matters most, what to try, and what to watch out for. Tune in for practical advice, internet memes, and the AI-assisted editing revolution in real time.]]></description>
+    <pubDate>Thu, 22 Jan 2026 18:25:58 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260122122802530+-+adobe_firefly_timeline.mp3" length="3725256" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1769106358757</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260122122802530+-+adobe_firefly_timeline.jpg"/>
   </item>
 </channel>
 </rss>

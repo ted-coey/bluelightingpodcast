@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Thu, 22 Jan 2026 18:25:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 17:50:24 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -467,6 +467,15 @@ Tune in for tips, snark, and the latest in AI tools that make Monday easier—no
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260122122802530+-+adobe_firefly_timeline.mp3" length="3725256" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1769106358757</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260122122802530+-+adobe_firefly_timeline.jpg"/>
+  </item>
+
+  <item>
+    <title>Adobe Firefly Foundry: AI Goes Corporate</title>
+    <description><![CDATA[Adobe just launched Firefly Foundry and it is changing how generative AI works inside big creative teams. Instead of just making cool images, Foundry gives brands and agencies a way to create custom AI models trained on their own approved assets. That means every creative, campaign, or client can have their own model with guardrails on brand, IP, and security. This episode breaks down why Foundry matters for anyone struggling with brand guidelines, endless edits, and legal reviews. We talk about why paperwork is now a feature, how governance and audit trails make AI production-safe, and why Creative Cloud integration is key for adoption. We also tackle open questions: Can these models fix office politics and subjective feedback? Will enterprises finally use AI for real projects? Is the “on-brand” dream even possible if nobody agrees what on-brand means? Plus, we look at what this means for agencies juggling multiple clients, and for creators who need to balance speed with risk. We also touch on the week’s other big AI news: OpenAI testing sponsored messages in ChatGPT and what happens when your brainstorming chat starts serving you ads. Tune in for the most relatable, funny, and practical take on where AI for teams is heading next—and how to avoid disasters with smarter pipelines.]]></description>
+    <pubDate>Fri, 23 Jan 2026 17:50:24 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260123122443763+-+adobe_firefly_foundry.mp3" length="3515544" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1769190624772</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260123122443763+-+adobe_firefly_foundry.jpg"/>
   </item>
 </channel>
 </rss>

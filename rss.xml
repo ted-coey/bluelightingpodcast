@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Fri, 23 Jan 2026 17:50:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 17:57:19 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -476,6 +476,15 @@ Tune in for tips, snark, and the latest in AI tools that make Monday easier—no
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260123122443763+-+adobe_firefly_foundry.mp3" length="3515544" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1769190624772</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260123122443763+-+adobe_firefly_foundry.jpg"/>
+  </item>
+
+  <item>
+    <title>OpenAI Atlas: Tab Groups and Auto Mode Save Your Sanity</title>
+    <description><![CDATA[Join Hunter and Riley for a deep dive into OpenAI’s latest ChatGPT Atlas update for macOS. It’s not about smarter AI models, but about making your research workflow a lot more manageable. Atlas now introduces Tab Groups, an Auto search mode that chooses between ChatGPT responses and Google results, and a revamped results layout—all designed to help creators keep research organized, context-rich, and fast-paced. The hosts break down how Atlas tackles tab overload, what smart tab grouping can do for your creative or editorial process, and why Auto mode’s helpful intern energy is a boost (with some caveats). Expect smart tips for managing creative chaos, a look at how Adobe is making Firefly Foundry part of the everyday workflow, and a discussion on how AI tools are becoming the backbone of real production. Whether you routinely hoard tabs or need strategies to keep your sources and inspiration separate, this episode is full of hands-on advice, thoughtful warnings about treating AI as your only source, and a peek at the shifting role of the browser in modern content creation. It’s the episode every research-inclined multitasker needs.]]></description>
+    <pubDate>Sat, 24 Jan 2026 17:57:19 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260124122129389+-+atlas_tab_groups_auto.mp3" length="2996184" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1769277439189</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260124122129389+-+atlas_tab_groups_auto.jpg"/>
   </item>
 </channel>
 </rss>

@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sat, 24 Jan 2026 17:57:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 18:34:30 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -485,6 +485,21 @@ Tune in for tips, snark, and the latest in AI tools that make Monday easier—no
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260124122129389+-+atlas_tab_groups_auto.mp3" length="2996184" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1769277439189</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260124122129389+-+atlas_tab_groups_auto.jpg"/>
+  </item>
+
+  <item>
+    <title>Runway Gen-4.5 Makes AI Video Consistent</title>
+    <description><![CDATA[Today on Blue Lightning Daily, Hunter and Riley dive into Runway’s Gen-4.5 and what it really means for creators. Forget trippy demos and melting faces. This new launch promises actual consistency in image-to-video, so creators can finally count on stable characters, steady backgrounds, and less “tweak detonation” when making adjustments. No more shape-shifting wardrobes and elastic hands. Gen-4.5 is not about making full movies but giving you reliable shots that you can actually use and stitch together. 
+
+The other game-changer? Gen-4.5 is now integrated with Adobe Firefly. That means creators and whole teams can generate, concept, and edit within their familiar Adobe workflow, moving seamless from stills to full edits in Premiere Pro and After Effects, cutting down chaos and file confusion.
+
+But the pros and cons are real. The Adobe Firefly rollout is capped at 720p and 10-second clips so you cannot go wild with feature-length films yet. Still, these boundaries help focus on what AI video does best right now: short, editable shots that speed up creative workflows. The real challenge becomes picking the best clips and making creative decisions, not just asking the AI for “one more version.”
+
+Plus, Hunter and Riley talk about the wider push for workflow integration across platforms, the importance of keeping AI outputs verifiable, and why safety and context labeling are a must as automation settles into creative pipelines. From practical wins to the cautionary chaos of over-trusting AI, this episode covers the state of real-world video creation in 2026.]]></description>
+    <pubDate>Sun, 25 Jan 2026 18:34:30 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260125122403639+-+runway_gen45_firefly.mp3" length="3514104" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1769366070267</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260125122403639+-+runway_gen45_firefly.jpg"/>
   </item>
 </channel>
 </rss>

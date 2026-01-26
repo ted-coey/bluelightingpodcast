@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sun, 25 Jan 2026 18:34:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 18:13:54 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -500,6 +500,15 @@ Plus, Hunter and Riley talk about the wider push for workflow integration across
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260125122403639+-+runway_gen45_firefly.mp3" length="3514104" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1769366070267</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260125122403639+-+runway_gen45_firefly.jpg"/>
+  </item>
+
+  <item>
+    <title>NVIDIA PersonaPlex: The End of Awkward AI Conversations</title>
+    <description><![CDATA[Say goodbye to robotic, walkie-talkie-style AI voices. On today’s episode, we dive into the open release of NVIDIA PersonaPlex-7B-v1, a speech-to-speech model that can actually hold a real back-and-forth conversation. Built for full-duplex communication, PersonaPlex listens and talks at the same time, handles interruptions, and brings natural rhythm to AI-driven dialogue. We break down why this model is a game-changer for creators, live hosts, and anyone building audio products. Discover how PersonaPlex moves beyond clunky handoffs between old-school speech-to-text and large language models, and nearly erases awkward pauses. Hear tips on setting up creative “producer goblin” AI co-hosts, why backchanneling is both a superpower and a potential dark pattern, and how brands can avoid the “smug millennial barista” voice trap. We also spotlight creator-friendly use cases, from improv livestreams to real-time chat recaps, and discuss what open weights mean for teams of all sizes. Plus, stay tuned for a rapid-fire roundup on Runway Gen-4.5, Adobe Firefly’s latest integrations, and OpenAI ChatGPT Atlas’s new tab-wrangling tricks. If you want to know where conversational AI and creator tools are headed, this episode puts you right at the center of the action.]]></description>
+    <pubDate>Mon, 26 Jan 2026 18:13:54 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260126122430927+-+nvidia_personaplex_ai.mp3" length="2979504" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1769451234059</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260126122430927+-+nvidia_personaplex_ai.jpg"/>
   </item>
 </channel>
 </rss>

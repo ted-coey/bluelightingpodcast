@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Mon, 26 Jan 2026 18:13:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 17:44:51 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -509,6 +509,15 @@ Plus, Hunter and Riley talk about the wider push for workflow integration across
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260126122430927+-+nvidia_personaplex_ai.mp3" length="2979504" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1769451234059</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260126122430927+-+nvidia_personaplex_ai.jpg"/>
+  </item>
+
+  <item>
+    <title>OpenAI Prism: AI Moves Into Your LaTeX Docs</title>
+    <description><![CDATA[OpenAI just launched Prism, a free browser-based writing workspace designed for creators and researchers who live in LaTeX and crave organization. Prism seamlessly integrates GPT 5.2 right inside your doc, tackling citations, equations, and document structure without juggling apps. It promises to automate all those technical headaches like citation flows and consistency checks, even turning your sketches into editable diagrams with its image-to-diagram feature. Real-time coauthoring means your whole team can jump in, making Prism a giant leap for technical collaboration and productivity. But is it all upside? Hunter and Riley break down how Prism rewrites the rules for structured writing and explain why human editorial skills still matter. From instant notation cleanup to voice-powered revisions, you’ll hear exactly who should check out Prism—and who should be cautious about workflow lock-in or over-trusting the model. Plus, the hosts unpack why AI moving into your workspace is way more than just a new sidebar, and why keeping your own critical eye is still essential. Perfect for technical marketers, product teams, and anyone who needs to get complex ideas across (with proof).]]></description>
+    <pubDate>Wed, 28 Jan 2026 17:44:51 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260128122453779+-+openai_prism_latex.mp3" length="3465696" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1769622291276</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260128122453779+-+openai_prism_latex.jpg"/>
   </item>
 </channel>
 </rss>

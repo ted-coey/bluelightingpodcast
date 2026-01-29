@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Wed, 28 Jan 2026 17:44:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 17:42:31 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -518,6 +518,15 @@ Plus, Hunter and Riley talk about the wider push for workflow integration across
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260128122453779+-+openai_prism_latex.mp3" length="3465696" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1769622291276</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260128122453779+-+openai_prism_latex.jpg"/>
+  </item>
+
+  <item>
+    <title>Google Gemini 3 Flash: Agentic Vision Upgrade</title>
+    <description><![CDATA[Today on Blue Lightning Daily, Hunter and Riley unravel Google’s new Gemini 3 Flash upgrade, Agentic Vision. Forget basic image captions and generic AI confidence—this feature brings 'look again on purpose' to image analysis. Instead of reading a screenshot once and inventing details, Gemini 3 Flash can now zoom, crop, annotate, and even run Python steps, all in the pursuit of real answers. It is built for creators who feed their AI everything from messy analytics screenshots to dense slide decks and interface UIs—exactly the kind of visual data where mistakes are expensive. You will hear practical takes on how Agentic Vision can finally reduce embarrassing hallucinations, call out outliers in reports, and extract vital details from tricky tables, charts, or product screens. The hosts weigh the balance of speed versus verification, discuss when you should let the model double-check for you, and explore where human review still matters. Plus, this episode puts Gemini’s workflow power in context with big moves across the AI world, from Runway Gen-4.5 to OpenAI Prism and Nvidia PersonaPlex. If you make content, work with dashboards, or need sanity from your AI image tools, this episode is your field guide to using Gemini’s Agentic Vision for accuracy, reliability, and less 'confident intern' chaos.]]></description>
+    <pubDate>Thu, 29 Jan 2026 17:42:31 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260129122423743+-+gemini_3_flash_agentic.mp3" length="3290160" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1769708551897</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260129122423743+-+gemini_3_flash_agentic.jpg"/>
   </item>
 </channel>
 </rss>

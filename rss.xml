@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Tue, 03 Feb 2026 01:38:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 19:44:33 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -540,6 +540,15 @@ Hunter and Riley also share wild stories of agents texting girlfriends unprompte
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260202122424574+-+firefly_unlimited_update.mp3" length="3595968" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1770082715826</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260202122424574+-+firefly_unlimited_update.jpg"/>
+  </item>
+
+  <item>
+    <title>VIDU 3: Instant Video with Native Audio Hits the Scene</title>
+    <description><![CDATA[Today on Blue Lightning Daily, Hunter and Riley dive into the game-changing launch of VIDU 3 by ShengShu Technology. VIDU 3 ushers in a new era for AI video tools by adding native audio to the generation process. Imagine creating a video from a single prompt and getting dialogue, sound effects, ambience, and music all embedded in one go. No more silent demos or cobbling together audio from five different tools. We explore how this transforms creative workflows for solo creators, ad agencies, and founders needing fast, emotional drafts. We break down real demos, talk about what works (surprisingly strong sound design) and what still needs improvement (like getting flexible audio stems or perfect lip-syncing). We discuss why audio baked-in makes first drafts actually feel alive—and why whoosh sound effect hunters everywhere should be nervous. Plus, we zoom out to cover the bigger trend of AI tools moving from novelty to end-to-end media pipelines, previewing new releases like Runway Gen-4.5, Firefly’s model food court, and Kimi K2.5. Finally, there’s a look at the fun weirdness still possible in current-gen AI videos (Spider-Woman slicing melon, anyone?), and a bonus detour into “Rent a Human” where AI agents literally hire people for real-world tasks. Whether you’re seeking creative shortcuts, curious about the future of content automation, or just here for the wild stories, this episode is your pro-grade, no-fluff guide to where AI video is headed next.]]></description>
+    <pubDate>Tue, 03 Feb 2026 19:44:33 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260203122359187+-+vidu3_instant_audio.mp3" length="3274728" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1770147873785</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260203122359187+-+vidu3_instant_audio.jpg"/>
   </item>
 </channel>
 </rss>

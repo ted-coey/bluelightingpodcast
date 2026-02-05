@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Tue, 03 Feb 2026 19:44:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 18:44:27 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -549,6 +549,15 @@ Hunter and Riley also share wild stories of agents texting girlfriends unprompte
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260203122359187+-+vidu3_instant_audio.mp3" length="3274728" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1770147873785</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260203122359187+-+vidu3_instant_audio.jpg"/>
+  </item>
+
+  <item>
+    <title>OpenAI Frontier: Autonomous Agents Go Enterprise</title>
+    <description><![CDATA[Today, Hunter and Riley dive into OpenAI’s major announcement: Frontier. This isn’t just another shiny chatbot upgrade. Frontier is a platform designed to deploy autonomous AI agents inside real company systems, with all the rules, permissions, and receipts you’d expect from a true digital coworker. If you ever worried about an AI accidentally posting a spicy meme to your brand’s Instagram or burning your ad budget on the wrong campaign, this episode is for you. We explore why agent auditability, access controls, and human-in-the-loop oversight are suddenly as important as model quality, and what makes an agent truly deployable inside large organizations. The conversation stretches from the nerdy details of logging and permissions all the way to culture shifts in content production pipelines. Plus, we check in on this week’s wildest AI updates, chat about the blurring line between human and AI work, and debate if enterprise AI is about to become the new spreadsheet empire. If your work involves operations, marketing, or content, these are the innovations you need to watch. And for the solo creators, we’ve got practical advice on building safer, saner agent flows from home.]]></description>
+    <pubDate>Thu, 05 Feb 2026 18:44:27 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260205122445017+-+openai_frontier_agents.mp3" length="3534024" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1770317067491</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260205122445017+-+openai_frontier_agents.jpg"/>
   </item>
 </channel>
 </rss>

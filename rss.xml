@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Thu, 05 Feb 2026 18:44:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 20:36:35 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -558,6 +558,15 @@ Hunter and Riley also share wild stories of agents texting girlfriends unprompte
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260205122445017+-+openai_frontier_agents.mp3" length="3534024" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1770317067491</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260205122445017+-+openai_frontier_agents.jpg"/>
+  </item>
+
+  <item>
+    <title>Photoshop Firefly Update: Client-Proof AI Magic</title>
+    <description><![CDATA[Today on Blue Lightning Daily, Hunter and Riley dive into the latest Photoshop update supercharged by Firefly. Get the scoop on faster Generative Fill and the new, higher resolution Generative Expand features that promise to make creative workflows brisker and more “client-proof” than ever. We break down what faster AI really means for designers: more sketching, quicker iterations, braver ideas, but also the classic review cycle headaches. Find out why non-destructive edits and adjustment layers like Clarity and Dehaze have everyone talking and how these changes help both solo creators and brand teams streamline their production. Explore the rise of “multi-model” support in Photoshop and why picking the right model matters for visual consistency and accountability. Plus, hear why AI tools are getting closer to “final art”—but still need your human eye for pixel-perfect brand work. Whether you’re wrangling sprawling PSDs or want to sketch bolder brand ideas, this episode breaks down what’s genuinely new and who actually wins in Adobe’s latest move. Get actionable tips for keeping your files organized, your creative energy high, and your team out of “make the logo bigger” purgatory. Tune in, laugh with us, and level up your next Photoshop session with practical insights to match the AI magic.]]></description>
+    <pubDate>Fri, 06 Feb 2026 20:36:35 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260206122256687+-+photoshop_firefly_update.mp3" length="3541368" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1770410195786</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260206122256687+-+photoshop_firefly_update.jpg"/>
   </item>
 </channel>
 </rss>

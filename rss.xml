@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sat, 07 Feb 2026 18:58:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 21:58:08 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -576,6 +576,17 @@ Hunter and Riley also share wild stories of agents texting girlfriends unprompte
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260207122314870+-+claude_opus_46_agent_teams.mp3" length="3206088" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1770490684656</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260207122314870+-+claude_opus_46_agent_teams.jpg"/>
+  </item>
+
+  <item>
+    <title>Adobe Firefly Adds Ray3.14: Frictionless Video Creation</title>
+    <description><![CDATA[Today on Blue Lightning Daily, we dive into a major move from Adobe. The new integration of Luma AI’s Ray3.14 video model inside the Adobe Firefly chat workflow means creators can now generate and revise video clips in a single thread—no more endless file shuffling or lost takes. We explore how Firefly is turning into a creative inbox, where various AI models compete and creators build their flow with ease. Hosts Hunter and Riley unpack what this means for creative production, from simplifying annoying version control and speeding up scene iteration to making content creation feel a whole lot less chaotic. Plus, we cover the dark side: why unlimited video generations can help you explore new ideas, but also fuel creative decision paralysis if you’re not careful.
+
+The episode also touches on the evolution of editing—where prompting in chat becomes directing video and turns iteration into a streamlined, context-rich process. Meanwhile, Riley and Hunter break down the real limitations: generative video still isn’t ready for pixel-perfect, brand-sensitive edits, but it’s getting closer with every update. Beyond Adobe, we discuss the latest from Kling 3.0’s audio features, Photoshop 2026’s Firefly upgrades, massive agents and context expansion from Claude Opus 4.6 and OpenAI Frontier, and the internet chaos of Moltbook—the all-bot social platform. We wrap up with actionable tips for creators to keep iteration efficient in Firefly and how to avoid AI-induced workflow messes. Whether you’re a solo content creator or part of a big agency, this episode is your update on the new workflow reality.]]></description>
+    <pubDate>Sun, 08 Feb 2026 21:58:08 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260208122205718+-+firefly_ray314_workflow.mp3" length="3489744" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1770587888847</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260208122205718+-+firefly_ray314_workflow.jpg"/>
   </item>
 </channel>
 </rss>

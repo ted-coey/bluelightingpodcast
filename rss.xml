@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sun, 08 Feb 2026 21:58:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 03:33:57 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -587,6 +587,15 @@ The episode also touches on the evolution of editing—where prompting in chat b
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260208122205718+-+firefly_ray314_workflow.mp3" length="3489744" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1770587888847</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260208122205718+-+firefly_ray314_workflow.jpg"/>
+  </item>
+
+  <item>
+    <title>Google Gemini Levels Up: From Chatbot to Creative Hub</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, we break down Google Gemini’s massive shift from a simple chat interface to a full-scale creative command center. Find out how Gemini’s integration of Veo for instant video generation and Project Genie’s world-building tools could change the way creators draft, animate, and pitch. From 8-second video clips you can generate for your decks, to interactive environments for design pitching, this episode untangles how Google is racing to be the starting line for creators’ workflows. We dig into real-world utility for marketing teams and creatives and get honest about the chaos lurking in file management and version control as these tools scale. Plus: we talk about the new risks as AI-generated content creeps into everything, from fake protest photos to phony product reviews. Learn the latest about AI.com’s epic flop, why human taste still matters in creative work, and why the only thing truly celebrity-proof might be actual hardware (sorry, robots). This lively update will help you navigate the promise and pitfalls of production-layer AI.]]></description>
+    <pubDate>Tue, 10 Feb 2026 03:33:57 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260209122229579+-+gemini_creative_hub.mp3" length="3353328" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1770694437409</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260209122229579+-+gemini_creative_hub.jpg"/>
   </item>
 </channel>
 </rss>

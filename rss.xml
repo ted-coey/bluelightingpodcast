@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Tue, 10 Feb 2026 03:33:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 03:34:36 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -596,6 +596,15 @@ The episode also touches on the evolution of editing—where prompting in chat b
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260209122229579+-+gemini_creative_hub.mp3" length="3353328" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1770694437409</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260209122229579+-+gemini_creative_hub.jpg"/>
+  </item>
+
+  <item>
+    <title>GPT-5.3-Codex Supercharges GitHub Copilot for Creators</title>
+    <description><![CDATA[OpenAI's GPT-5.3-Codex is officially powering GitHub Copilot everywhere, from VS Code to GitHub.com, mobile, CLI, and the Copilot agent itself. This episode breaks down why the update is more than just a model picker tweak—it is a leap in AI-powered coding, especially for code-adjacent creators and marketers. We reveal how this model helps you not just draft, but actually ship code, slashing the grind in workflows like lint-fix-retest loops and bulk refactors. Discover what 'agentic coding' really means: an AI that sticks around to troubleshoot, iterate, and ship, not just toss you a code snippet and disappear. We dive into real-world tasks like adding analytics events across components, cleaning up CSVs, and launching microsites fast. But it is not all smooth sailing. We highlight where agentic coding shines and where it still stumbles—like tool output confusion and overconfident mass edits that can break builds. We talk practical safety, with new cyber capability warnings and why reviewers matter more than ever. Plus, get industry-level insights as other platforms like Claude Opus and Google Gemini race toward more powerful end-to-end workflows and production assistants. Whether you code full-time or just automate the boring stuff, you will get tangible tips for getting the most from Copilot's latest update while avoiding classic pitfalls. Listen in for practical advice, safety sidebars, and a peek at the future of AI-driven creative work.]]></description>
+    <pubDate>Wed, 11 Feb 2026 03:34:36 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260210122511391+-+gpt53_codex_hits_copilot.mp3" length="3444528" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1770780876830</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260210122511391+-+gpt53_codex_hits_copilot.jpg"/>
   </item>
 </channel>
 </rss>

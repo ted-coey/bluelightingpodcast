@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Wed, 11 Feb 2026 03:34:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 03:33:36 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -605,6 +605,21 @@ The episode also touches on the evolution of editing—where prompting in chat b
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260210122511391+-+gpt53_codex_hits_copilot.mp3" length="3444528" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1770780876830</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260210122511391+-+gpt53_codex_hits_copilot.jpg"/>
+  </item>
+
+  <item>
+    <title>ByteDance Pauses Wild Face-to-Voice Seedance Feature</title>
+    <description><![CDATA[Today on Blue Lightning Daily, we dive into ByteDance's jaw-dropping Seedance 2.0 update—a feature that could generate a synthetic voice from nothing but a selfie. While this tech preview had everyone buzzing, concerns about identity theft and privacy hit critical mass as users realized how easily their faces could become the next viral voice. Was it voice cloning? Not quite. It was more like voice guessing powered by artificial intelligence, where uploading a face photo could spark a personalized audio track—without needing a voice sample at all.
+
+We break down how this goes way beyond fun party tricks and into real security territory. Faces are everywhere online, making this a potential pipeline for identity mischief. ByteDance quickly paused the feature, but the broader Seedance toolset remains in testing, promising creators smoother multi-shot video generation, enhanced lip sync, and more creative control.
+
+Plus, we survey the week's AI production moves: Gemini launching as a creator hub, Adobe folding Luma Ray into Firefly Chat for video collaboration, Claude Opus rolling out bigger creative teamwork, and Copilot testing new agentic coding features. The new meta is rapid, automated, high-likeness media—and louder debates about safeguards, verification, and consent.
+
+Listen in for practical tips: how to protect your assets as a creator, what works with Seedance now, and why your face and voice are the new passwords. As always, we keep it creator-first, sharing the no-hype version of today’s generative AI drama.]]></description>
+    <pubDate>Thu, 12 Feb 2026 03:33:36 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260211122337707+-+bytedance_seedance_ai.mp3" length="3131424" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1770867216478</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260211122337707+-+bytedance_seedance_ai.jpg"/>
   </item>
 </channel>
 </rss>

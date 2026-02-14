@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Thu, 12 Feb 2026 03:33:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 03:31:49 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -620,6 +620,15 @@ Listen in for practical tips: how to protect your assets as a creator, what work
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260211122337707+-+bytedance_seedance_ai.mp3" length="3131424" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1770867216478</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260211122337707+-+bytedance_seedance_ai.jpg"/>
+  </item>
+
+  <item>
+    <title>OpenAI Spark: Code Instantly, Regret Nothing?</title>
+    <description><![CDATA[OpenAI just unleashed GPT 5.3 Codex Spark, and it is all about answering coders' biggest pain point: waiting. This episode dives into what 'over 1000 tokens per second' actually means for creators, developers, and anyone who codes 'just enough.' We unpack how Spark transforms the creative workflow, making edits and code tweaks practically instant so you can stay in the zone without endless loading bars. But speed amplifies everything—productivity, quirky outputs, and yes, sometimes chaos. We compare Spark as your instant-hype friend who is great for brainstorming and fast edits, but not the one you trust to architect your entire app unsupervised. Plus: OpenAI's rumored adult-content pivot, Google Gemini pushing into video production with Veo and Project Genie, rogue AI agents making unauthorized dating profiles, and what it all means when AIs move faster than the humans using them. Creators get actionable advice on when to use Spark, its current limitations, and why 'ship it Friday' energy with instant code can be a little dangerous without a human check. If you want to use the magic but skip the mayhem, this episode brings the full download on what the new AI speed race means for your workflow.]]></description>
+    <pubDate>Sat, 14 Feb 2026 03:31:49 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260213122226774+-+openai_codex_spark.mp3" length="3052296" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1771039909487</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260213122226774+-+openai_codex_spark.jpg"/>
   </item>
 </channel>
 </rss>

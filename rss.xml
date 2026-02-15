@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sat, 14 Feb 2026 03:31:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 03:34:21 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -629,6 +629,19 @@ Listen in for practical tips: how to protect your assets as a creator, what work
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260213122226774+-+openai_codex_spark.mp3" length="3052296" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1771039909487</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260213122226774+-+openai_codex_spark.jpg"/>
+  </item>
+
+  <item>
+    <title>Google Stitch and NotebookLM: First Drafts, Zero Busywork</title>
+    <description><![CDATA[In this Blue Lightning AI Daily episode, Hunter and Riley break down how Google is turning busywork into ancient history with two spicy new features: Stitch and NotebookLM Video Overviews. Dive into why Stitch has UI designers buzzing as it lets you generate and export editable Figma layouts instantly, skipping the dreaded rebuild tax. Instead of static images, you get real, editable layers ready for feedback and iteration, which means faster first drafts and less blank canvas anxiety. The crew also unpacks the reality: while AI drafts can unblock your flow, judgment and taste are more important than ever. Design systems, real constraints, and human decisions make or break what AI delivers.
+
+Then, meet NotebookLM Video Overviews. Instantly transform docs, PDFs, and research notes into a narrated, slide-style video briefing. It is not about cinematic YouTube content—it is a practical way to get teams aligned and keep creators organized. Imagine never again hearing 'nobody read the doc' because now that 12-page strategy becomes a 3-minute watchable rundown, perfect for creators and marketers looking to scale ideas without chaos. The hosts share real-world scenarios where these tools can save solo creators, marketers, and product teams hours of grind.
+
+Expect practical tips, sharp takes, and laughs about AI mishaps as the hosts celebrate a Valentine’s Day where busywork gets deleted—not your creative craft. If you are ready to see what a future with less grunt work and more momentum looks like, this episode is your power-up.]]></description>
+    <pubDate>Sun, 15 Feb 2026 03:34:21 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260214122408298+-+stitch_notebooklm_draft.mp3" length="3097488" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1771126461981</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260214122408298+-+stitch_notebooklm_draft.jpg"/>
   </item>
 </channel>
 </rss>

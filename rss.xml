@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sun, 15 Feb 2026 03:34:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 03:34:09 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -642,6 +642,15 @@ Expect practical tips, sharp takes, and laughs about AI mishaps as the hosts cel
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260214122408298+-+stitch_notebooklm_draft.mp3" length="3097488" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1771126461981</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260214122408298+-+stitch_notebooklm_draft.jpg"/>
+  </item>
+
+  <item>
+    <title>Google Discover’s AI Update: No More Clickbait Chaos</title>
+    <description><![CDATA[Today on Blue Lightning Daily, Hunter and Riley break down Google Discover’s seismic Core Update and what it means for creators, publishers, and digital marketers. Discover’s feed is shifting: more local focus, less clickbait, and a demand for clear expertise within topics. AI plays a bigger role, auto-generating summaries and making structure and context more important than ever. They unpack what "honest spicy" headlines look like, why local context is your new superpower, and how generic, global posts are getting lower visibility. The conversation dives into the risks of “faking local” versus actually delivering value, and how to package your expertise in sharply defined, repeatable content lanes. Plus, they talk shop about AI summaries—why oatmeal-flavored recaps happen, the importance of specificity and transparent sourcing, and how to get your best value quoted. They also connect Google’s changes to broader trends in AI-powered workflow automation, referencing Figma, NotebookLM, and the ByteDance Seedance pause. The bottom line: Clarity, consistency, and real expertise win as platforms swap “engagement hacks” for usable, relevant content. Get ready for the new rules of distribution—and find out exactly what creators should audit and upgrade to thrive in the AI-reshaped Discover landscape.]]></description>
+    <pubDate>Mon, 16 Feb 2026 03:34:09 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260215122152257+-+google_discover_ai_update.mp3" length="3801384" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1771212849257</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260215122152257+-+google_discover_ai_update.jpg"/>
   </item>
 </channel>
 </rss>

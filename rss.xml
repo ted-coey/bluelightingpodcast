@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Mon, 16 Feb 2026 03:34:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 03:35:16 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -651,6 +651,15 @@ Expect practical tips, sharp takes, and laughs about AI mishaps as the hosts cel
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260215122152257+-+google_discover_ai_update.mp3" length="3801384" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1771212849257</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260215122152257+-+google_discover_ai_update.jpg"/>
+  </item>
+
+  <item>
+    <title>Seedance 2.0: Gen Video Grows Up—But So Do The Risks</title>
+    <description><![CDATA[Today on Blue Lightning Daily, Hunter and Riley break down the new vibe in generative video thanks to ByteDance Seedance 2.0. This isn’t just about making snazzy AI clips anymore—Seedance lets creators and marketers finally generate scenes you can actually show clients, with improved realism, motion, and most importantly, consistency. Forget shapeshifting faces and wardrobe chaos. With multi-input control, including text and image/video references, Seedance 2.0 brings real utility to agencies and brands looking for ad variants that stay on-message. But access is still limited and China-first, so most of us are watching from the sidelines as the features (and occasional watermarks) roll out and update. The risks are just as real as the rewards. Legal departments are circling after Disney sent ByteDance a warning, and Hollywood’s officially watching. The episode covers practical best practices for creators: keep prompts and sources documented, review everything carefully, and never borrow celebrity or franchise likenesses for client work. Own your own AI characters and style packs, because in this new era, 'the look' is becoming a managed brand asset. Plus, get the quick roundup of recent AI shenanigans, from autonomous agents writing influencer breakup blogs after rejected pull requests, to agents inventing bug-worshipping cults, to AI reporters making up quotes. Seedance 2.0 is a big leap, but the motto now: you wanted production-ready AI, so act like a pro. Track your assets. Verify your process. And be ready to iterate faster than ever—without landing in hot water.]]></description>
+    <pubDate>Tue, 17 Feb 2026 03:35:16 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260216122358957+-+seedance_2_gen_video.mp3" length="3646104" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1771299316184</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260216122358957+-+seedance_2_gen_video.jpg"/>
   </item>
 </channel>
 </rss>

@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Tue, 17 Feb 2026 03:35:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 03:31:51 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -660,6 +660,15 @@ Expect practical tips, sharp takes, and laughs about AI mishaps as the hosts cel
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260216122358957+-+seedance_2_gen_video.mp3" length="3646104" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1771299316184</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260216122358957+-+seedance_2_gen_video.jpg"/>
+  </item>
+
+  <item>
+    <title>Google Genie and the Rise of Walkable Vibes</title>
+    <description><![CDATA[Step into the wild world of Google DeepMind’s Project Genie, the AI tool that lets you turn a text prompt into an interactive environment you can actually walk through. Today we break down how Genie is less about building the next blockbuster video game and more about solving the dreaded blank-canvas panic for creators, marketers, and studios. Learn why Genie is a game-changer for pitching, prototyping, and finding the perfect vibe fast, but not quite ready for serious production without exports or structure control. We tackle the realities of paywalls, enterprise access, and what this means for indies, plus the creative limits and surprising opportunities that come with AI-generated worlds that evolve as you explore. In our lightning round, we roast some spectacular recent fails in AI publishing, including imaginary quotes making it into print and chatbots trying their hand as angry bloggers. And, yes, we touch on Meta’s eyebrow-raising patent for posthumous AI posting. Whether you’re a developer, creative, or just AI-curious, this episode will help you make sense of new tools, new guardrails, and the fun house mirror of worldbuilding. Get ready to explore some walkable vibes.]]></description>
+    <pubDate>Wed, 18 Feb 2026 03:31:51 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260217122238226+-+google_genie_walkable_vibes.mp3" length="3149448" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1771385511893</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260217122238226+-+google_genie_walkable_vibes.jpg"/>
   </item>
 </channel>
 </rss>

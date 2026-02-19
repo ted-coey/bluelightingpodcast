@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Wed, 18 Feb 2026 03:31:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 03:43:17 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -669,6 +669,15 @@ Expect practical tips, sharp takes, and laughs about AI mishaps as the hosts cel
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260217122238226+-+google_genie_walkable_vibes.mp3" length="3149448" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1771385511893</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260217122238226+-+google_genie_walkable_vibes.jpg"/>
+  </item>
+
+  <item>
+    <title>Gemini App Drops Instant Music Studio with Lyria 3</title>
+    <description><![CDATA[Google’s Gemini app just unlocked a wild new creator feature: generate original 30-second music tracks from text, photos, or even video using DeepMind’s Lyria Three model. Today, Hunter and Riley riff on what this means for creatives, from AI-generated lyrics and cover art to why quick, shareable audio is the real win for Shorts, Reels, and TikToks. They break down how to prompt better music, where AI still falls short, and why these tools are changing content workflows by living right alongside your scripts and thumbnails. Plus, there’s plenty of fun on the side: the haunted ukulele epidemic, the illusion of “midnight LLMs,” legendary conference robot fails, and why watermarking your AI jams might help (or haunt) your brand. Whether you’re a marketer looking to test more tracks, a creator tired of stock music purgatory, or an AI fan tracking the latest toolchain mashups, this episode is your backstage pass to the new world of instant, tailored music for your content pipeline. Bonus: tips for avoiding cringe lyrics, surviving platform shifts, and keeping your vibe safe from accidental corporate anthems.]]></description>
+    <pubDate>Thu, 19 Feb 2026 03:43:17 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260218122837580+-+gemini_lyria3_music_beta.mp3" length="3683760" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1771472597001</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260218122837580+-+gemini_lyria3_music_beta.jpg"/>
   </item>
 </channel>
 </rss>

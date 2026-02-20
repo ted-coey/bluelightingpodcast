@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Thu, 19 Feb 2026 03:43:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 03:38:15 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -678,6 +678,15 @@ Expect practical tips, sharp takes, and laughs about AI mishaps as the hosts cel
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260218122837580+-+gemini_lyria3_music_beta.mp3" length="3683760" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1771472597001</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260218122837580+-+gemini_lyria3_music_beta.jpg"/>
+  </item>
+
+  <item>
+    <title>Gemini 3.1 Pro: The Boring Breakthrough for Creators</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, Hunter and Riley dive into Google’s Gemini 3.1 Pro launch—where dependability is finally the star. Forget poetic flair and wild creativity. This new model leans hard into structured, reliable outputs that actually finish your workflow. The real headline is cleaner multi-step reasoning and better support for things like valid JSON and schema-specific formatting, which means less wrestling with prompts and fixing broken automations. We cover Google’s big ARC-AGI-2 benchmark flex, how creators and content ops teams can stress-test these claims, and the right way to treat any AI: as a smart but unpredictable employee that always needs a validation gate. Plus, we spiral through today’s AI news, from AI companions changing personal relationships, to crypto rescue missions, to the chaotic state of AI search, deepfakes in politics, and India’s huge leap in real-time translation. Whether you’re running a solo YouTube channel, herding a marketing team, or just trying to keep up with AI’s relentless march, this episode is packed with practical advice and creator-first perspective. Tune in for the real talk on when to automate, what to trust, and how to stress test new models so they actually save you time.]]></description>
+    <pubDate>Fri, 20 Feb 2026 03:38:15 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260219122508371+-+gemini_31_pro_reliability.mp3" length="3972240" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1771558695582</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260219122508371+-+gemini_31_pro_reliability.jpg"/>
   </item>
 </channel>
 </rss>

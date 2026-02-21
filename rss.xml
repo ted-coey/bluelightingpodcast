@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Fri, 20 Feb 2026 03:38:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 03:30:12 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -687,6 +687,15 @@ Expect practical tips, sharp takes, and laughs about AI mishaps as the hosts cel
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260219122508371+-+gemini_31_pro_reliability.mp3" length="3972240" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1771558695582</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260219122508371+-+gemini_31_pro_reliability.jpg"/>
+  </item>
+
+  <item>
+    <title>Google SynthID Detector Now Checks Audio Files</title>
+    <description><![CDATA[Today on Blue Lightning Daily, we dive into Google’s big update: the SynthID Detector now scans audio uploads for invisible watermarks. Why does this matter? Because audio is the stealth MVP of the internet, and AI-generated voices can sneak into any project. We unpack how SynthID embeds its signal directly in the audio file, not just metadata, and explain why “not detected” never means “definitely human.” Plus, we share practical tips for creators and teams on when to use these checks in workflows, and why agencies, studios, and brands need provenance tools now more than ever. We also touch on Google’s push into music generation with Gemini Lyria 3 and what this new verification feature means for platforms battling deepfake audio. For creators, platforms, and brands alike, adding a SynthID verification check can save headaches down the line. Tune in for hands-on advice, a peek at Google’s evolving AI stack, and Riley’s plea: please, do not tweet “not detected, therefore human.”]]></description>
+    <pubDate>Sat, 21 Feb 2026 03:30:12 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260220122036823+-+synthid_audio_update.mp3" length="3045672" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1771644612361</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260220122036823+-+synthid_audio_update.jpg"/>
   </item>
 </channel>
 </rss>

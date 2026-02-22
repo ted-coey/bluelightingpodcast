@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sat, 21 Feb 2026 03:30:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 03:33:18 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -696,6 +696,15 @@ Expect practical tips, sharp takes, and laughs about AI mishaps as the hosts cel
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260220122036823+-+synthid_audio_update.mp3" length="3045672" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1771644612361</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260220122036823+-+synthid_audio_update.jpg"/>
+  </item>
+
+  <item>
+    <title>Gemini Gets Groovy: Lyria 3 Powers Music Magic</title>
+    <description><![CDATA[Ready to take your content audio to the next level? In this episode, Hunter and Riley dive into Google Gemini’s newest music superpower: the integration of DeepMind’s Lyria 3 model directly into the Gemini app. Now you can generate thirty-second music tracks just by typing a prompt – or even uploading a photo or video for instant vibe matching. From frictionless tab reduction to quick moodboards, discover why this update has every creator buzzing. The hosts break down how Lyria 3 changes the game for short-form content, rapid ad variants, and multimedia drafts, all while navigating AI’s creative limitations (think prompt steering instead of deep-dive music engineering).   But it’s not just fun and games. We talk vocal lyric generation, legal workflow concerns, watermarking with SynthID for audio, and why no tool is a replacement for real source verification (especially if you don’t want to be called out in a comment section meltdown). The duo keeps it practical and playful, exploring new creative risks and the tradeoffs of convenience versus control. Plus, they unpack wild stories from the AI world: fabricated news experiments, legal mishaps, and the classic perils of demo gremlins at live summits. Whether you’re a solo creator, marketer, or team looking for fast music without licensing headaches, find out what this Gemini update really means for your workflow—and why ‘Clippy with a beat’ is about as accurate as it gets right now. Listen in for smart takes, behind-the-scenes advice, and a sneak peek at the future of automated audio.]]></description>
+    <pubDate>Sun, 22 Feb 2026 03:33:18 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260221122147264+-+gemini_lyria3_music.mp3" length="3166512" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1771731198127</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260221122147264+-+gemini_lyria3_music.jpg"/>
   </item>
 </channel>
 </rss>

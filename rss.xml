@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sun, 22 Feb 2026 03:33:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 03:30:43 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -705,6 +705,15 @@ Expect practical tips, sharp takes, and laughs about AI mishaps as the hosts cel
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260221122147264+-+gemini_lyria3_music.mp3" length="3166512" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1771731198127</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260221122147264+-+gemini_lyria3_music.jpg"/>
+  </item>
+
+  <item>
+    <title>Gemini 3.1 Pro: AI That Follows the Rules (Finally)</title>
+    <description><![CDATA[Is Google’s new Gemini 3.1 Pro the LLM creators have been waiting for? Today’s episode gets into why disciplined, structured outputs matter more than ever for creators, marketing teams, and content ops pros. Hunter and Riley break down Google’s pitch: fewer random failures, solid multi-step reasoning, and real respect for your format—especially JSON. They compare the hype to messy past experiences (remember when models added “vibes” to your schema?) and explain why reliability is now the biggest selling point in AI. From automation pipelines to localization batches, Gemini 3.1 Pro promises outputs that actually survive real-world workflows. The hosts dig into constraint stacking, real-life usage, and why “reliability over romance” is the honest promise most of us want. They also check in on the wider Gemini creator ecosystem, including DeepMind’s Lyria 3 for music and SynthID for provenance, and explain what jobs could change first with cleaner outputs. Whether you’re a solo creator or scaling up with a team, this episode tells you why AI that does the boring parts right might be the most romantic upgrade ever. Test Gemini 3.1 Pro, track the fails, and learn why the era of “AI as exhausting intern” might be ending—for real.]]></description>
+    <pubDate>Mon, 23 Feb 2026 03:30:43 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260222122022280+-+gemini_3_1_pro_rules.mp3" length="3474288" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1771817443421</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260222122022280+-+gemini_3_1_pro_rules.jpg"/>
   </item>
 </channel>
 </rss>

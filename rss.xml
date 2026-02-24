@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Mon, 23 Feb 2026 03:30:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 03:34:17 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -714,6 +714,15 @@ Expect practical tips, sharp takes, and laughs about AI mishaps as the hosts cel
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260222122022280+-+gemini_3_1_pro_rules.mp3" length="3474288" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1771817443421</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260222122022280+-+gemini_3_1_pro_rules.jpg"/>
+  </item>
+
+  <item>
+    <title>OpenAI Codex Spark: Fastest AI Coder Ever?</title>
+    <description><![CDATA[Is speed the new superpower for AI coders? In today’s episode, Hunter and Riley dive into OpenAI’s lightning-quick GPT-5.3-Codex-Spark release. This model, now available in the Codex app, CLI, and VS Code, streams over a thousand tokens per second—meaning it all but eliminates the dreaded waiting game for creators and developers. The duo explores why latency isn’t just a technical detail, but an actual tax on creative momentum and productivity. They break down how Spark fits into real workflows: rapid front-end iterations, “live demo” meetings, glue code for quick automation, and those endless design tweaks that keep creator businesses running.   But is “faster” always better? The hosts debate Spark’s role as your speedy implementation buddy, not your strategic reviewer—and highlight why having a human in the loop, safety defaults, and transparent version control are essential.   Plus, they compare Spark’s speed-first philosophy to Google’s Gemini 3.1 Pro, which focuses on reliability and multi-step reasoning. To round out the news, hear about Google’s new music-making Lyria 3 in the Gemini app and its advances in audio watermarking. Whether you code a little or a lot, this episode unpacks how AI’s race for speed might change what and how you build next.]]></description>
+    <pubDate>Tue, 24 Feb 2026 03:34:17 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260223122431237+-+codex_spark_speed.mp3" length="3366240" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1771904057605</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260223122431237+-+codex_spark_speed.jpg"/>
   </item>
 </channel>
 </rss>

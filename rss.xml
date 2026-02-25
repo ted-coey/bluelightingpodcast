@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Tue, 24 Feb 2026 03:34:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 03:31:51 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -723,6 +723,15 @@ Expect practical tips, sharp takes, and laughs about AI mishaps as the hosts cel
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260223122431237+-+codex_spark_speed.mp3" length="3366240" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1771904057605</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260223122431237+-+codex_spark_speed.jpg"/>
+  </item>
+
+  <item>
+    <title>Suno Studio Stems: AI Music Grows Up</title>
+    <description><![CDATA[Today on Blue Lightning Daily, Hunter and Riley break down the latest game-changing feature from Suno Studio: full stem export for generated songs. No more getting stuck with a single stereo file—creators can now separate vocals, drums, bass, and more into individual tracks for editing. We explore why stems are essential for any real post-production work, letting you remix, arrange, and adapt AI music for campaigns and social content. Plus, we dive into how this matches a broader trend: AI tools finally evolving to fit into professional workflows. Hear how Google’s Lyria 3 is making snackable tracks in Gemini and why SynthID Detector means watermarking is mainstream. We dish on what still separates human composers from AI—even with stems—and share smart strategies to keep your editing process from spiraling into endless tweaking. If you’re wondering whether AI music tools are finally ready for real client work, this episode is your guide to understanding stems, MIDI export, and why Suno’s latest update is more than just another cool AI trick. Tune in for practical tips, hot takes, and the meme-worthy moment: 'Suno said: fine, open it in your DAW then.']]></description>
+    <pubDate>Wed, 25 Feb 2026 03:31:51 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260224122307559+-+suno_studio_stems.mp3" length="2847720" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1771990311507</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260224122307559+-+suno_studio_stems.jpg"/>
   </item>
 </channel>
 </rss>

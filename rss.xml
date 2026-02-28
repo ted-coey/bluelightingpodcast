@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Wed, 25 Feb 2026 03:31:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 03:31:50 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -732,6 +732,15 @@ Expect practical tips, sharp takes, and laughs about AI mishaps as the hosts cel
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260224122307559+-+suno_studio_stems.mp3" length="2847720" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1771990311507</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260224122307559+-+suno_studio_stems.jpg"/>
+  </item>
+
+  <item>
+    <title>Adobe Quick Cut: AI Drafts for Chaotic Timelines</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, we dive into Adobe Firefly’s new Quick Cut feature for their web video editor. It might not be flashy or cinematic, but this productivity booster could be a game-changer for editors drowning in footage. Quick Cut can analyze your raw clips, detect scenes, select shots, and build a rough, editable cut right in the timeline—all before you lose motivation. Hunter and Riley discuss why this “AI as assistant, not replacement” tool targets the mechanical workflow pain of editing, helping solo creators, social teams, and even busy marketers get to a reviewable version faster. They detail the beta’s strengths, like platform-aware outputs for TikTok or YouTube, and where human oversight still matters, especially to avoid those “AI picked the wrong moment” fails. The hosts compare this trend with updates from Google Gemini and OpenAI, noting the industry-wide shift toward tools that keep creators in flow. Plus, they touch on Suno’s stem export for music workflow nerds. Whether you’re a beginner plagued by empty timeline paralysis or a spreadsheet-hardened content manager, this episode sorts out who wins, who’s skeptical, and how to prompt Adobe’s AI for smarter, faster edits. Get the inside scoop and stay ahead of the workflow automation curve.]]></description>
+    <pubDate>Sat, 28 Feb 2026 03:31:50 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260227122113004+-+adobe_quick_cut_beta.mp3" length="3439488" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1772249510072</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260227122113004+-+adobe_quick_cut_beta.jpg"/>
   </item>
 </channel>
 </rss>

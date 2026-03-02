@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sat, 28 Feb 2026 03:31:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 03:44:45 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -741,6 +741,15 @@ Expect practical tips, sharp takes, and laughs about AI mishaps as the hosts cel
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260227122113004+-+adobe_quick_cut_beta.mp3" length="3439488" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1772249510072</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260227122113004+-+adobe_quick_cut_beta.jpg"/>
+  </item>
+
+  <item>
+    <title>Google Gemini Drops: AI Moves from Answers to Action</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, Hunter and Riley break down the new 'Gemini Drops' from Google. Gemini is moving beyond being just an answer engine to tackling real actions for users and creators alike. We explore what it means for the AI to have 'ask, plan, act' flow, from automating tasks in your Android apps to letting creators use Veo video templates and tapping into Lyria 3 for thirty-second music tracks. Find out how Gemini’s early rollout lets it order your lunch, create social-media-ready music, and speed up video editing – but only in select apps and regions for now. The hosts parse out where agentic automation helps (renaming project assets, handling captions, posting logistics) and where it might go wrong if you do not double-check Gemini’s “plan” before letting it act. They also compare Gemini’s upgrades with Adobe Firefly’s Quick Cut and Suno’s new stem export, showing how AI is cutting down grunt work in every creative workflow. Plus, learn why templates might not kill creativity and why thirty-second music on demand changes the game for video makers. The episode ends with laughs about AI mishaps, robot apologies, and practical tips so creators can get the most out of automation while avoiding the “quietly wrong at scale” nightmare. Whether you are curious or cautious, this episode is your fast guide to what Gemini Drops means for your day-to-day work.]]></description>
+    <pubDate>Mon, 02 Mar 2026 03:44:45 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260301122736333+-+gemini_drops_action.mp3" length="4236264" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1772423085192</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260301122736333+-+gemini_drops_action.jpg"/>
   </item>
 </channel>
 </rss>

@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Mon, 02 Mar 2026 03:44:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 23:43:19 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -750,6 +750,15 @@ Expect practical tips, sharp takes, and laughs about AI mishaps as the hosts cel
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260301122736333+-+gemini_drops_action.mp3" length="4236264" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1772423085192</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260301122736333+-+gemini_drops_action.jpg"/>
+  </item>
+
+  <item>
+    <title>OpenAI GPT-5.3 Instant vs Codex: Speed, Code and Chaos</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, we break down OpenAI’s big release: GPT-5.3 Instant and GPT-5.3-Codex. The new 'Instant' model is now the fast, friendly default in ChatGPT, designed to kill latency, tone down refusal energy, and deliver punchy drafts fast enough for creators to keep up with their workload. But does speed mean more mistakes? The hosts debate the dangers and upsides: less boilerplate, quicker headlines, but faster ways to accidentally post errors. Codex, designed for coding tasks, brings agentic workflows where AI can update repos, run tests, and generate code diffs, helping creators and developers alike automate web tools and scripts—if they avoid the risks of context drift and overconfident AI. The team also covers Google’s new Gemini Drops for multi-step in-app automation, Gemini 3.1 Flash Lite for bulk content ops, and NVIDIA’s launch of Alibaba’s Qwen3.5 VLM for easy vision-based workflows. Plus, a hilarious cautionary tale: when DoorDash’s AI menu described 'Chicken Pops' as 'chicken pox,' highlighting the real dangers of not reviewing fast-generated content. Tune in for smart guidelines on using these new tools, understanding agentic AI, and making them work for you without losing your brand’s voice… or your lunch menu. Subscribe for a rapid-fire tour of the new creator AI arms race, safer workflows, and why you should always check before you ship.]]></description>
+    <pubDate>Thu, 05 Mar 2026 23:43:19 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260305122244626+-+gpt53_instant_codex.mp3" length="3056784" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1772754199588</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260305122244626+-+gpt53_instant_codex.jpg"/>
   </item>
 </channel>
 </rss>

@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Thu, 05 Mar 2026 23:43:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 03:38:31 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -759,6 +759,15 @@ Expect practical tips, sharp takes, and laughs about AI mishaps as the hosts cel
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260305122244626+-+gpt53_instant_codex.mp3" length="3056784" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1772754199588</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260305122244626+-+gpt53_instant_codex.jpg"/>
+  </item>
+
+  <item>
+    <title>OpenAI GPT-5.4: Work That Does Itself</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, we break down OpenAI’s newest release, GPT-5.4, and explain why it’s not just about better writing anymore—it’s AI that can actually do your work. With a jaw-dropping one million token context window, GPT-5.4 can finally remember all your brand rules, past campaigns, and feedback in a single session. That’s huge for creators looking for true brand consistency and longform workflows. The model also introduces improved agent capabilities that can interact with your computer, automate repetitive tasks, and streamline daily operations. But handing over the controls has its risks, so the hosts share real-world advice for permissions, guardrails, and treating AI like a helpful intern—not an unsupervised admin. Plus, we talk strategy for choosing between the fast (Pro) and deep (Thinking) GPT-5.4 variants, pricing tips, and how to use big context windows without burning your budget. Hear why the future isn’t one magic AI tool, but a whole crew of models working together: some built for speed, others for deep planning and checks. Whether you’re an overwhelmed marketer, content creator, or team lead frustrated with copy-paste loops, this episode shows how to make AI do the heavy lifting while you stay in the creative director’s chair. Episodes like this keep you ahead as AI shifts from writing drafts to actually getting things done. Don’t miss today’s inside scoop on GPT-5.4’s game-changing features, agent automation, and next-gen workflow hacks.]]></description>
+    <pubDate>Sat, 07 Mar 2026 03:38:31 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260306122424105+-+gpt54_workflow_magic.mp3" length="3197640" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1772854711120</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260306122424105+-+gpt54_workflow_magic.jpg"/>
   </item>
 </channel>
 </rss>

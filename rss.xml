@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sat, 07 Mar 2026 03:38:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 03:48:27 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -768,6 +768,15 @@ Expect practical tips, sharp takes, and laughs about AI mishaps as the hosts cel
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260306122424105+-+gpt54_workflow_magic.mp3" length="3197640" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1772854711120</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260306122424105+-+gpt54_workflow_magic.jpg"/>
+  </item>
+
+  <item>
+    <title>Adobe Firefly Services: Resizing Creativity at Scale</title>
+    <description><![CDATA[Today on Blue Lightning Daily, Hunter and Riley break down Adobe’s new Firefly Services, a suite of APIs designed to let brands and creators generate, edit, localize, resize, and reframe creative assets at a scale nobody thought possible. No more endless manual tweaks or desperate hopes that "final_final_USETHIS_v12" is really the last version. Instead, think programmatic creative: one idea, delivered a thousand different ways, all on-brand and just a few clicks away. We dig into what this means for brands and indie creators, from the magic of video translation and lip sync for localization, to the genuinely life-changing Reframe API that handles aspect ratios for you. But it’s not all sunshine and creative automation—Hunter and Riley ask if scaling the output could mean scaling mediocrity, and what new creative skills are needed when the challenge shifts from design to systems, templates, and rules. Discover how brand safety, QA, and approval cycles become the new bottlenecks, why taste and systems thinking are now a creative flex, and what mindset solo creators should steal from the Fortune 500. Plus: what does the race to automate creativity mean as giants like OpenAI and Google push bigger, faster, and more context-aware models into the content factory? Join us for hot takes, practical advice, the secret life of file names, and a glimpse of the content machines powering the creator economy.]]></description>
+    <pubDate>Sun, 08 Mar 2026 03:48:27 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260307122248968+-+adobe_firefly_at_scale.mp3" length="3534120" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1772941707268</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260307122248968+-+adobe_firefly_at_scale.jpg"/>
   </item>
 </channel>
 </rss>

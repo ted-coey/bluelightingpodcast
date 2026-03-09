@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sun, 08 Mar 2026 03:48:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 02:32:19 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -777,6 +777,15 @@ Expect practical tips, sharp takes, and laughs about AI mishaps as the hosts cel
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260307122248968+-+adobe_firefly_at_scale.mp3" length="3534120" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1772941707268</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260307122248968+-+adobe_firefly_at_scale.jpg"/>
+  </item>
+
+  <item>
+    <title>GPT 5.4 Drops: Context, Chaos, and Creators Win</title>
+    <description><![CDATA[OpenAI just released GPT 5.4, and it is changing the game for creators, marketing teams, and anyone juggling creative workflows. In today’s episode, Hunter and Riley break down why this is more than just another model update. With up to a one million token context, GPT 5.4 promises to move your AI from drafting ideas to packaging them for real production. The conversation dives into what bigger context actually means, how “pick your mode” impacts team collaboration, and why taste and good judgment are still essential. The hosts debate who in your org should have the keys to the mega-context kingdom and how to avoid turning your project folders into a digital junk drawer. They also explore the shifting landscape with Adobe Firefly’s production APIs and Google’s Gemini Flash Lite, highlighting the industry move from simple chatbots to real production systems. Plus, real talk on toolchain chaos, smart routing, and why boring workflows like QA and batch asset production are where automation works best. Walk away with practical advice on using context modes wisely, automating what you can check easily, and keeping humans in the loop for what matters. If you are building creative stacks or just looking to make daily AI tools work better, this episode unpacks what is hype and what is actually helpful in the GPT 5.4 era.]]></description>
+    <pubDate>Mon, 09 Mar 2026 02:32:19 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260308122001607+-+gpt54_creative_context.mp3" length="3117384" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1773023539223</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260308122001607+-+gpt54_creative_context.jpg"/>
   </item>
 </channel>
 </rss>

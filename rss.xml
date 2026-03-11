@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Mon, 09 Mar 2026 02:32:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 02:41:10 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -786,6 +786,15 @@ Expect practical tips, sharp takes, and laughs about AI mishaps as the hosts cel
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260308122001607+-+gpt54_creative_context.mp3" length="3117384" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1773023539223</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260308122001607+-+gpt54_creative_context.jpg"/>
+  </item>
+
+  <item>
+    <title>Runway Characters: Your Website Just Grew a Face</title>
+    <description><![CDATA[Today on Blue Lightning Daily, we dive into the launch of Runway Characters, a tool that lets you spin up real-time talking avatars for your website or app from a single image. Hunter and Riley break down why this is a game-changer for brands, creators, and anyone looking to add a little personality to their products—without all the glue code and digital puppetry. We cover the power and perils of conversational avatars, from boosted trust and engagement to the terrifying possibility of your brand mascot confidently spreading misinformation with eye contact. The episode gets into real-world use cases like demo pages, onboarding and language learning, explores the new risks and costs of deploying a face (charged by the minute, just like a phone call) and offers advice for creators on how not to go full uncanny valley. Plus, how the broader trend of AI moving from toy to infrastructure is reshaping everything, with shoutouts to Adobe Firefly and GPT-5.4. Is the future of web interaction friendly, informative, and sticky—or just a new nightmare fuel? Tune in for practical ideas, hard-won warnings, and all the weirdness as we ask: what happens when every website gets its own digital spokesperson?]]></description>
+    <pubDate>Wed, 11 Mar 2026 02:41:10 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260310122626467+-+runway_characters_face.mp3" length="3605592" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1773196870541</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260310122626467+-+runway_characters_face.jpg"/>
   </item>
 </channel>
 </rss>

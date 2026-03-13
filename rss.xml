@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Thu, 12 Mar 2026 02:35:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 02:41:34 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -804,6 +804,15 @@ Expect practical tips, sharp takes, and laughs about AI mishaps as the hosts cel
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260311122314204+-+adobe_ai_update_march11.mp3" length="3708600" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1773282944242</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260311122314204+-+adobe_ai_update_march11.jpg"/>
+  </item>
+
+  <item>
+    <title>Photoshop’s AI Assistant Lets You Edit By Talking</title>
+    <description><![CDATA[Today on Blue Lightning Daily, we dig into Photoshop’s new AI Assistant, now live on web and mobile. Powered by Adobe Firefly, this beta feature lets you edit images with everyday language—type or speak your prompts and watch annoying tasks get handled faster. Change colors, swap backgrounds, or get step-by-step explanations like a patient coworker. We break down why editability matters, how markup lets you specify exactly what to change, and the big impact on creative workflows. No more wasting time on endless tiny tweaks or masking at midnight—generate fast revisions, stay organized, and let humans focus on taste and brand. We also explore what skills stand out for creatives as AI tools get better at the boring stuff. Plus, we touch on what happens when AIs start communicating just for themselves (spoiler: brands still need guardrails). Get practical advice for using the beta safely, including when to rely on human oversight. Whether you’re doing approvals on your phone or revising marketing assets for the tenth time, Adobe’s new assistant is changing how creatives get things done. Episode assembled entirely by robots (on brand and a little weird).]]></description>
+    <pubDate>Fri, 13 Mar 2026 02:41:34 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260312122141164+-+photoshop_ai_assistant.mp3" length="3709512" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1773369694871</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260312122141164+-+photoshop_ai_assistant.jpg"/>
   </item>
 </channel>
 </rss>

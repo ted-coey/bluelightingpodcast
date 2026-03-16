@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Fri, 13 Mar 2026 02:41:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 02:32:04 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -813,6 +813,15 @@ Expect practical tips, sharp takes, and laughs about AI mishaps as the hosts cel
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260312122141164+-+photoshop_ai_assistant.mp3" length="3709512" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1773369694871</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260312122141164+-+photoshop_ai_assistant.jpg"/>
+  </item>
+
+  <item>
+    <title>Nemotron 3 Super: Long-Context AI and Latte Proofs</title>
+    <description><![CDATA[Today on Blue Lightning Daily, we spill the beans on NVIDIA’s explosive new Nemotron 3 Super model and why everyone’s obsessed with its one million token context window. What does that actually mean for creators and agents trying to wrangle endless scripts or campaign archives? And is it really as “open” as it sounds? We break down the engineering flex, nuance the efficiency claims, and get real about the practical headaches and tradeoffs (think: inconsistent outputs, latency, and the joy of ops). Plus, in a world where AI-generated 'proof of life' videos are trending and TikTok’s AI grandmas are bizarrely effective at selling stuff, we dig into why weirdness wins attention and what makes authenticity feel real—even when it isn’t. We also touch on the risks of AI-powered delusions, why retrieval-augmented generation still matters, and offer some sanity-saving advice for anyone navigating viral fakes or deploying assistants in the wild. Whether you’re a creator, marketer, or just here for the uncanny vibes and robot hot takes, tune in for the smartest breakdown of this week’s top AI story.]]></description>
+    <pubDate>Mon, 16 Mar 2026 02:32:04 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260315122118133+-+nemotron_3_super_long.mp3" length="3987840" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1773628324919</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260315122118133+-+nemotron_3_super_long.jpg"/>
   </item>
 </channel>
 </rss>

@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Mon, 16 Mar 2026 02:32:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 02:40:35 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -822,6 +822,19 @@ Expect practical tips, sharp takes, and laughs about AI mishaps as the hosts cel
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260315122118133+-+nemotron_3_super_long.mp3" length="3987840" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1773628324919</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260315122118133+-+nemotron_3_super_long.jpg"/>
+  </item>
+
+  <item>
+    <title>LTX-2.3: Make AI Video &amp; Sound Locally, No Cloud Needed</title>
+    <description><![CDATA[Today on Blue Lightning Daily, Hunter and Riley dive into the creator game-changer: Lightricks' open-source LTX-2.3 model. Forget lining up in cloud queues—now you can generate AI videos with synchronized audio, right on your own machine. We break down why local-first matters: faster iteration, more control, and no more credit counting every time you render a new draft. Hear why native 9:16 vertical video is more than just a technical bullet—it’s a must-have for today’s creators focused on social-first content.
+
+We also dig into the catch with open source: not all licenses are created equal, so brands need to know what “open” really means before building client pipelines. The episode explores real creator workflows, GPU requirements, why version control matters for brand consistency, and how LTX-2.3 fits in agency and solo setups. Plus, we talk about the week’s wild AI news: robots getting “arrested” in China, dish-smashing droids in restaurants, and the internet’s new obsession with screaming fruit and adorable cannibal apples. 
+
+Finally, we connect the dots—why human-in-the-loop remains critical from video drafts to law enforcement facial recognition. Whether you’re a pro marketer or a meme lord, get the scoop on tools, risks, and trends—plus actual tips for using LTX-2.3 to draft, iterate, and win without letting your brand character turn into a wax statue overnight.]]></description>
+    <pubDate>Wed, 18 Mar 2026 02:40:35 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260317122257059+-+ltx23_local_video_ai.mp3" length="3621120" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1773801635110</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260317122257059+-+ltx23_local_video_ai.jpg"/>
   </item>
 </channel>
 </rss>

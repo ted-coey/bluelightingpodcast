@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Thu, 19 Mar 2026 02:47:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 02:34:31 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -844,6 +844,15 @@ Finally, we connect the dots—why human-in-the-loop remains critical from video
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260318122501690+-+gemini_embedding_2_vibes.mp3" length="4267320" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1773888471216</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260318122501690+-+gemini_embedding_2_vibes.jpg"/>
+  </item>
+
+  <item>
+    <title>Adobe Firefly Custom Models: End AI Image Chaos</title>
+    <description><![CDATA[Tired of AI image generators giving your character a new face every post? Today, Hunter and Riley break down Adobe’s Firefly Custom Models beta, a game changer designed to squash creative chaos. Learn how you can train a private model using as few as ten of your own images for visual consistency, whether you’re a solo artist or running with a big brand team. The hosts dish practical tips: what content to upload, how to avoid training in ‘junk drawer’ inconsistency, and realistic expectations for logos and typography. They zoom out on the larger AI ecosystem, from the rise of awkward AI job interviews to agents going rogue at Meta, and connect it all back to what counts for creators: control, trust, and repeatable results. Finally, they share actionable steps for getting started with custom models or building your own mini brand kit, even if you’re not in the beta yet. Listen for laughs and hard truths about curating good taste in the age of automated visuals.]]></description>
+    <pubDate>Fri, 20 Mar 2026 02:34:31 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260319122010608+-+firefly_custom_models.mp3" length="3531432" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1773974071112</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260319122010608+-+firefly_custom_models.jpg"/>
   </item>
 </channel>
 </rss>

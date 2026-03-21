@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Fri, 20 Mar 2026 02:34:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 02:39:05 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -853,6 +853,15 @@ Finally, we connect the dots—why human-in-the-loop remains critical from video
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260319122010608+-+firefly_custom_models.mp3" length="3531432" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1773974071112</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260319122010608+-+firefly_custom_models.jpg"/>
+  </item>
+
+  <item>
+    <title>OpenAI GPT 5.4 Mini and Nano: The New Content Crew</title>
+    <description><![CDATA[Today on Blue Lightning Daily, Hunter and Riley take you inside OpenAI’s big new update: GPT 5.4 Mini and Nano, two pocket-sized models designed to supercharge content ops for creators and teams. Forget about “new frontier” hype—this is all about making repetitive content work faster, cheaper, and at scale. Discover how Mini and Nano slot into real workflows for outlines, rewrites, batch captioning, formatting, and compliance—even acting as your brand voice cop and ruthless automator. Learn how to test if these models keep your unique tone or drift toward generic content, and get battle-tested strategies for pairing generation with smart curation so you don’t flood the world with oatmeal-flavored mediocrity. Plus, catch a quick-fire roundup on Adobe Firefly Custom Models, Google’s Gemini Embedding 2, Lightricks LTX 2.3, and NVIDIA’s Nemotron 3 Super, all pointing to the future of modular, plug-and-play AI stacks. Who really owns model routing, where do you draw the line between automation and human oversight, and what’s the funniest pipeline gremlin fail? If you want to build a powerhouse content pipeline that’s modular, safe, and actually creative, this episode is your guide to AI’s unglamorous but indispensable new infrastructure era.]]></description>
+    <pubDate>Sat, 21 Mar 2026 02:39:05 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260320122005074+-+gpt54mini_nano_content.mp3" length="4390176" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1774060745380</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260320122005074+-+gpt54mini_nano_content.jpg"/>
   </item>
 </channel>
 </rss>

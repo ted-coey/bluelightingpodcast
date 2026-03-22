@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sat, 21 Mar 2026 02:39:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 02:35:36 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -862,6 +862,19 @@ Finally, we connect the dots—why human-in-the-loop remains critical from video
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260320122005074+-+gpt54mini_nano_content.mp3" length="4390176" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1774060745380</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260320122005074+-+gpt54mini_nano_content.jpg"/>
+  </item>
+
+  <item>
+    <title>Adobe Firefly Custom Models: Your Brand, One Look</title>
+    <description><![CDATA[Today on Blue Lightning Daily, Hunter and Riley break down one of the most practical AI updates of the year: Adobe Firefly Custom Models, now in public beta. Tired of your mascot morphing oddly or your product shots losing all consistency? This episode dives into how Firefly Custom Models lets you train private models with as few as ten to thirty of your own branded images—no massive datasets or PhDs required. Learn the difference between subject and style modes, get real-world tips for curating your training folder, and find out why the 'sacred folder' is the new power move in marketing.
+
+The hosts discuss why repeatable outputs matter more than random AI 'bangers,' and how this tech makes life easier for teams juggling lots of campaigns and variants. They also touch on the new pitfalls: who controls the training set, model governance, and the looming threat of 'brand drift.' Will private models solve more problems or just create model sprawl? Plus, get a rapid-fire tour of new updates from OpenAI, Google Gemini Embedding 2, and Lightricks, all focused on making creative workflows less painful and more controllable.
+
+Tune in for actionable advice, examples for both solo creators and agencies, and enough digital therapy for anyone burned by inconsistent AI art. As always, subscribe for more daily takes on what’s new and what actually works in AI.]]></description>
+    <pubDate>Sun, 22 Mar 2026 02:35:36 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260321122055711+-+firefly_custom_models.mp3" length="3313128" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1774146936853</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260321122055711+-+firefly_custom_models.jpg"/>
   </item>
 </channel>
 </rss>

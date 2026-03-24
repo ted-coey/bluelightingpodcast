@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sun, 22 Mar 2026 02:35:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 02:35:02 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -875,6 +875,15 @@ Tune in for actionable advice, examples for both solo creators and agencies, and
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260321122055711+-+firefly_custom_models.mp3" length="3313128" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1774146936853</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260321122055711+-+firefly_custom_models.jpg"/>
+  </item>
+
+  <item>
+    <title>Gemini Hits Chrome on iOS: Brainstorm Without the Shuffle</title>
+    <description><![CDATA[Today on Blue Lightning Daily, Hunter and Riley dig into Google’s bold new move: integrating Gemini AI directly into Chrome on iPhone and iPad. No more app-hopping—creators can now brainstorm, generate images, and draft ideas without ever leaving the browser they already use. The new "Ask Gemini" and "Create image" buttons promise to turn Chrome from a research tool into a true creative surface, streamlining everything from moodboarding to thumbnail ideation. We break down why this isn’t just an "image maker" but a workflow revolution—plus where the risks and "accidental lookalike" problems start to creep in. The hosts debate how brand teams and solo creators should handle these quick drafts, discuss lightweight guardrails, and explain why browser-native AI is great for concepting but not a replacement for pro design tools. Then, we connect it to the bigger picture: OpenAI’s Mini models, Adobe’s Firefly Custom Models, and NVIDIA’s open agent tools, all part of AI becoming embedded in work, not just a splashy new app. Whether you build marketing campaigns or sketch out new ideas on your phone, this episode gives you the real scoop on the creative future inside your browser. Plus, some much-needed tips on how not to end up with cursed AI art in your ad campaigns.]]></description>
+    <pubDate>Tue, 24 Mar 2026 02:35:02 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260323122225054+-+gemini_chrome_ios_bl.mp3" length="3456552" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1774319702832</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260323122225054+-+gemini_chrome_ios_bl.jpg"/>
   </item>
 </channel>
 </rss>

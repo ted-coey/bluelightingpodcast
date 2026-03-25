@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Tue, 24 Mar 2026 02:35:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 02:35:22 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -884,6 +884,15 @@ Tune in for actionable advice, examples for both solo creators and agencies, and
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260323122225054+-+gemini_chrome_ios_bl.mp3" length="3456552" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1774319702832</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260323122225054+-+gemini_chrome_ios_bl.jpg"/>
+  </item>
+
+  <item>
+    <title>Stop Wasting Money: Mastering the New GPT-5.4 Lineup</title>
+    <description><![CDATA[If your workflow still relies on the priciest LLM for every task, you might be paying premium prices for basic glue work. In today’s episode, Hunter and Riley break down OpenAI’s newly-noticed GPT-5.4 family—Thinking, Pro, Mini, and Nano—and how model routing is changing the game for creators and teams. Learn how to match the right model to each job, so you can scale content, automate pipelines, and keep your brand voice consistent without setting your wallet on fire. We also tackle the reality of one million token context windows: why more room can help, but only if your inputs are curated, not chaotic. Plus: routing readiness checklists, the cultural shift from “use the best” to “use what fits,” and what OpenAI’s segmentation means for the rise of specialized toolchains. We touch on Google Gemini, Adobe Firefly Custom Models, and NVIDIA Nemotron, all pointing toward a future where boring reliability wins over algorithmic novelty. Finally, get practical tips for smarter automation, batch sanity, and building workflows that actually work for you—not against your budget. Forget the hype: it’s all about picking the right model at the right step, every single time.]]></description>
+    <pubDate>Wed, 25 Mar 2026 02:35:22 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260324122041778+-+stop_wasting_money_gpt.mp3" length="3550392" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1774406122120</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260324122041778+-+stop_wasting_money_gpt.jpg"/>
   </item>
 </channel>
 </rss>

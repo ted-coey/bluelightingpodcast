@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Wed, 25 Mar 2026 02:35:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 02:36:53 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -893,6 +893,15 @@ Tune in for actionable advice, examples for both solo creators and agencies, and
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260324122041778+-+stop_wasting_money_gpt.mp3" length="3550392" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1774406122120</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260324122041778+-+stop_wasting_money_gpt.jpg"/>
+  </item>
+
+  <item>
+    <title>Sora Shutdown: Saving Your Workflow from Link Rot</title>
+    <description><![CDATA[OpenAI has unplugged the Sora app and API, leaving creators and marketers scrambling to export their work and preserve valuable video prompts and assets. In this episode, Hunter and Riley walk through a practical migration checklist, explain why exporting just video files is not enough, and offer tips for future-proofing your workflow against sudden platform outages. You will learn about OpenAI’s Sora export tools, the critical importance of saving prompts, seeds, and remix histories, and strategies for preventing link rot across your internal docs. The hosts discuss the broader trend of AI tools moving from novelties to infrastructure, and what happens as platforms like Sora disappear overnight. Plus, hear why storing your creative assets locally and making AI video a modular part of your tech stack is now non-negotiable. The episode rounds out with news about oral exams making a comeback in colleges, MIT’s Wi-Fi that can sense through walls, and why the AI music bot scam proves anti-fraud systems are always playing catch up. Tune in for actionable advice and industry insights to help you protect your creative pipeline in an unpredictable AI landscape.]]></description>
+    <pubDate>Thu, 26 Mar 2026 02:36:53 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260325122138762+-+sora_shutdown_export.mp3" length="3218352" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1774492613138</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260325122138762+-+sora_shutdown_export.jpg"/>
   </item>
 </channel>
 </rss>

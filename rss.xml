@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Thu, 26 Mar 2026 02:36:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 02:37:30 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -902,6 +902,15 @@ Tune in for actionable advice, examples for both solo creators and agencies, and
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260325122138762+-+sora_shutdown_export.mp3" length="3218352" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1774492613138</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260325122138762+-+sora_shutdown_export.jpg"/>
+  </item>
+
+  <item>
+    <title>Seedance 2.0: The AI Video Tool Built for Editing</title>
+    <description><![CDATA[Today on Blue Lightning Daily, we dive into ByteDance's new Seedance 2.0, fresh inside the Dreamina platform. Rather than focusing on pure cinematic wow factor, Seedance 2.0 is designed for creators who need videos that hold up through edits, captions, speed ramps and feedback loops.  The big advantages include cleaner baseline outputs, improved motion stability, and new iteration tools—like extending a shot, object swapping, and look adjustments that keep continuity tight. For anyone who’s ever had to re-roll a video a thousand times for brand consistency or product shots, these workflow improvements cut down on fatigue and frustration.   Native 1080p video now comes standard, helping maintain quality when it is time to add overlays and captions. Reference control is a headline feature: you can guide the AI using text prompts combined with images, videos or even audio references—giving creators tangible control over character, product, and color consistency.  Integration is another game changer: Seedance is inside Dreamina and CapCut, meaning you can generate videos right next to your favorite editor, smoothing out everything from product passes to quick transitions.  We also check in on the bigger ecosystem, with reminders that dependency on any one tool (hello Sora sunset) is risky, while AI tools like Google Gemini and NVIDIA Nemotron are pushing toward deeper distribution and productivity.  The show wraps with practical tips for creators: treat Seedance 2.0 like a fast draft engine, lean on references for consistency, and iterate like a director-not just a prompter. Editing still matters, but start closer to done.  Subscribe for your daily dose of AI disruption, with a side order of timeline chaos.]]></description>
+    <pubDate>Fri, 27 Mar 2026 02:37:30 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260326122354292+-+seedance_20_editing_win.mp3" length="3433704" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1774579050552</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260326122354292+-+seedance_20_editing_win.jpg"/>
   </item>
 </channel>
 </rss>

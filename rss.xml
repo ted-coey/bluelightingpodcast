@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Fri, 27 Mar 2026 02:37:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 02:35:02 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -911,6 +911,15 @@ Tune in for actionable advice, examples for both solo creators and agencies, and
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260326122354292+-+seedance_20_editing_win.mp3" length="3433704" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1774579050552</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260326122354292+-+seedance_20_editing_win.jpg"/>
+  </item>
+
+  <item>
+    <title>OpenAI Model Spec: Who Really Runs Your Chatbot?</title>
+    <description><![CDATA[Today on Blue Lightning Daily, Hunter and Riley dive deep into OpenAI’s Model Spec, the under-the-hood rulebook that explains why your chatbot might act strict, weirdly polite, or suddenly shift its brand voice. They break down the chain of command for AI instructions: from OpenAI’s core rules, to app-level behavior, developer settings, user prompts, and guidelines. Learn how and where to lock in your brand rules to avoid workflow chaos, why safe completions matter, and how regression testing is your friend—not just a nerd thing. Plus, hear about the latest in AI hilarity and havoc, from AI detectors flagging historical documents and sand dunes to automated systems praising gibberish and flagging innocent people. The takeaway? Make your rules explicit, put them in the right place, treat all AI outputs as drafts until reviewed by humans, and keep your prompt test packs handy. Whether you’re a creator, marketer, or just navigating the wild world of AI, this episode serves practical advice, funny stories, and essential warnings about letting algorithms run the show unchecked.]]></description>
+    <pubDate>Sat, 28 Mar 2026 02:35:02 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260327122116019+-+openai_model_spec_chatbot.mp3" length="3651096" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1774665302538</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260327122116019+-+openai_model_spec_chatbot.jpg"/>
   </item>
 </channel>
 </rss>

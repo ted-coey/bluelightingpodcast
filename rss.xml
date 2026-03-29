@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sat, 28 Mar 2026 02:35:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 02:38:06 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -920,6 +920,15 @@ Tune in for actionable advice, examples for both solo creators and agencies, and
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260327122116019+-+openai_model_spec_chatbot.mp3" length="3651096" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1774665302538</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260327122116019+-+openai_model_spec_chatbot.jpg"/>
+  </item>
+
+  <item>
+    <title>CapCut Drops Seedance 2.0 Directly Into the Timeline</title>
+    <description><![CDATA[CapCut just turned the tables for creators by rolling out Seedance 2.0, ByteDance’s advanced text-to-video engine, straight into the editing timeline—no more exporting, uploading, or juggling tabs. In this episode, we unpack why this “boring” update is the real MVP for creatives who want workflow, not just wow factor. Seedance 2.0 started as a demo in Dreamina but now lets you generate, tweak, and cut AI video clips right inside CapCut, side by side with your templates, captions, and effects. This frees creators from painful re-roll loops and lets you iterate even faster, making short-form edits and b-roll much less of a grind. We debate what this means for brand safety, creativity, and the risk of a wave of look-alike content. More importantly, we break down reference-based control, which keeps characters and products consistent for campaigns while promising cleaner motion and steadier faces. We also cover key takeaways if you get access this weekend: use it for hook scenes and b-roll where speed beats polish, and remember to edit, design, and caption your raw AI output for brand and creative unique. Listen as we zoom out on Sora’s shutdown and ByteDance’s big move to make generative video a main ingredient, not just a flashy feature. The deadline gets easier, but the creative standards are still all on you. Tune in for the real impact of AI video tools sitting right where your edits happen.]]></description>
+    <pubDate>Sun, 29 Mar 2026 02:38:06 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260328122012724+-+capcut_seedance_2.mp3" length="3163176" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1774751886602</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260328122012724+-+capcut_seedance_2.jpg"/>
   </item>
 </channel>
 </rss>

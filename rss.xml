@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sun, 29 Mar 2026 02:38:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 02:43:48 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -929,6 +929,15 @@ Tune in for actionable advice, examples for both solo creators and agencies, and
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260328122012724+-+capcut_seedance_2.mp3" length="3163176" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1774751886602</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260328122012724+-+capcut_seedance_2.jpg"/>
+  </item>
+
+  <item>
+    <title>Gemini Chat Imports: Moving Your Brain in a ZIP File</title>
+    <description><![CDATA[Google Gemini now lets you import chat histories from ChatGPT and Claude, making it possible to bring your entire prompt library and creative workflow into one place. In this episode, we break down why this seemingly simple import feature is a game-changer for creators, marketing teams, and anyone who lives inside chat assistants. We dig into how “Import AI chats” in Gemini works, why prompt archives have become your most valuable asset, and what new ops hygiene you need when your strategy, templates, and voice calibration all fit in a downloadable ZIP file. We also cover the practical realities and pitfalls: imported chats become searchable references, not instant superpowers. Attachments and complex threads might get messy, and cross-model prompts never behave exactly the same. We talk about IP questions, onboarding improvements, the need for clear workspace boundaries, and how centralizing your history could save your bacon with clients or legal. Plus, we zoom out on a week of tighter tool integration across the AI ecosystem—from CapCut’s editing upgrades to OpenAI’s evolving policy spec. Whether you’re eyeing a platform switch or just want to preserve your creative chaos, this episode is your playbook for smarter, safer chat library portability in the age of AI workflows.]]></description>
+    <pubDate>Tue, 31 Mar 2026 02:43:48 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260330122012653+-+gemini_chat_imports.mp3" length="3016632" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1774925028053</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260330122012653+-+gemini_chat_imports.jpg"/>
   </item>
 </channel>
 </rss>

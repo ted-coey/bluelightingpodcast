@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Tue, 31 Mar 2026 02:43:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 02:33:33 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -938,6 +938,15 @@ Tune in for actionable advice, examples for both solo creators and agencies, and
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260330122012653+-+gemini_chat_imports.mp3" length="3016632" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1774925028053</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260330122012653+-+gemini_chat_imports.jpg"/>
+  </item>
+
+  <item>
+    <title>Google Gemini Chat Import: Your AI Memories, On Demand</title>
+    <description><![CDATA[The digital junk drawer just got an upgrade. Today, Hunter and Riley dive into Google Gemini’s new Import AI chats feature. Now you can migrate your chat history from ChatGPT or Claude into Gemini, turning old conversations into a searchable library. What does this mean for creators, agencies, and serial brainstormers? Less starting from scratch, more organized creative IP, and easier onboarding for teams. But it is not all sunshine—attachments do not always make the trip, awkward prompt quirks remain, and privacy still matters. The crew explains how to treat your imported chats like a reference vault, why search beats scrolling, and why Gemini’s move is a game changer for streamlining messy workflows. Plus, the dangers of importing all your drama, the future of prompt chain black markets, and the myth of digital minimalism. If you have ever wanted to switch assistants without losing your brain crumbs, this episode unpacks what Gemini’s new tool delivers and what it does not. Listen in for the creator’s take on the most boring (but powerful) feature drop of the season.]]></description>
+    <pubDate>Wed, 01 Apr 2026 02:33:33 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260331122045198+-+gemini_chat_import.mp3" length="3112440" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1775010813017</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260331122045198+-+gemini_chat_import.jpg"/>
   </item>
 </channel>
 </rss>

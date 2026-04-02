@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Wed, 01 Apr 2026 02:33:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 02:36:51 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -947,6 +947,15 @@ Tune in for actionable advice, examples for both solo creators and agencies, and
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260331122045198+-+gemini_chat_import.mp3" length="3112440" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1775010813017</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260331122045198+-+gemini_chat_import.jpg"/>
+  </item>
+
+  <item>
+    <title>April Fools and AI Fails: Surviving Quiet Weeks</title>
+    <description><![CDATA[What happens when every chatbot on Earth wakes up and gets the day wrong? On this very April Fools' edition of Blue Lightning Daily, we dive into a weirdly calm week of AI news: no blockbuster tool drops, just a shifting ecosystem beneath the surface. Join Hunter and Riley as they break down why quiet weeks can be a hidden blessing for creators and teams. Instead of chasing rumors, it is time to strengthen your creative pipeline, really document your prompts, and build simple systems so a background update does not nuke your workflow. We also hit the meme madness: fake gadgets like the OPPO urine-testing phone prank, avocado scanners, and chatbots confidently giving out bad health advice. The real takeaways? Consistency is now a killer feature, model access can change while you sleep, and your best creative safeguards come from low-key process hacks, not new tech. Whether you are a solo TikToker or part of a big brand, we outline practical ways to survive model churn, export your work, and build a backup path that actually ships when your favorite tool faces a meltdown. Plus: the truth about multi-model hubs like Firefly Custom Models, the difference between platform and model lock-in, and why boring release notes should be your secret superpower. If you have ever had a prompt suddenly stop working, a campaign torpedoed by a vanished feature, or just want to avoid getting gaslit by split rollouts, this episode is your blueprint. And please—do not ask chatbots to debate your medical choices. Enjoy the calm before the next AI storm.]]></description>
+    <pubDate>Thu, 02 Apr 2026 02:36:51 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260401122000480+-+april_fools_ai_fails.mp3" length="3774648" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1775097411463</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260401122000480+-+april_fools_ai_fails.jpg"/>
   </item>
 </channel>
 </rss>

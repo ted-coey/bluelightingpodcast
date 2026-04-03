@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Thu, 02 Apr 2026 02:36:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 02:34:20 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -956,6 +956,15 @@ Tune in for actionable advice, examples for both solo creators and agencies, and
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260401122000480+-+april_fools_ai_fails.mp3" length="3774648" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1775097411463</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260401122000480+-+april_fools_ai_fails.jpg"/>
+  </item>
+
+  <item>
+    <title>PixVerse V6 Arrives: Audio, Multi-Shot, and 1080p Power</title>
+    <description><![CDATA[PixVerse V6 just dropped and it aims to compress your whole workflow into minutes. In this episode, Hunter and Riley dig into the new release that promises high-res 1080p output, true multi-shot sequences from a single prompt, and native audio generation complete with lip-sync for dialogue. We look at how these features shift video creation from “too raw to review” to “basically client-ready,” and discuss the new bottlenecks: is it now about prompt writing, creative taste, or just approval hell? The hosts break down the biggest caveats: audio is a game-changer but comes with limitations if you need surgical edits or script tweaks. Multi-shot generation with continuity is harder than it looks—does V6 keep your product, character, and label consistent across scenes? Plus, we hit on why true 1080p is less about maximum quality and more about surviving social platform compression. Camera and lens controls are now at your fingertips, but they can be more for creative freedom or committee chaos depending on your team’s vibe. If you’re a performance marketer, creator, or freelancer who’s tired of “Frankensteining” ad drafts, this release targets you. The hosts share tips for getting the most from PixVerse V6: write explicit ad briefs, set shot intent, keep dialogue expectations realistic, and treat generated audio as a draft to keep your workflow nimble. The takeaway? PixVerse V6 is your shortcut to animatics that look and sound finished enough to get approved—so you can stop losing time to endless stitching, exporting, and patching. Stay tuned for fresh AI updates that keep creators ahead of the game!]]></description>
+    <pubDate>Fri, 03 Apr 2026 02:34:20 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260402122115352+-+pixverse_v6_drop.mp3" length="3706272" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1775183660618</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260402122115352+-+pixverse_v6_drop.jpg"/>
   </item>
 </channel>
 </rss>

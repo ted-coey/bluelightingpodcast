@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Fri, 03 Apr 2026 02:34:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 02:36:01 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -965,6 +965,15 @@ Tune in for actionable advice, examples for both solo creators and agencies, and
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260402122115352+-+pixverse_v6_drop.mp3" length="3706272" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1775183660618</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260402122115352+-+pixverse_v6_drop.jpg"/>
+  </item>
+
+  <item>
+    <title>Netflix VOID: Erasing Reality in Your Videos</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, we dive into Netflix’s newly open-sourced VOID, or Video Object and Interaction Deletion. VOID isn’t your average object remover. It goes beyond erasing people from videos and wipes out all traces—shadows, reflections, and even how the object affected the scene. Think of it as pressing delete on video reality, not just patching a hole. We break down what makes VOID different from classic inpainting tools. Instead of smearing backgrounds, VOID regens a “what if it never happened” version and rewrites physics interactions to keep everything looking real. For creators, this means finally saying goodbye to pesky boom mic shadows, reflections of gear, and accidental cameos that are a pain to fix manually. But is it one-click magic? Not yet. Teams with tech muscle can dive in, but casual users will see the benefits trickle down into video editing apps soon. We talk about when to use it, what footage stumps even the best AI, and where creators still need classic best practices—like getting a clean shot and stable footage. We also tackle the big ethical debate: what happens when deletion tools become good enough to disguise reality, not just clean up mistakes? There’s a fine line between brand safety and rewriting history. Plus, we round up the week’s other AI chaos, from Alibaba’s Qwen Sprint to Perplexity’s privacy drama and OpenAI buying a tech news show. Want to know how these fast-changing tools will affect your videos, ad campaigns, and creative workflows? Hit play for all the details and a healthy dose of robot jokes.]]></description>
+    <pubDate>Sat, 04 Apr 2026 02:36:01 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260403121940090+-+netflix_void_reality.mp3" length="3350232" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1775270161693</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260403121940090+-+netflix_void_reality.jpg"/>
   </item>
 </channel>
 </rss>

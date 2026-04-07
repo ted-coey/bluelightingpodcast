@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sun, 05 Apr 2026 02:37:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 02:34:50 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -987,6 +987,15 @@ The podcast wraps with practical tips on getting started with Gemma 4, model siz
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260404122026022+-+google_gemma_4_open.mp3" length="4401768" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1775356675723</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260404122026022+-+google_gemma_4_open.jpg"/>
+  </item>
+
+  <item>
+    <title>Tape Leaks and Blind Tests: The Secret AI Image Models</title>
+    <description><![CDATA[On today’s Blue Lightning Daily, Hunter and Riley dive into the mysterious appearance of new image models on LMSYS Arena using names like maskingtape-alpha, gaffertape-alpha, and packingtape-alpha. With OpenAI silent and the community sleuthing, we explore early impressions and real-world usability improvements: better prompt following, legible text, coherent compositions, and fewer “alien” hands or garbled signage. This episode breaks down why the secret sauce isn’t style but controllability, and why readable text is more valuable for pros than another wild art filter. We also zoom out to trends like Netflix’s VOID for smarter object removal, PixVerse V6 for effortless video and audio generation, and PikaStream’s push to make AI characters interactive in real time. From Arena’s “Thunderdome” blind tests to commercial-grade production, the episode unpacks what matters for creators: consistency, editing tools, true-to-life details, and whether these “tape” models can scale beyond viral moments. Jump in for a fast, funny tour of the week’s biggest surprises in gen AI, why workflow wins over wow factor, and what pros are really hoping for if OpenAI is about to reveal its next image powerhouse.]]></description>
+    <pubDate>Tue, 07 Apr 2026 02:34:50 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260406121935743+-+tape_leaks_arena_drop.mp3" length="2900928" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1775529290042</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260406121935743+-+tape_leaks_arena_drop.jpg"/>
   </item>
 </channel>
 </rss>

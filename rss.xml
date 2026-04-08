@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Tue, 07 Apr 2026 02:34:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 02:35:59 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -996,6 +996,15 @@ The podcast wraps with practical tips on getting started with Gemma 4, model siz
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260406121935743+-+tape_leaks_arena_drop.mp3" length="2900928" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1775529290042</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260406121935743+-+tape_leaks_arena_drop.jpg"/>
+  </item>
+
+  <item>
+    <title>Google Vids Drops AI Avatars: Your Talent is a Dropdown</title>
+    <description><![CDATA[Get ready for a bold leap in workplace video: Google Vids has added AI presenter avatars, making 'pick your spokesperson' as simple as choosing from a dropdown. In today’s episode, Hunter and Riley dive into why this is practical for boring but necessary videos like onboarding, training, and internal updates, but potentially disastrous for anything culture-related or heartfelt. Hear how the new workflow lets you paste a script, pick an avatar, and instantly generate talking-head clips without a camera or microphone. Learn about the tight integration with Gemini for outlining, scripting, and editing inside Workspace, which unlocks rapid revision, localization, and tight control—but also moves the bottleneck from the camera-shy exec to the script owner (hello, legal and compliance!). We talk about the dangers of the wrong avatar or mismatched tone, why Google caps videos at thirty seconds, why modular videos beat monologues, and how this trend fits into a boom week for generative AI tools. Finally, we hit on how the internet’s love for viral, character-driven AI video contrasts with the frictionless, utility-first avatars of the workplace. If you’re a creator or marketer, you’ll want to know where to automate and where to show your real face. Plus: the subtle governance moves behind Google’s growing media stack. Tune in for the wildest implications, the biggest AI fails, and a lightning-fast look at the tools now shaping the future of workplace and creator video.]]></description>
+    <pubDate>Wed, 08 Apr 2026 02:35:59 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260407121915489+-+google_vids_ai_avatar.mp3" length="3745632" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1775615759570</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260407121915489+-+google_vids_ai_avatar.jpg"/>
   </item>
 </channel>
 </rss>

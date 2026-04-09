@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Wed, 08 Apr 2026 02:35:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 02:40:36 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1005,6 +1005,21 @@ The podcast wraps with practical tips on getting started with Gemma 4, model siz
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260407121915489+-+google_vids_ai_avatar.mp3" length="3745632" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1775615759570</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260407121915489+-+google_vids_ai_avatar.jpg"/>
+  </item>
+
+  <item>
+    <title>Google Veo 3.1: Free AI Video in Google Vids</title>
+    <description><![CDATA[Google has dropped a game-changer: anyone with a personal Google account can now access Veo 3.1’s AI video generation right inside Google Vids, no admin needed. Creators get ten free video generations a month, making it easy to prototype, storyboard, and build dynamic b-rolls—all embedded seamlessly in the collaborative Vids workflow. The catch? Clips are about eight seconds each, encouraging creators and teams to use them as scene blocks rather than expecting one perfect video per generation.
+
+This move shifts AI video tools from futuristic demos to everyday office essentials. No more asking IT for access; your free monthly allowance is ready for review loops, quick pitches, internal comms, and CEO updates (awkward avatars and all). Hosts Hunter and Riley dive into what this means for creators: more speed, but also new chaos as teams race to align on prompts and ration their generations strategically. The era of rewrite meetings becomes the era of prompt meetings.
+
+The conversation also tracks the wider landscape, from PikaStream’s real-time agents to the buzz around OpenAI’s leaked “tape” and Google’s freshly open-sourced Gemma 4 weights. With AI video getting more controllable and increasingly embedded in the tools people already use, it is less about beating benchmarks and more about producing useful, repeatable drafts.
+
+Google’s integration strategy—the button-in-the-toolbar effect—is setting a new normal. Video becomes as expected as slides, and even non-creatives will find themselves on the fast track to becoming “accidental TikTok editors.” Plus, vertical video generation and direct YouTube publishing are tailored for today’s mobile-first audiences. The bottom line: It is not about having the most dazzling model, but the AI video tool that actually gets used. Tune in for analysis, laughs, and a look at why the real winners might be the teams who move fastest from idea to review-ready draft.]]></description>
+    <pubDate>Thu, 09 Apr 2026 02:40:36 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260408122020993+-+google_veo_vids_ai.mp3" length="3636240" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1775702436692</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260408122020993+-+google_veo_vids_ai.jpg"/>
   </item>
 </channel>
 </rss>

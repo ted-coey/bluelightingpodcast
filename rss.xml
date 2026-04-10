@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Thu, 09 Apr 2026 02:40:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 02:38:29 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1020,6 +1020,15 @@ Google’s integration strategy—the button-in-the-toolbar effect—is setting 
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260408122020993+-+google_veo_vids_ai.mp3" length="3636240" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1775702436692</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260408122020993+-+google_veo_vids_ai.jpg"/>
+  </item>
+
+  <item>
+    <title>Seedance 2.0 Goes Native in CapCut: Game-Changer or Chaos?</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, we break down ByteDance’s big move: Seedance 2.0 is now baked straight into CapCut as timeline-ready media. No detours, no exporting loops, just generate-your-AI-clip and drop it right where you need it. Hosts Hunter and Riley highlight how this practical update targets a real pain for creators by turning gen video into a normal part of editing, not a separate workflow. They dig into the idea of 'omni-reference' and how using your own images and videos as prompts keeps AI output closer to your creative intent. The team discusses the fast-moving landscape of integrated AI tools, from Google’s Veo updates inside Google Vids to Pika’s experimental agent-driven video chats. Find out why these integrations are changing not just what’s possible, but how creators actually work—making the AI magic frictionless, but also raising questions about habit, lock-in, and creative decision overload. Plus: practical tips for using Seedance 2.0 wisely, and why workflow trumps raw model flashiness. If you want the inside scoop on the AI video editing revolution and how to survive (and thrive) in a world where the robots are always updating, this episode is for you.]]></description>
+    <pubDate>Fri, 10 Apr 2026 02:38:29 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260409122056680+-+seedance_2_in_capcut.mp3" length="3617280" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1775788709355</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260409122056680+-+seedance_2_in_capcut.jpg"/>
   </item>
 </channel>
 </rss>

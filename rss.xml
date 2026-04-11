@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Fri, 10 Apr 2026 02:38:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 02:48:47 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1029,6 +1029,15 @@ Google’s integration strategy—the button-in-the-toolbar effect—is setting 
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260409122056680+-+seedance_2_in_capcut.mp3" length="3617280" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1775788709355</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260409122056680+-+seedance_2_in_capcut.jpg"/>
+  </item>
+
+  <item>
+    <title>Adobe Firefly Gets Precision Flow and AI Markup</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, hosts Hunter and Riley break down Adobe’s massive Firefly update designed to end prompt chaos and make AI image editing actually predictable. Discover how Precision Flow lets you use sliders for controlled, consistent tweaks to mood, atmosphere, and lighting without rewriting your prompt 15 times. From moody thumbnails to subtle client feedback, creators get the bumpers they need to avoid wild, unwanted changes. Next up: AI Markup. This feature enables you to brush, erase, or box-select any part of an image and pair it with hyper-specific prompts. It is a true leap for directing changes only where they are needed—no more surprise hats on mascots. Expect honest talk about where the tools still struggle—think product packaging, hair, and reflections—and why human oversight stays critical. Plus, get a whirlwind roundup of AI oddities, from sandwich-loving bots to accidental pet discipline and bureaucracy glitches blamed on ChatGPT. Whether you are a pro creator needing reliable workflows or a rookie looking for chaos insurance, this episode keeps it real, helps you avoid slot-machine art direction, and shares what to try first with these new Firefly tools. For the latest in creative tech, hit subscribe.]]></description>
+    <pubDate>Sat, 11 Apr 2026 02:48:47 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260410121952870+-+firefly_precision_markup.mp3" length="3267792" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1775875727049</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260410121952870+-+firefly_precision_markup.jpg"/>
   </item>
 </channel>
 </rss>

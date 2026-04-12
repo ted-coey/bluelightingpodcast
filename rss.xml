@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sat, 11 Apr 2026 02:48:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 02:37:40 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1038,6 +1038,15 @@ Google’s integration strategy—the button-in-the-toolbar effect—is setting 
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260410121952870+-+firefly_precision_markup.mp3" length="3267792" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1775875727049</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260410121952870+-+firefly_precision_markup.jpg"/>
+  </item>
+
+  <item>
+    <title>Meta Muse Spark: Multimodal Magic or Walled Garden?</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, we dive into the reveal of Muse Spark: Meta's new flagship model from Superintelligence Labs. Unlike past Meta launches, Muse Spark is all closed weights—no DIY for developers, just seamless multimodal magic inside Meta's own tools. We break down what makes Muse Spark unique, from its instant, thinking, and contemplating modes to deep multimodal workflows that handle text, images, and audio natively. The hosts debate the creative power and possible risks of adjustable 'thinking' modes, the liability of fast answers, and the practical impact for creators working in real-world content workflows. This episode explores the industry-wide move toward integrated AI features — with CapCut, Google Veo, and Adobe Firefly also tightening the gap between ideas and shippable content. We get into the promise of parallel agents, the perils of merged contradictions, and the challenge of transparency and trust as more AI assistants land in mainstream apps. Plus, quick hits on wild AI news stories, from Grok the cat-saver to the face recognition fiasco, and a discussion on humor, safety, and not building your whole creative stack on rented land. If you want to understand what Muse Spark means for modern creators, agencies, and anyone betting on AI for production, this episode is for you.]]></description>
+    <pubDate>Sun, 12 Apr 2026 02:37:40 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260411122034709+-+meta_muse_spark_daily.mp3" length="3729144" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1775961460623</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260411122034709+-+meta_muse_spark_daily.jpg"/>
   </item>
 </channel>
 </rss>

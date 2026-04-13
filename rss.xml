@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sun, 12 Apr 2026 02:37:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 21:03:06 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1047,6 +1047,15 @@ Google’s integration strategy—the button-in-the-toolbar effect—is setting 
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260411122034709+-+meta_muse_spark_daily.mp3" length="3729144" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1775961460623</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260411122034709+-+meta_muse_spark_daily.jpg"/>
+  </item>
+
+  <item>
+    <title>Gemini Goes 3D: Interactive Models in Chat</title>
+    <description><![CDATA[Google’s Gemini app is stepping up its creative game with the ability to generate interactive three-dimensional models and live simulations right inside your chat. Today, Hunter and Riley dive into what this means for creators, marketers, and anyone tired of misunderstanding product mockups in meetings. No more endless rounds of "can we see it from the other side"—now you can spin, zoom, and tweak models live without leaving the chat. But while this new feature streamlines workflows and speeds up alignment, there are some hilarious new pitfalls: the so-called "slider delusion" where fast decision-making in simulated worlds might not match real-world rigor. The hosts explore who benefits most from these interactive objects, from explainers and agencies to teachers craving hands-on demos. They also dish on practical prompts to unlock the feature—hint: starting with "show me" or "help me visualize"—and the current limits, like needing a Pro Gemini account and no easy exports yet. Despite rollout quirks, this upgrade marks a shift toward fewer distractions, more in-conversation creativity, and a possible end to the countless app-switching during team brainstorms. If you hate tab-hopping or need to win arguments with live physics, this episode is your three-dimensional truth serum.]]></description>
+    <pubDate>Mon, 13 Apr 2026 21:03:06 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260413121926090+-+gemini_3d_in_chat.mp3" length="3719160" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1776114186534</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260413121926090+-+gemini_3d_in_chat.jpg"/>
   </item>
 </channel>
 </rss>

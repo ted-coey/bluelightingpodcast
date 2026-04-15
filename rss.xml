@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Mon, 13 Apr 2026 21:03:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 02:33:41 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1056,6 +1056,15 @@ Google’s integration strategy—the button-in-the-toolbar effect—is setting 
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260413121926090+-+gemini_3d_in_chat.mp3" length="3719160" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1776114186534</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260413121926090+-+gemini_3d_in_chat.jpg"/>
+  </item>
+
+  <item>
+    <title>PixVerse C1: From Storyboard to Screen in Seconds</title>
+    <description><![CDATA[Today on Blue Lightning Daily, we dig into PixVerse C1, the new public beta tool that turns your multi-panel storyboards into actual video sequences. Is it finally time to retire the "trust me bro" pre-vis phase? Hunter and Riley break down who this is for, why shot-based AI workflows matter, what breaks first in real use, and how creators should budget their iterations. We compare PixVerse C1’s storyboard-to-video with the familiar text-to-video, unpack practical pricing on WaveSpeed, and debate native AI audio in drafts. The discussion is packed with real talk on tool intent and pipeline risks, plus AI mishaps from agent-powered convenience stores to runaway crypto mining. We even get into some big picture questions around creative control, revision cycles, and who should be slightly nervous about their jobs in film. Whether you make animatics, pitches, or internal edits, this episode dives into technicals, pitfalls, and why the real future of AI video might be less about wild generation and more about finishing what you start. Also: cautionary tales about overdelegating to agents, plus ethical spirals around AI avatars of the deceased. If you’ve ever spent hours making storyboards watchable, this one’s for you.]]></description>
+    <pubDate>Wed, 15 Apr 2026 02:33:41 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260414122027785+-+pixverse_c1_storyboard.mp3" length="3357672" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1776220421818</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260414122027785+-+pixverse_c1_storyboard.jpg"/>
   </item>
 </channel>
 </rss>

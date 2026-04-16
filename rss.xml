@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Wed, 15 Apr 2026 02:33:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 02:35:03 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1065,6 +1065,15 @@ Google’s integration strategy—the button-in-the-toolbar effect—is setting 
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260414122027785+-+pixverse_c1_storyboard.mp3" length="3357672" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1776220421818</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260414122027785+-+pixverse_c1_storyboard.jpg"/>
+  </item>
+
+  <item>
+    <title>Google SeamlessTextInpainting: Real Tech or Meme?</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, Hunter and Riley dive into the internet mystery of 'SeamlessTextInpainting'—the Google-sounding model that has marketers, designers, and AI nerds buzzing. Is it a real, ship-ready tool, a research ghost, or just a name dropped on social for clout? The duo breaks down how multilingual text replacement in images is less about translation and more about painstaking pixel surgery. They reveal why image localization is a time vampire and unpack the real workflow pros and cons, not the hype. Expect stories about accidental new brands, tales of 'confident' AI inpainting, and practical guardrails for your next global campaign. Plus, how Adobe Firefly, PixVerse, and Meta Muse Spark all play into the next era of creative ops. Whether SeamlessTextInpainting is vaporware or the start of a new creative pipeline, you'll leave with tactical advice for using AI (and human judgment) to keep your text on brand and on point. If you have ever wrestled with a clone stamp tool or reviewed a comp that quietly turned 'Road Closed' into 'Ninja Training Zone,' this one's for you.]]></description>
+    <pubDate>Thu, 16 Apr 2026 02:35:03 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260415122107619+-+seamlesstextinpainting.mp3" length="3850392" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1776306903168</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260415122107619+-+seamlesstextinpainting.jpg"/>
   </item>
 </channel>
 </rss>

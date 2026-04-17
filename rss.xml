@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Thu, 16 Apr 2026 02:35:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 02:55:51 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1074,6 +1074,15 @@ Google’s integration strategy—the button-in-the-toolbar effect—is setting 
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260415122107619+-+seamlesstextinpainting.mp3" length="3850392" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1776306903168</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260415122107619+-+seamlesstextinpainting.jpg"/>
+  </item>
+
+  <item>
+    <title>Happy Oyster: Alibaba’s Real-Time World Generator</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, we crack open Alibaba’s just-revealed “Happy Oyster.” Is it the future of creator workflow, or just a cute shell for another demo parade? Riley and Hunter dig into what makes Happy Oyster different from typical AI video tools: you’re not just making short clips, you’re steering a living, persistent world in real time. We break down both modes—Directing (hands-on, tweak-as-you-go control) and Wandering (explore as the world unfolds). Can these next-gen tools actually keep continuity, object stability, and scene coherence through panicked client changes and Twitch chat chaos? What does persistence really mean, and how many creative pipelines actually need world models over static clips? Plus, comparisons to Google’s Project Genie, PixVerse, Meta’s Muse Spark, and why storyboard-to-world transitions are reshaping content creation. For creators, agencies, streamers, and chaos goblins alike, this episode is your no-nonsense, fun-first, hype-busting briefing on what matters when worlds go real-time. Bonus: key questions every pro should ask before getting carried away by an impressive demo. Will Happy Oyster hold together in the wild? Tune in, find out, and stress-test for yourself.]]></description>
+    <pubDate>Fri, 17 Apr 2026 02:55:51 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260416122028711+-+happy_oyster_worlds.mp3" length="3781848" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1776394551790</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260416122028711+-+happy_oyster_worlds.jpg"/>
   </item>
 </channel>
 </rss>

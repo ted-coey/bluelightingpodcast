@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Fri, 17 Apr 2026 02:55:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 02:28:08 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1083,6 +1083,15 @@ Google’s integration strategy—the button-in-the-toolbar effect—is setting 
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260416122028711+-+happy_oyster_worlds.mp3" length="3781848" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1776394551790</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260416122028711+-+happy_oyster_worlds.jpg"/>
+  </item>
+
+  <item>
+    <title>Shutterstock AI Video: Brand Safe or Boring?</title>
+    <description><![CDATA[Today on Blue Lightning Daily, we decode the big news: Shutterstock just launched an AI Video Generator you can use right inside their platform. Why does this matter? Because it bakes commercial licensing into the workflow, which is a huge deal for agencies, brands, and, yes, legal teams who worry about every frame. Hunter and Riley break down how this isn’t about cinematic masterpieces—it’s about shipping ad variations, pitch clips, and rapid social content without legal headaches. We talk image-to-video as the real star for marketers, the need for prompt style guides to avoid AI weirdness, and why this tool is a workflow boost more than a creative revolution. Plus, how Shutterstock’s credit system could eat your budget if you’re not intentional, and what solo creators might still miss from the “wild west” of riskier AI video tools. Compare with PixVerse C1 and Alibaba Happy Oyster for where the bigger story of generative video goes next. If you’re a creator, agency, or brand team looking to trade chaos for compliance, you’ll want to hear why Shutterstock’s move is practical, if a little less spicy than some rivals. AI video is not cinema-ready yet, but for marketers? Less chaos might just be the killer feature.]]></description>
+    <pubDate>Sat, 18 Apr 2026 02:28:08 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260417121847591+-+shutterstock_ai_video.mp3" length="2898216" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1776479288887</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260417121847591+-+shutterstock_ai_video.jpg"/>
   </item>
 </channel>
 </rss>

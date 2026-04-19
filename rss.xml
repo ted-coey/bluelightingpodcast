@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sat, 18 Apr 2026 02:28:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 02:35:05 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1092,6 +1092,15 @@ Google’s integration strategy—the button-in-the-toolbar effect—is setting 
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260417121847591+-+shutterstock_ai_video.mp3" length="2898216" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1776479288887</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260417121847591+-+shutterstock_ai_video.jpg"/>
+  </item>
+
+  <item>
+    <title>Claude Opus 4.7: Hands Off or Handbrake On?</title>
+    <description><![CDATA[On today’s episode, Hunter and Riley break down the launch of Anthropic’s Claude Opus 4.7. The big shift isn’t just smarter writing, it’s about letting Claude run longer, more autonomous tasks—without needing constant check-ins or ‘prompt babysitting.’ We dive into new features like xhigh effort control, improved long-horizon reasoning, and a vision upgrade that can interpret messy screenshots and UI dashboards like never before. But autonomy has trade-offs: get ready for deeper project delivery, but also new ways to overspend your AI budget or generate the wrong deliverable at 3am. The hosts share their playbook for finding the sweet spot between giving AI more freedom and keeping tight guardrails, especially on tasks that can turn into high-stakes mistakes. Plus, a look at how this fits into a bigger creator trend toward structure and persistent automation, including new launches from Shutterstock, PixVerse C1, and Alibaba’s Happy Oyster. Packed with tips, war stories, and practical rules for creators and teams, this episode helps you decide when to let go and when to double-check before the AI makes you tomorrow’s headline.]]></description>
+    <pubDate>Sun, 19 Apr 2026 02:35:05 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260418122001009+-+claude_opus_47_hands_off.mp3" length="2901192" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1776566105120</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260418122001009+-+claude_opus_47_hands_off.jpg"/>
   </item>
 </channel>
 </rss>

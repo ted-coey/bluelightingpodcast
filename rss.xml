@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sun, 19 Apr 2026 02:35:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 02:34:11 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1101,6 +1101,15 @@ Google’s integration strategy—the button-in-the-toolbar effect—is setting 
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260418122001009+-+claude_opus_47_hands_off.mp3" length="2901192" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1776566105120</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260418122001009+-+claude_opus_47_hands_off.jpg"/>
+  </item>
+
+  <item>
+    <title>Adobe Firefly AI: Creative Cloud Gets a Superpowered Agent</title>
+    <description><![CDATA[On this episode of Blue Lightning AI Daily, Hunter and Riley explore Adobe’s big leap into conversational productivity with the new Firefly AI Assistant. Is this the end of tedious export mistakes and endless prompt roulette? We dig into how this “creative agent” can handle multi-step workflows inside Creative Cloud, generating campaign packs, smart exports, and platform-specific versions, all while keeping your work editable and layered. We break down Firefly’s two fresh image editing upgrades: AI Markup, which translates old-school art direction into an intuitive, point-and-click workflow, and Precision Flow, the slick slider for dialing intensity without endless prompt edits.  Hear our takes on where AI production agents can shine (think social teams under pressure) and where they run into human roadblocks (hello, approvals chaos and stakeholder drama).   Plus: why “assistant, not generator” is more than branding hype, the real deal with brand safety, and why editability and version control should be your new obsession.   Around the industry, we touch on new AI video creators from Shutterstock, Alibaba’s Happy Oyster real-time video world, and Google’s SeamlessTextInpainting making text-aware editing a must-have.   Bonus: A UK medical chatbot traps patients in voice loop limbo, and PoetBot delivers so-bad-they’re-good verses that just might rescue your group chat.  Tune in for all the laughs, real talk and practical tips on making AI agents productive, without giving up creative control.]]></description>
+    <pubDate>Mon, 20 Apr 2026 02:34:11 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260419121952231+-+adobe_firefly_assistant.mp3" length="3852576" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1776652451820</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260419121952231+-+adobe_firefly_assistant.jpg"/>
   </item>
 </channel>
 </rss>

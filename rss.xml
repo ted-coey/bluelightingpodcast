@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Mon, 20 Apr 2026 02:34:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 02:44:25 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1110,6 +1110,15 @@ Google’s integration strategy—the button-in-the-toolbar effect—is setting 
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260419121952231+-+adobe_firefly_assistant.mp3" length="3852576" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1776652451820</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260419121952231+-+adobe_firefly_assistant.jpg"/>
+  </item>
+
+  <item>
+    <title>NVIDIA Lyra 2.0: From Single Photo to Walkable World</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, we dive into NVIDIA Lyra 2.0 and why it might finally fix the 'pretty drift' problem in AI-generated 3D worlds. Imagine turning a single mood photo into a persistent, walkable environment—and actually exporting it into Blender, Unreal, or Unity. We unpack why Lyra’s spatial consistency, 3D Gaussian splats, and mesh exports are a game-changer for creators tired of being stuck with flashy demos that never plug into a real pipeline. You will learn about the strengths and quirks of splats versus meshes, what real-world post production still needs, why true persistence matters for previs and pitches, and where the seams (and hallucinated geometry) still show up. The episode also touches on broader trends: the shift from pure generation to practical workspaces, with shoutouts to Google Project Genie, Adobe Firefly AI Assistant, Claude Opus 4.7, Shutterstock’s pragmatic AI video generator, and some wild AI industry pivots—like sneaker companies suddenly doing GPU services and coffee chains offering ChatGPT-powered mood lattes. We discuss how the infinite content era is reshaping marketing, why customer support bots should probably just send the pickles, and how creators will have to treat these tools as accelerators rather than replacements. Get the scoop on the AI stories you’ll be trying to explain to that one executive who still thinks a Gaussian splat is a spa treatment. Catch up on the biggest leaps and weirdest side quests in today’s AI-powered media world.]]></description>
+    <pubDate>Tue, 21 Apr 2026 02:44:25 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260420122118345+-+nvidia_lyra_2_0_walkable.mp3" length="3337680" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1776739465384</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260420122118345+-+nvidia_lyra_2_0_walkable.jpg"/>
   </item>
 </channel>
 </rss>

@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Tue, 21 Apr 2026 02:44:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 02:36:32 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1119,6 +1119,21 @@ Google’s integration strategy—the button-in-the-toolbar effect—is setting 
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260420122118345+-+nvidia_lyra_2_0_walkable.mp3" length="3337680" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1776739465384</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260420122118345+-+nvidia_lyra_2_0_walkable.jpg"/>
+  </item>
+
+  <item>
+    <title>ChatGPT Images Upgrade: Finally, AI Nails Text and Layout</title>
+    <description><![CDATA[Today’s episode spotlights the long-awaited update to OpenAI’s ChatGPT Images, which now delivers more control for creators and marketers. No more cryptic, glitchy AI fonts—scene composition finally stays sane, and short, readable text actually looks usable. The hosts break down how this upgrade shifts daily creative workflows, moving AI from a random art generator to a reliable junior designer. They discuss new prompt techniques, like giving “creative brief as prompt” and how the change reduces cleanup and manual editing for things like thumbnails, pitch decks, and ad layouts. The update means clearer negative space, accurate object placement, and legible typography are more consistent, making AI-generated visuals closer to production-ready.
+
+But it’s not just hype—the rollout is messy and not everyone has access, so the hosts share tips on what to test and how to get the most from the new features. They compare the shift to a phone camera upgrade: subtle until you realize you’re spending less time fixing mistakes and more time directing with intent.
+
+Beyond ChatGPT Images, this episode races through major stories: the growing chaos of synthetic music uploads, the legal maze of AI songs mimicking deceased artists, a wave of companies ditching AI coders for humans after reliability fails, and nuclear AI startup drama. It all circles back to the same creator theme: AI is only as useful as its ability to follow instructions without generating new headaches.
+
+Plus, an AI-generated coffee email that sounds like a medieval epic, and a hilarious imagining of that missive rendered as a movie poster by the new-and-improved ChatGPT Images. Tune in for insights, laughs, and strategies to tame your AI workflows.]]></description>
+    <pubDate>Wed, 22 Apr 2026 02:36:32 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260421122002649+-+chatgpt_images_update.mp3" length="3442128" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1776825392291</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260421122002649+-+chatgpt_images_update.jpg"/>
   </item>
 </channel>
 </rss>

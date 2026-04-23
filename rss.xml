@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Wed, 22 Apr 2026 02:36:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 02:30:42 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1134,6 +1134,15 @@ Plus, an AI-generated coffee email that sounds like a medieval epic, and a hilar
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260421122002649+-+chatgpt_images_update.mp3" length="3442128" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1776825392291</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260421122002649+-+chatgpt_images_update.jpg"/>
+  </item>
+
+  <item>
+    <title>ChatGPT Images 2.0: The End of Typo Chaos?</title>
+    <description><![CDATA[OpenAI has dropped a major upgrade for its image generator, turning ChatGPT’s image creation into a far more controllable and instruction-friendly process. Enter gpt-image-2, the new model that finally promises images with readable text, better composition, and prompt loyalty that actually helps marketers, designers, and creators cut time and rerolls. In this episode, Hunter and Riley break down what this really means in the daily workflow: fewer “close enough” drafts, easier revision loops, and the massive impact of finally having AI-generated images that can handle clean headlines, simple product layouts, and template constraints. The conversation digs into the risks, too, like the threat of “almost right” images slipping through, meme chaos, and the requirement for human review before anything critical ships. Plus, how the API now makes mass-variant production and brand template workflows possible at scale. Is this the end of haunted printer images and typo soup? Or are we just seeing the next wave of meme billboards, intern-powered art disasters, and brand reviews? Practical tips for creators are included: use ChatGPT Images 2.0 for structure-driven, text-heavy graphic assets, prompt like a brief, and always manually finish anything brand-critical. If you’ve ever wished an AI could just put the right headline where you wanted it, don’t miss this one.]]></description>
+    <pubDate>Thu, 23 Apr 2026 02:30:42 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260422121850220+-+chatgpt_images_2.mp3" length="3202320" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1776911442715</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260422121850220+-+chatgpt_images_2.jpg"/>
   </item>
 </channel>
 </rss>

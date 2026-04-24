@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Thu, 23 Apr 2026 02:30:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 02:39:08 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1143,6 +1143,15 @@ Plus, an AI-generated coffee email that sounds like a medieval epic, and a hilar
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260422121850220+-+chatgpt_images_2.mp3" length="3202320" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1776911442715</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260422121850220+-+chatgpt_images_2.jpg"/>
+  </item>
+
+  <item>
+    <title>OpenAI Workspace Agents: AI Roommates or Chaos Machines</title>
+    <description><![CDATA[OpenAI just dropped Workspace Agents for ChatGPT, and your work life might never be the same. Today we break down what it means for creators, teams, agencies, and ambitious solo operators. No more endless copy-paste or desperate group chat scrolls to find the latest doc—these agents live inside your company workspace, running multi-step workflows, wrangling approvals, and following your rules. Is this the dawn of hands-free creative ops, or a high-speed path to AI-fueled chaos? We wade through the hype, the real pain points Workspace Agents are supposed to fix, and what happens when agents get too confident—and email the wrong person at 2 AM. Plus: the secret dangers of micro-automations eating your budget, why guardrails and audit logs matter, and the messy transition from clever prompts to reliable, repeatable teamwork. Whether you’re part of a team or running a solo content empire, you’ll find out why these tools are suddenly the center of every conversation. Get ready for approval flows, “babysitting the bot,” and how to actually trust AI with your chores—without wrecking your Monday.]]></description>
+    <pubDate>Fri, 24 Apr 2026 02:39:08 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260423122305463+-+workspace_agents_ai.mp3" length="4027368" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1776998348402</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260423122305463+-+workspace_agents_ai.jpg"/>
   </item>
 </channel>
 </rss>

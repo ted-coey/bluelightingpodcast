@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Fri, 24 Apr 2026 02:39:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 02:32:23 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1152,6 +1152,15 @@ Plus, an AI-generated coffee email that sounds like a medieval epic, and a hilar
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260423122305463+-+workspace_agents_ai.mp3" length="4027368" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1776998348402</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260423122305463+-+workspace_agents_ai.jpg"/>
+  </item>
+
+  <item>
+    <title>GPT 5.5: OpenAI’s Reliable AI for Real Workflows</title>
+    <description><![CDATA[Today on Blue Lightning Daily, Hunter and Riley dive into OpenAI’s big news: GPT 5.5 is now live in ChatGPT and Codex, aiming to replace flaky drafts with dependable workflow execution. The duo breaks down why this isn’t just an upgrade in wordsmithing but a genuine shift towards automating the boring middle of creative workflows. Planning, checking, and executing are all in the new model’s sights, but can it truly keep promises when things get messy? From “self-checking” processes to handling annoying multistep creator requests, you’ll get practical tips for putting GPT 5.5 through its paces without getting burned. The conversation covers high-stakes vs. low-stakes uses, when to deploy the Pro tier, and how token efficiency could save your team budget headaches. They also connect the dots with recent updates in ChatGPT Images and NVIDIA Lyra, showing how the industry is moving from flashy demos to production-ready AI. Whether you’re a non-technical team looking to safely delegate work or a creator tired of babysitting half-finished AI outputs, this episode is packed with insights that can save your afternoon—and maybe your budget. Listen in for pragmatic advice, testing strategies, and why “agent reliability” is the new must-have in AI. Don’t miss it if you want to know what GPT 5.5 actually means for creators and teams right now.]]></description>
+    <pubDate>Sat, 25 Apr 2026 02:32:23 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260424121925079+-+gpt55_reliable_ai.mp3" length="3089928" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1777084343716</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260424121925079+-+gpt55_reliable_ai.jpg"/>
   </item>
 </channel>
 </rss>

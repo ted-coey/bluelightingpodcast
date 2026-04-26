@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sat, 25 Apr 2026 02:32:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 02:30:31 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1161,6 +1161,15 @@ Plus, an AI-generated coffee email that sounds like a medieval epic, and a hilar
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260424121925079+-+gpt55_reliable_ai.mp3" length="3089928" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1777084343716</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260424121925079+-+gpt55_reliable_ai.jpg"/>
+  </item>
+
+  <item>
+    <title>DeepSeek-V4 Preview: One Million Tokens, No Limits</title>
+    <description><![CDATA[What happens when AI finally brings the industrial-size context window to your workflow? Today, we unpack the DeepSeek-V4 Preview, a dazzling new open-weights model with a jaw-dropping one million token context and an MIT license. If you run creative workflows or content pipelines, DeepSeek's Pro and Flash variants could mean less summarizing and more building. The long context unlocks massive archives, lets teams skip the endless chunking, and promises fewer dropped details. We break down when to use Flash for bulk and Pro for quality, and why good workflow routing is non-negotiable. But before you paste your entire digital life into the prompt, hear Hunter and Riley decode when big context helps (and when it just makes a mess). Plus, learn from this week's AI follies: citation misadventures in policy, phantom donut menus, and the viral "count to ten from eleven" bug. If you are thinking of swapping closed APIs for DeepSeek, you will want the real talk on compatibility quirks, migration pitfalls, and where bigger context does not always equal better results. Stick around for the no-nonsense rules every creator and brand should follow to avoid the next headline-making AI fiasco. Whether you are a solo builder, agency, or marketing ops pro, this episode will help you figure out if DeepSeek-V4 Preview is the stack-changing model upgrade your workflow needs.]]></description>
+    <pubDate>Sun, 26 Apr 2026 02:30:31 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260425122015619+-+deepseek_v4_preview.mp3" length="3874680" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1777170631549</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260425122015619+-+deepseek_v4_preview.jpg"/>
   </item>
 </channel>
 </rss>

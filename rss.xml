@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sun, 26 Apr 2026 02:30:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 02:34:48 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1170,6 +1170,21 @@ Plus, an AI-generated coffee email that sounds like a medieval epic, and a hilar
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260425122015619+-+deepseek_v4_preview.mp3" length="3874680" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1777170631549</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260425122015619+-+deepseek_v4_preview.jpg"/>
+  </item>
+
+  <item>
+    <title>GPT-5.5 API: No More Step Three Face-Plants</title>
+    <description><![CDATA[OpenAI just landed GPT-5.5 in the API, and it’s a game changer for automations and creators who are tired of AI workflows that fall apart halfway through. In this episode, we break down exactly what’s new in GPT-5.5 and the premium Pro tier, the steep pricing, and what these models actually fix: fewer embarrassing logic fails, better step-by-step execution, and smarter self-checking. We also compare GPT-5.5 to Workspace Agents, DeepSeek V4 Preview, and the wild world of ChatGPT Images 2.0, all aiming to shift AI from creative inspiration to rock-solid reliability.    
+    
+If you build with AI or run content pipelines, you’ll get practical ideas for workflows you can finally trust: packaging YouTube content, drafting emails, generating metadata, and enforcing quality checks. We cover why most creators should skip the pricey Pro model except for high-stakes tasks, the art of model routing for cheaper ops, and how to spot the difference between self-checking and quietly laundering mistakes into production.    
+    
+Plus, we meme on this week’s Google AI math fiasco and talk about why boring, dependable AI is actually what creators want next. Listen for strategies on keeping humans in the loop, avoiding automation anxiety, and why retries are the hidden tax nobody tracks.    
+    
+If you’ve ever watched your “automated” workflow melt down halfway through, this episode’s for you.]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:34:48 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260426121952427+-+gpt_55_api_reliability.mp3" length="3600600" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1777257288887</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260426121952427+-+gpt_55_api_reliability.jpg"/>
   </item>
 </channel>
 </rss>

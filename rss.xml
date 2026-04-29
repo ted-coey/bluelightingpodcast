@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Mon, 27 Apr 2026 02:34:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 02:41:34 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1185,6 +1185,15 @@ If you’ve ever watched your “automated” workflow melt down halfway through
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260426121952427+-+gpt_55_api_reliability.mp3" length="3600600" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1777257288887</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260426121952427+-+gpt_55_api_reliability.jpg"/>
+  </item>
+
+  <item>
+    <title>Adobe Firefly AI Assistant: The Workflow Revolution</title>
+    <description><![CDATA[Today we dive into Adobe's game-changing public beta: Firefly AI Assistant. Forget chatbots—this creative agent promises to make your entire design workflow promptable. Imagine handling product shots, variants, and exports with just a command instead of endless clicking. Hunter and Riley break down how Adobe is shifting from 'generate a thing' to 'operate a workflow,' and compare this move to efforts from Google and OpenAI to embed agentic intelligence into everyday tools. With Firefly AI Assistant, the focus is on outcome-first actions, multi-step creative plans, and actual workflow transparency. But as automation creeps closer to the heart of production, creators are asking tough questions: Can you trust an assistant with your brand-critical elements? Will automation lead to auto-pilot mediocrity? And what happens when AI makes unexpected changes? The team discusses essential guardrails for safe automation, why reviewable steps and human taste checkpoints still matter, and the pitfalls of so-called 'workflow AI' when reliability and accountability are at stake. Plus, Adobe’s strategy of unifying Firefly’s editing controls under one smart system could make or break its integration across Creative Cloud. Whether you’re a seasoned designer tired of repetitive tasks or a project manager eager for speed, this episode unpacks how Firefly AI Assistant may reshape creative production—if you keep a human in the loop. Tune in for practical insights, fun analogies, and a healthy dose of AI caution.]]></description>
+    <pubDate>Wed, 29 Apr 2026 02:41:34 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260428122245818+-+adobe_firefly_ai_workflow.mp3" length="3615864" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1777430494562</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260428122245818+-+adobe_firefly_ai_workflow.jpg"/>
   </item>
 </channel>
 </rss>

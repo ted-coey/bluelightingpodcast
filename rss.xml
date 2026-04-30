@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Wed, 29 Apr 2026 02:41:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 02:37:25 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1194,6 +1194,15 @@ If you’ve ever watched your “automated” workflow melt down halfway through
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260428122245818+-+adobe_firefly_ai_workflow.mp3" length="3615864" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1777430494562</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260428122245818+-+adobe_firefly_ai_workflow.jpg"/>
+  </item>
+
+  <item>
+    <title>NVIDIA Nemotron Omni: One Model to Rule Your Workflow</title>
+    <description><![CDATA[Is your AI pipeline a patchwork of models barely holding together? In this episode, Hunter and Riley unpack NVIDIA’s new Nemotron 3 Nano Omni, a multimodal open-weights model designed to simplify content and operations pipelines. With the promise of understanding video, audio, images, and documents all at once, Nemotron Omni aims to replace the usual tangle of transcribers, summarizers, and sync scripts with one unified ops brain. The hosts dig into real-world use cases, like screen recording analysis and pulling actionable insights from fast-paced video content. They explore whether a single model can truly reduce chaos—or just invent creative new errors. The conversation expands to the broader trend of operational AI, with updates from OpenAI, Google, and Adobe all building tools to make workflows smoother and content easier to handle. Plus, they share horror stories about creative automation gone wrong, from accidental database wipes to AI-generated fake legal citations, and even a rogue robot hug at a dance show. With a snarky litmus test for spotting useful AI projects versus GPU-fueled vanity, the episode keeps teams grounded in what actually saves time. Wrapping up, Hunter and Riley urge listeners to test Nemotron Omni and similar models on their most tedious workflows, keep humans in the loop, and always demand actionable output—because real productivity means more than just pretty demos.]]></description>
+    <pubDate>Thu, 30 Apr 2026 02:37:25 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260429122406395+-+nvidia_nemotron_omni.mp3" length="3933840" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1777516645031</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260429122406395+-+nvidia_nemotron_omni.jpg"/>
   </item>
 </channel>
 </rss>

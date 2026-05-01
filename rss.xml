@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Thu, 30 Apr 2026 02:37:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 02:40:01 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1203,6 +1203,15 @@ If you’ve ever watched your “automated” workflow melt down halfway through
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260429122406395+-+nvidia_nemotron_omni.mp3" length="3933840" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1777516645031</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260429122406395+-+nvidia_nemotron_omni.jpg"/>
+  </item>
+
+  <item>
+    <title>GPT 5.5 and the AI Shift From Drafts to Done</title>
+    <description><![CDATA[Today on Blue Lightning Daily, Hunter and Riley break down OpenAI’s rollout of GPT 5.5 and GPT 5.5 Pro, and why the headline isn’t just smarter AI, but more reliable, production-ready results. We compare the standard and Pro variants, explain why reliability is now front and center, and reveal what it actually means for creators and teams. You’ll hear why glue work and silent failures are the real villain in daily AI use, and how models and workflows are evolving to self-check, maintain brand consistency, and truly finish the job across multi-step tasks. We spotlight best practices for deploying GPT 5.5, including the famous “deliverables pack” test, when to trust AI with content packaging or light code, how to structure constraints and verification, and when to route work to standard versus Pro models. We also touch on what’s new with NVIDIA’s Nemotron Nano and Adobe Firefly Assistant, and why Google Workspace Intelligence is a reminder that boring-but-reliable wins. Multimodal dreams are not quite here yet, but true automation gains are. Tune in for a practitioner's take on testing, auditing, and finally getting finished work from your AI stack. No magic, just reliable pipelines and a sniff test for models that really deliver.]]></description>
+    <pubDate>Fri, 01 May 2026 02:40:01 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260430122141505+-+gpt55_delivers_done.mp3" length="4096728" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1777603201459</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260430122141505+-+gpt55_delivers_done.jpg"/>
   </item>
 </channel>
 </rss>

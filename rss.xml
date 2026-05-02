@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Fri, 01 May 2026 02:40:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 02:47:16 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1212,6 +1212,19 @@ If you’ve ever watched your “automated” workflow melt down halfway through
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260430122141505+-+gpt55_delivers_done.mp3" length="4096728" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1777603201459</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260430122141505+-+gpt55_delivers_done.jpg"/>
+  </item>
+
+  <item>
+    <title>Mirage Alice Drops: Open Video for Real Workflows</title>
+    <description><![CDATA[Is open-source video generation finally getting practical? Today, Hunter and Riley break down the Mirage AI release of Alice-T2V-14B-MoE, a new text-to-video model launched with open weights on Hugging Face. Alice produces quick five-second video clips at 480p and 720p, giving creators real control for the first time. The hosts dig into why this model matters compared to closed options like Runway, Luma, or Kling. They explain the Mixture of Experts approach, why open weights do not mean an effortless experience, and who should actually run Alice (hint: teams and power users, not casual TikTokers). Plus, how open video models signal a shift from "magic tricks" to true creative infrastructure that you can slot into customized pipelines.
+
+You'll find practical advice for working with these new tools: how to build your workflow, why the Apache 2.0 license matters, and common pitfalls with documentation and provenance. The episode is packed with real-world tips—like generating concept shots for pitch decks, building style experiments, and understanding that five seconds of video can be both useful and messy. The hosts also get candid about the risks of improved fake footage and offer simple tips to defend against deepfake scams.
+
+If you're curious about the future of content creation, workflow automation, and the growing open-source AI toolkit, this episode is for you. It's not just hype—it's about turning "available" into "actually adopted."]]></description>
+    <pubDate>Sat, 02 May 2026 02:47:16 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260501122655046+-+mirage_alice_open_video.mp3" length="4221240" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1777690036543</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260501122655046+-+mirage_alice_open_video.jpg"/>
   </item>
 </channel>
 </rss>

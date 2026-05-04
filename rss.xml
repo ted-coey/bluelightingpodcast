@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sun, 03 May 2026 02:39:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 02:36:45 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1234,6 +1234,15 @@ If you're curious about the future of content creation, workflow automation, and
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260502122443296+-+claude_adobe_connector.mp3" length="3632760" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1777775941413</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260502122443296+-+claude_adobe_connector.jpg"/>
+  </item>
+
+  <item>
+    <title>Gemini Notebooks: AI Finally Remembers You</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, we dive into Google’s new Notebooks feature inside Gemini, designed to finally solve the “why do I have to repeat myself?” problem. Hunter and Riley break down how Notebooks creates persistent project spaces for your briefs, brand voice, feedback, and half-finished drafts—so you don’t have to re-explain your life story every time you open Gemini. We compare this to Canvas, Gemini’s creative document-style workspace, and explore how the combination is shifting Gemini from a helpful chat to a true home base for creators. Plus, we look at the race across AI tools like OpenAI’s GPT-5.5 and the new Claude-Adobe Creative Cloud integrations, all scrambling to become your permanent workflow cockpit instead of just a smart sidekick. You’ll hear why AI that “remembers” may be less creative, but way more valuable for repeatable work like campaigns, content series planning, and agency client management—and why you need real guardrails (and maybe a grown-up human) to avoid turning these features into your team’s most expensive junk drawer. Learn how to set up a living brand brief, why “vibe sliders” beat fossilized voice rules, and what happens when persistent AIs also persist your mistakes. Packed with tips, spicy takes, and real creator stories, this episode is a must-listen for anyone shipping content at scale or wrangling multiple projects and clients in the age of AI-powered workspaces.]]></description>
+    <pubDate>Mon, 04 May 2026 02:36:45 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260503122309116+-+gemini_notebooks_ai.mp3" length="2991792" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1777862205407</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260503122309116+-+gemini_notebooks_ai.jpg"/>
   </item>
 </channel>
 </rss>

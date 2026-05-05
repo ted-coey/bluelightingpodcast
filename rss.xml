@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Mon, 04 May 2026 02:36:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 02:41:13 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1243,6 +1243,15 @@ If you're curious about the future of content creation, workflow automation, and
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260503122309116+-+gemini_notebooks_ai.mp3" length="2991792" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1777862205407</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260503122309116+-+gemini_notebooks_ai.jpg"/>
+  </item>
+
+  <item>
+    <title>Can Google Gemini Canvas Really Replace Docs and Chat?</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, Hunter and Riley deep-dive into Google's new Gemini Canvas. Is it a game-changing workflow product or just chat with better window-dressing? We explore how Canvas lets you build shareable prototypes, interactive drafts, and real work artifacts right inside Gemini—no more pasting AI ideas into sad document threads. Hear why Canvas matters so much for creators and teams, from reducing the notorious handoff tax to making drafts actually survive in a Slack-dominated world. We also break down the practical challenges: restricted sharing for enterprise accounts, friction with mobile collaboration, and why exporting isn't quite 'one-click production.' Plus: risks and chaos. What happens when a confidently wrong Gemini draft looks official enough to trust? How do you keep a remix-friendly workspace from spawning a thousand Franken-docs? If your team mistakes 'shareable' for 'true,' what is the new playbook for accountability? Stay tuned for spicy takes on whether tools like Canvas will actually reduce meetings or just create more endless drafts. This episode also touches on Adobe's new Claude connector, the rise of workflow-first AI, Mirage AI's Alice for open video, and Google's quirky Audio Overview features. By the end, you’ll know whether Gemini Canvas really changes how work gets done—or if it’s just another shiny toy in the AI productivity wars.]]></description>
+    <pubDate>Tue, 05 May 2026 02:41:13 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260504122758026+-+gemini_canvas_workspace.mp3" length="3466800" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1777948873986</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260504122758026+-+gemini_canvas_workspace.jpg"/>
   </item>
 </channel>
 </rss>

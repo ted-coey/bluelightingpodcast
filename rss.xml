@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Tue, 05 May 2026 02:41:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 02:46:22 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1252,6 +1252,21 @@ If you're curious about the future of content creation, workflow automation, and
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260504122758026+-+gemini_canvas_workspace.mp3" length="3466800" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1777948873986</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260504122758026+-+gemini_canvas_workspace.jpg"/>
+  </item>
+
+  <item>
+    <title>Adobe Firefly Gets Kling 3.0: AI Video Just Got Easier</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, Hunter and Riley dive into the game-changing addition of Kling 3.0 and Kling 3.0 Omni to Adobe Firefly’s text-to-video feature set. What does this mean for creators? The duo unpacks how Adobe is turning Creative Cloud into the central AI-powered workspace—no more juggling endless folders, filenames, or annoying handoffs. Now, you can generate, draft, and edit video with less chaos and more speed.
+
+Is this just a shiny new model? Nope. It’s a full-blown workflow upgrade, letting you pick the best AI video models from a menu, push directly into Premiere for edits, and keep all your assets in one place. Hunter and Riley break down the real improvements, including better motion quality, continuity, and a new gold standard for creative approvals and collaboration.
+
+They discuss Kling 3.0 versus Omni: the former for fast, smooth iteration and the latter for clients who demand crystal-clear continuity across revisions. But it’s not all smooth sailing—audio, color finishing, and change requests still need human eyes and careful management.
+
+Plus, today’s episode covers viral AI pranks, the dangers of “brain rot” in models, the growing need for AI traceability, and a hilariously cursed canned corn ad. Tune in for sharp insights, real creative advice, and the latest on how to actually ship (and survive) with AI. Subscribe for your daily creative tech reality check.]]></description>
+    <pubDate>Wed, 06 May 2026 02:46:22 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260505122912006+-+firefly_kling3_workflow.mp3" length="3388464" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1778035582145</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260505122912006+-+firefly_kling3_workflow.jpg"/>
   </item>
 </channel>
 </rss>

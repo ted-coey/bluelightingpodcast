@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Wed, 06 May 2026 02:46:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 02:48:20 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1267,6 +1267,15 @@ Plus, today’s episode covers viral AI pranks, the dangers of “brain rot” i
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260505122912006+-+firefly_kling3_workflow.mp3" length="3388464" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1778035582145</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260505122912006+-+firefly_kling3_workflow.jpg"/>
+  </item>
+
+  <item>
+    <title>Photoshop 27.6: Faster Fills, Smarter Cleanup, Fewer Clicks</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, we break down Photoshop 27.6, the unflashy but powerful update all about getting work done faster and with less frustration. From the new Firefly Image Model 5 making Generative Fill look more polished and realistic, to the all-new Rotate Object tool that fakes 3D turns on your cutouts, Adobe is focusing on saving creators time, not chasing viral features. Discover how the Find Distractions option in the Remove tool detects everything from background clutter to odd highlights, and why the new 'general distractions' filter feels so relatable. We also cover how multi-model Generative Fill lets you pick your own AI for different parts of your workflow—rough drafts, polished finals, and everything in between. Get tips for solo creators and marketing teams alike on how to use these upgrades for thumbnails, campaign variants, product images, and more. Plus: why faster pipelines matter more than flashier AI, how Adobe for Creativity now connects to Claude for easy creative orchestration, and why file hygiene tools like Layer Cleanup might secretly save your sanity. If you want to stop battling weird AI edges, repetitive cleanup tasks, and layer chaos, this is the episode for you. Tune in for actionable advice, honest pro tips, and the bigger picture on why Photoshop’s 27.6 update is built for people who deliver.]]></description>
+    <pubDate>Thu, 07 May 2026 02:48:20 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260506122923565+-+photoshop_276_update.mp3" length="3903024" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1778122100052</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260506122923565+-+photoshop_276_update.jpg"/>
   </item>
 </channel>
 </rss>

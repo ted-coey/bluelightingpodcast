@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Thu, 07 May 2026 02:48:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 02:40:52 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1276,6 +1276,15 @@ Plus, today’s episode covers viral AI pranks, the dangers of “brain rot” i
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260506122923565+-+photoshop_276_update.mp3" length="3903024" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1778122100052</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260506122923565+-+photoshop_276_update.jpg"/>
+  </item>
+
+  <item>
+    <title>GPT-5.5 Instant Goes Default: AI Gets Short and Sharp</title>
+    <description><![CDATA[OpenAI just made GPT-5.5 Instant the new default model for ChatGPT, quietly shifting creative workflows everywhere. In this episode, Hunter and Riley break down the real impact of this update: faster, shorter, and more reliable AI responses for everything from ad copy to TikTok hooks. No more twelve-step manifestos—now your assistant answers with professional focus. But with this brevity comes a new challenge: are your prompts too concise for the new era? Expect the rise of minimalist outputs like "Do it" and a newfound need to double-check facts quickly. Plus, the hosts dig into evolving AI tool ecosystems—Gemini’s Canvas and Notebooks, Adobe’s practical Photoshop upgrades, and why companies like Anthropic are making surprising compute deals with SpaceX, all influencing creator productivity in unpredictable ways. The episode also covers the growing need for memory management, AI watermarking, and practical QA steps to protect your brand in a world where anything can be faked—right down to AI-generated boss portraits and deciphering doctor handwriting. Whether you’re a creator, marketer, or just AI-curious, you’ll pick up practical strategies for taming prompts, adding workflow guardrails, and thriving among faster but not always smarter machines. Join us for news, debate, and a few AI-generated laughs as Blue Lightning Daily unpacks what the new ChatGPT default really means for your everyday grind.]]></description>
+    <pubDate>Fri, 08 May 2026 02:40:52 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260507122252583+-+gpt_55_instant_default.mp3" length="3631272" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1778208052398</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260507122252583+-+gpt_55_instant_default.jpg"/>
   </item>
 </channel>
 </rss>

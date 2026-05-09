@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Fri, 08 May 2026 02:40:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 02:35:52 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1285,6 +1285,15 @@ Plus, today’s episode covers viral AI pranks, the dangers of “brain rot” i
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260507122252583+-+gpt_55_instant_default.mp3" length="3631272" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1778208052398</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260507122252583+-+gpt_55_instant_default.jpg"/>
+  </item>
+
+  <item>
+    <title>Adobe Acrobat’s AI Spaces: PDFs That Actually Work</title>
+    <description><![CDATA[Forget boring PDFs—Adobe is transforming Acrobat into a content creation powerhouse. In this episode, Hunter and Riley explain how the new Acrobat Productivity Agent and PDF Spaces turn stacks of PDFs into shareable workspaces where you can generate slides, draft social posts, and even listen to audio overviews of your documents. No more digging through endless email attachments or remixing content by hand. The hosts break down how Spaces tackle context chaos, why citations and source checking are vital, and where AI helpers still fall short (spoiler: bland corporate voice and slide disasters). They debate if these new features actually make life easier for creators, how to keep workspaces from becoming trash piles, and why approval bottlenecks will never truly die. This episode is a must-listen for anyone drowning in document clutter, solo creators who need faster insights, or teams dreaming of less copy-paste misery. If you’re curious about the future of collaborative AI tools, Acrobat’s smart workspaces, or just want to hear why “final_FINAL_v12.pdf” now comes with opinions, this one’s for you.]]></description>
+    <pubDate>Sat, 09 May 2026 02:35:52 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260508122243501+-+adobe_acrobat_ai_spaces.mp3" length="3318672" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1778294152425</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260508122243501+-+adobe_acrobat_ai_spaces.jpg"/>
   </item>
 </channel>
 </rss>

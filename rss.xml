@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sat, 09 May 2026 02:35:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 02:41:02 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1294,6 +1294,23 @@ Plus, today’s episode covers viral AI pranks, the dangers of “brain rot” i
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260508122243501+-+adobe_acrobat_ai_spaces.mp3" length="3318672" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1778294152425</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260508122243501+-+adobe_acrobat_ai_spaces.jpg"/>
+  </item>
+
+  <item>
+    <title>Google Veo 3.1 and the Real AI Video Revolution</title>
+    <description><![CDATA[Forget the hype about mythical Veo 4. Today we dig into what really matters for creators: Google Veo 3.1 quietly leveling up video generation by showing up in places you actually work. From Gemini and Google Vids to the powerful Vertex AI API, it is less about slick demos and more about putting the button where your hand already is.
+
+Veo 3.1 now supports native vertical video, acknowledging that the internet is phone-first. No more pan-and-scan headaches or sad cropping for creators. Instead of chasing 4K or sci-fi director tools, this update centers on practical controls, like consistent aspect ratios, stable character identities, and reference-based prompts.
+
+For marketing teams and solo creators alike, the real story is distribution. Veo’s arrival inside Gemini or Vids means less tool hopping, and integration with Vertex AI unlocks batch generation for campaigns and localizations. Think clips for social, quick transitions, and variant intros—not full-length films, but the stuff that fills your workflow every day.
+
+We also clear up internet rumors about features like "world-state memory" and remember that the secret to success is using features that are actually documented. Plus, we spin through the week’s weirdest AI moments, like singing simulation agents and robot therapists. The ultimate lesson: AI’s power is in being where you work, automating the basics, and letting humans handle quality, taste, and those sentimental bouquet moments.
+
+Tune in for a reality check, practical tips, and a dose of fun as we decode what matters for AI video right now.]]></description>
+    <pubDate>Sun, 10 May 2026 02:41:02 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260509122310740+-+google_veo_3_1_video.mp3" length="3651768" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1778380862688</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260509122310740+-+google_veo_3_1_video.jpg"/>
   </item>
 </channel>
 </rss>

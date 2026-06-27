@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sun, 10 May 2026 02:41:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 23:43:43 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1311,6 +1311,15 @@ Tune in for a reality check, practical tips, and a dose of fun as we decode what
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260509122310740+-+google_veo_3_1_video.mp3" length="3651768" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1778380862688</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260509122310740+-+google_veo_3_1_video.jpg"/>
+  </item>
+
+  <item>
+    <title>OpenAI GPT-5.6 Drops: Sol, Terra, Luna Explained</title>
+    <description><![CDATA[Today’s episode unpacks OpenAI’s latest model family: GPT-5.6. But the story goes way beyond "smarter AI." OpenAI finally draws a clear line between model tiers, introducing Sol, Terra, and Luna. Sol tackles your most high-stakes, high-reasoning tasks. Terra is for reliable, everyday workflow—think affordable powerhouse. Luna? It is the ultimate volume producer, perfect for rapid-fire creative tasks and never-ending content variations. We break down which tier actually makes sense for your use case, how to keep your AI bills under control, and why workflow sanity matters as much as flashy features. From concrete pricing transparency to practical routing advice, this episode is packed with actionable tips to stop wasting flagship models on menial tasks. Plus, we take a quick tour through Google’s Gemini 3.5 Flash update with native Computer Use, new Adobe Acrobat PDF Spaces for smarter documents, and how Google's Veo 3.1 is quietly making AI video more repeatable for creators. If you want to build a lean, production-grade AI workflow—this one is for you. Spoiler: If you are using premium brainpower to brainstorm email subject lines, your finance team is side-eyeing you. Tune in for a cheat sheet on making the most of tiers, building human-AI pipelines, and avoiding AI-generated cringe.]]></description>
+    <pubDate>Sat, 27 Jun 2026 23:43:43 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260627121912511+-+gpt_56_sol_terra_luna.mp3" length="3796104" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1782603823817</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260627121912511+-+gpt_56_sol_terra_luna.jpg"/>
   </item>
 </channel>
 </rss>

@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sat, 27 Jun 2026 23:43:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 02:33:47 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1320,6 +1320,15 @@ Tune in for a reality check, practical tips, and a dose of fun as we decode what
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260627121912511+-+gpt_56_sol_terra_luna.mp3" length="3796104" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1782603823817</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260627121912511+-+gpt_56_sol_terra_luna.jpg"/>
+  </item>
+
+  <item>
+    <title>OpenAI Routing Revolution: Sol, Terra, and Luna Explained</title>
+    <description><![CDATA[In this episode, Hunter and Riley break down OpenAI’s game-changing shift to routing with the new GPT 5.6 family: Sol, Terra, and Luna. Instead of relying on bigger models, users now pick the best tier for each task, like a smart highway of AI options. Sol gives you top-tier brainpower for high-stakes decisions, Terra is the reliable workhorse for day-to-day production, and Luna lets you go fast and cheap to generate loads of ideas. The hosts share hilarious stories about teams wasting money on premium AI for basic jobs and give actionable advice for creators: harness the power of staged pipelines, cache your brand voice and rules for efficiency, and always insert a human touch for standout content. They discuss who should own the model dial inside companies and how routing solves budget headaches but not creative taste. Plus, hear quick takes on Google Gemini 3.5 Flash’s new “Computer Use” agent and Adobe’s Acrobat Productivity Agent, both aiming to streamline real-world workflows. Don’t miss smart tips for better AI governance, guarding against “fine” mediocre content, and building muscle memory for using AI tiers wisely. Spoiler: “Don’t use a Ferrari for spellcheck.”]]></description>
+    <pubDate>Mon, 29 Jun 2026 02:33:47 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260628121951023+-+openai_routing_daily.mp3" length="3517080" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1782700427040</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260628121951023+-+openai_routing_daily.jpg"/>
   </item>
 </channel>
 </rss>

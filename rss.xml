@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Tue, 30 Jun 2026 02:34:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 18:41:41 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1338,6 +1338,15 @@ Tune in for a reality check, practical tips, and a dose of fun as we decode what
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260629122117214+-+seedance_25_creators.mp3" length="3105408" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1782786894563</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260629122117214+-+seedance_25_creators.jpg"/>
+  </item>
+
+  <item>
+    <title>Google Gemini Omni Flash: Instant Video, Zero Patience</title>
+    <description><![CDATA[Today on Blue Lightning Daily, Hunter and Riley break down Google’s big Gemini Omni update—specifically the new Omni Flash video creation and editing tools. The headline is not just another 'AI model dropped' moment. Instead, Google is planting its flag on making iteration nearly instant. Forget chasing a single perfect first draft. The new era is about cranking out versions quickly, making tweaks through follow-up chat instructions, and keeping your workflow moving. But continuity and quality still remain challenging, as anyone who’s seen an AI video mutate logos or swap out faces mid-edit knows all too well.   The episode also covers the buzz (and confusion) around "Nano Banana" Google’s fast image generation initiative. They untangle what’s real and what’s internet lore, especially regarding public pricing: is it really $0.034 per image, or some viral rumor about 1,000 outputs for pocket change?  Finally, Hunter and Riley share why the tools that win in the generative media wars won’t be the ones with the snazziest tech demo. Instead, the winners will help creators get from draft to version to usable content faster, without destroying continuity. If you care about quick-turn content, ad cutdowns, or any process where speed beats pixel-level perfection, this episode is a must-listen.]]></description>
+    <pubDate>Tue, 30 Jun 2026 18:41:41 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260630122124500+-+gemini_omni_flash_update.mp3" length="4151760" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1782844901723</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260630122124500+-+gemini_omni_flash_update.jpg"/>
   </item>
 </channel>
 </rss>

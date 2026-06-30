@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Mon, 29 Jun 2026 02:33:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 02:34:54 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1329,6 +1329,15 @@ Tune in for a reality check, practical tips, and a dose of fun as we decode what
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260628121951023+-+openai_routing_daily.mp3" length="3517080" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1782700427040</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260628121951023+-+openai_routing_daily.jpg"/>
+  </item>
+
+  <item>
+    <title>Seedance 2.5: The AI Video Model Creators Needed</title>
+    <description><![CDATA[Today, Blue Lightning Daily dives into the big shakeup in AI video: ByteDance’s Seedance 2.5. Hunter and Riley pull apart why this new model is turning industry heads. Imagine generating a full 30-second cinematic ad in one go, with fewer weird glitches and much more creative control. Forget spending hours stitching together micro-clips. Seedance 2.5 promises cleaner continuity, 4K exports, and up to 50 reference inputs for those demanding campaigns. Localized edits mean no more losing magic takes over one tiny snack-label chaos. Want to fix a logo, not reroll the whole video? Done. For agencies, this is a full-on workflow revolution. For solo creators, the less time spent patching mistakes, the better. Plus, the team unpacks how new structured inputs like 3D white models open up production-style previs, giving serious brand teams the control they crave. The gang also nerds out about the broader ecosystem, from overconfident meeting bots to Google’s action agencies and OpenAI’s multi-tiered GPT deployment. If your AI assistant is scheduling your life—or crashing your Zoom calls—don’t miss the segment about securing your digital workspace. We’ll break down who should care about Seedance 2.5, what will actually work today, and why "surreal brand storytelling" is sometimes the only label left for wild AI outputs. Subscribe for more creator-focused deep dives as AI tools keep evolving.]]></description>
+    <pubDate>Tue, 30 Jun 2026 02:34:54 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260629122117214+-+seedance_25_creators.mp3" length="3105408" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1782786894563</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260629122117214+-+seedance_25_creators.jpg"/>
   </item>
 </channel>
 </rss>

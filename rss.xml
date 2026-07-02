@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Tue, 30 Jun 2026 18:41:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 02:32:46 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1347,6 +1347,15 @@ Tune in for a reality check, practical tips, and a dose of fun as we decode what
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260630122124500+-+gemini_omni_flash_update.mp3" length="4151760" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1782844901723</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260630122124500+-+gemini_omni_flash_update.jpg"/>
+  </item>
+
+  <item>
+    <title>Google Nano Banana 2 Lite: Drafts at Warp Speed</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, Hunter and Riley unpack Google's new Nano Banana 2 Lite image model. This isn't your gallery masterpiece model—it's an image draft workhorse, built for anyone who needs tons of options, fast and cheap. We're talking image generation in about four seconds apiece, with the real challenge shifting to curation, not creation. If your workflow is 'generate two hundred, keep twenty, ship five,' Nano Banana 2 Lite is for you. But with infinite drafts comes a new set of headaches, from 'approval debt' and decision fatigue to brand drift and accidental content landfills. The team debates how to design workflows that are fast without turning creative into swipe culture, and how to set just enough guardrails so your brand still feels like your brand—even at warp speed. We also break down how creative, ops, engineering, and finance teams should actually roll out tools like this so nobody gets left out...or scared off by a budget line with "banana" in it. Learn where Nano Banana 2 Lite excels, where it breaks, and how it fits into the bigger trend toward modular, dynamic AI image factories for creators, marketers, and e-commerce. Plus: the ultimate meme strategy for creators facing infinite options—be faster, be weirder, curate harder. If you've ever thought "picture perfect" was overrated and "good enough by lunch" was the real hero, this episode is for you.]]></description>
+    <pubDate>Thu, 02 Jul 2026 02:32:46 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260701122237146+-+nano_banana_2_lite.mp3" length="3422664" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1782959566010</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260701122237146+-+nano_banana_2_lite.jpg"/>
   </item>
 </channel>
 </rss>

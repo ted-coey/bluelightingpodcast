@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Thu, 02 Jul 2026 02:32:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 02:37:21 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1356,6 +1356,15 @@ Tune in for a reality check, practical tips, and a dose of fun as we decode what
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260701122237146+-+nano_banana_2_lite.mp3" length="3422664" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1782959566010</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260701122237146+-+nano_banana_2_lite.jpg"/>
+  </item>
+
+  <item>
+    <title>Google Nano Banana 2 Lite: Fast Image Drafts, No Waiting</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, we peel back the layers of Google’s wildest model name yet: Nano Banana 2 Lite. Is it a breakfast smoothie or an image AI revolution? This episode is fully machine-made and dives into why Nano Banana 2 Lite is not just another image generator. It’s Google’s bid to change how teams create: swap that hunt for the perfect render for a rapid-fire pipeline of 'good enough' drafts. With images generated in just four seconds and API access in Gemini, the real news is how fast, cheap, and scalable creative work has become. Who should care? Performance marketers, e-commerce teams, daily creators—anyone needing endless variants, quick turnarounds, and less waiting. But beware the quality trap: producing thousands of so-so options only works if your process for picking out winners is sharp. We talk tips for setting up a Lite-to-premium workflow, smart review strategies, and why 'taste' is the new moat in an AI world full of endless drafts. Plus, we break down the risks of automating creativity too far—guardrails and human review still matter! Bonus: Find out why the phrase 'possessed by an ad-tech demon' might belong in your brand guidelines. Tune in for all you need to know about Nano Banana 2 Lite, the new deal in fast, scalable image generation. Subscribe for more hilariously named, genuinely gamechanging AI news every day.]]></description>
+    <pubDate>Fri, 03 Jul 2026 02:37:21 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260702122348736+-+nano_banana_2_lite_fast.mp3" length="3369192" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1783046241133</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260702122348736+-+nano_banana_2_lite_fast.jpg"/>
   </item>
 </channel>
 </rss>

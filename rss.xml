@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Fri, 03 Jul 2026 02:37:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 02:29:43 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1365,6 +1365,15 @@ Tune in for a reality check, practical tips, and a dose of fun as we decode what
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260702122348736+-+nano_banana_2_lite_fast.mp3" length="3369192" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1783046241133</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260702122348736+-+nano_banana_2_lite_fast.jpg"/>
+  </item>
+
+  <item>
+    <title>Google’s Omni Flash &amp; Nano Banana: Faster Than Fast Content</title>
+    <description><![CDATA[Google is changing the pace of AI creativity by shifting from the pursuit of perfect renders to raw production speed. In today’s episode, Hunter and Riley break down two major launches: Gemini Omni Flash, a conversational AI-model for editing short video clips quickly, and Nano Banana 2 Lite, an image generator designed to crank out drafts at record speed and low cost. The duo explores the idea of 'iteration density,' where success isn’t about chasing one masterpiece but generating piles of options you can refine and choose from. Short, modular video clips let creators assemble content like Lego blocks, not chisel away like sculptors, while super-cheap images make brainstorming and ideation faster than ever before. But with great speed comes new challenges: creative laziness, brand chaos, and the risk of endless indecision. The conversation covers how to set smart creative budgets, keep guardrails in place, use the tools for productivity rather than busywork, and why—despite all the AI—humans still need to direct, choose, and refine. If you’re a solo creator, this is about faster packaging: thumbnails, micro-ads, and quick edits. For teams, it’s about throughput, variant testing, and localization. Tune in and find out why Google is more interested in winning production calendars than art contests—and how that just might be the smartest move in today’s content ecosystem.]]></description>
+    <pubDate>Sat, 04 Jul 2026 02:29:43 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260703122330134+-+google_omni_flash_nano.mp3" length="2760384" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1783132183840</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260703122330134+-+google_omni_flash_nano.jpg"/>
   </item>
 </channel>
 </rss>

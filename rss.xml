@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sat, 04 Jul 2026 02:29:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 02:35:13 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1374,6 +1374,15 @@ Tune in for a reality check, practical tips, and a dose of fun as we decode what
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260703122330134+-+google_omni_flash_nano.mp3" length="2760384" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1783132183840</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260703122330134+-+google_omni_flash_nano.jpg"/>
+  </item>
+
+  <item>
+    <title>Pika&apos;s Voxel-It: Turning Real Life Into Minecraft</title>
+    <description><![CDATA[Today on Blue Lightning Daily, we dive into Pika's bold new Skills launch, headlined by the Voxel-It feature. Imagine transforming any scene into a vibrant, Minecraft-style block world, while keeping people in the shot looking strikingly human. Hosts Hunter and Riley explore why Skills like Voxel-It might be the answer to creators’ prayers: punchy effects you can apply instantly, with no more prompt wrangling or waiting for the next massive model drop. The episode covers how this shift puts creators in the driver’s seat, emphasizing fast format changes and consistent visual identities for series, while making daily content less repetitive. We'll discuss how Pika’s selective voxelization keeps faces lifelike to avoid the dreaded uncanny valley, and why that single choice might be the secret sauce for TikTok and Shorts creators eager for new looks that won’t tank engagement metrics. You'll also hear some real talk about the tradeoffs: preset-heavy tools are faster, but advanced creatives may want more control. We wrap with predictions about how Skills can evolve, the risks of stacking effects, and whether this move will make meme trends cycle faster or help lasting formats emerge. Whether you're curious about boosting your content pipeline or just love new creative tools, this episode covers the AI-driven future of video remixing—one blocky background at a time.]]></description>
+    <pubDate>Sun, 05 Jul 2026 02:35:13 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260704121909095+-+pikaskills_voxelit.mp3" length="2907312" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1783218913350</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260704121909095+-+pikaskills_voxelit.jpg"/>
   </item>
 </channel>
 </rss>

@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sun, 05 Jul 2026 02:35:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 02:32:54 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1383,6 +1383,19 @@ Tune in for a reality check, practical tips, and a dose of fun as we decode what
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260704121909095+-+pikaskills_voxelit.mp3" length="2907312" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1783218913350</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260704121909095+-+pikaskills_voxelit.jpg"/>
+  </item>
+
+  <item>
+    <title>Adobe Firefly AI Markup: Finally, Less Chaos!</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, Hunter and Riley take a no-hype tour of Adobe Firefly’s new AI Markup tools, now paired with Firefly Image Model 5’s four-megapixel native output. Discover how 'point here' editing lets you circle, brush, box-select, or drop instructions directly on the canvas—no more endless text prompts that nuke your entire image. The team explains how this update shifts Firefly from being just a fun generator to a legit productivity booster for real-world creative workflows.  
+
+Find out why these features matter for creators who survive on endless revision rounds, what types of edits still break first, and how Firefly’s enhanced local editing saves time for social teams, agencies, and anyone making thumbnails, ads, or ecommerce images. Plus, learn what traps to watch for—like QA needs for brand logos, text, and fine details—and why higher image resolution finally matters for shippable assets.  
+
+Don’t miss this breakdown of how the latest AI tools are moving from 'cool demos' to 'deadline-ready,' and why the future of creative work is about more control, fewer misfires, and keeping the designer bottleneck at bay. If you’re tired of “prompt roulette” and want more predictable results, this one’s for you.]]></description>
+    <pubDate>Mon, 06 Jul 2026 02:32:54 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260705122025774+-+adobe_firefly_markup.mp3" length="3067560" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1783305174951</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260705122025774+-+adobe_firefly_markup.jpg"/>
   </item>
 </channel>
 </rss>

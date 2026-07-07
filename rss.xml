@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Mon, 06 Jul 2026 02:32:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 02:38:31 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1396,6 +1396,15 @@ Don’t miss this breakdown of how the latest AI tools are moving from 'cool dem
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260705122025774+-+adobe_firefly_markup.mp3" length="3067560" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1783305174951</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260705122025774+-+adobe_firefly_markup.jpg"/>
+  </item>
+
+  <item>
+    <title>Adobe Firefly Studio Beta: Consistency in Creative AI</title>
+    <description><![CDATA[Today on Blue Lightning Daily, Hunter and Riley dive into the beta launch of Adobe Firefly Studio, Adobe's ambitious new creative AI workspace. Rather than offering just another single-click image generator, Firefly Studio is shaped to tackle two of the biggest headaches for creators: workflow fragmentation and keeping characters or branded elements consistent. Learn how Firefly Studio’s two major features, Elements and Projects, promise to simplify multi-stage content creation, make recurring characters actually look the same across scenes, and bring true versioning and asset organization to generative workflows. We discuss who should care about this beta release, compare it to rival AI creative tools from Google and Pika, and debate what it will really take for Firefly Studio to replace the dreaded maze of 'final_final_v2' files and endless folder chaos. If your work depends on repeatable creative results rather than random outputs, and you are tired of AI-generated mascots changing faces between scenes, this episode is for you. Join us for a fast take on why operational consistency—not just smarter models—is the real AI upgrade the industry needs.]]></description>
+    <pubDate>Tue, 07 Jul 2026 02:38:31 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260706122341555+-+firefly_studio_beta.mp3" length="3655608" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1783391911996</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260706122341555+-+firefly_studio_beta.jpg"/>
   </item>
 </channel>
 </rss>

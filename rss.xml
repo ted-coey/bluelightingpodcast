@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 02:38:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 02:36:06 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1405,6 +1405,15 @@ Don’t miss this breakdown of how the latest AI tools are moving from 'cool dem
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260706122341555+-+firefly_studio_beta.mp3" length="3655608" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1783391911996</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260706122341555+-+firefly_studio_beta.jpg"/>
+  </item>
+
+  <item>
+    <title>Adobe Firefly Boards Adds Gemini Omni Flash Power</title>
+    <description><![CDATA[Today on Blue Lightning AI Daily, Hunter and Riley dive into Adobe Firefly Boards' newest trick: you can now generate creative concepts with Google’s Gemini Omni Flash model straight from within Adobe itself. Switching between engines is as easy as a dropdown, letting creators compare AI outputs side by side—all inside the same project, no more frantic tab juggling and renaming files like "final_final_NO_SERIOUSLY.png". Omni Flash, built for lightning-fast image generation and conversational steering, speeds up early-stage brainstorming so you can explore more options without the usual wait. The hosts discuss why “speed changes behavior,” letting you work through more ideas and choose not just the least flawed output, but something you actually like. But as the playground grows, so does the chaos: too many model options can be paralyzing, so the episode breaks down practical rules to avoid descending into endless A B tests. Use Omni Flash for broad, exploratory sketches and switch back to Adobe’s tools for polish and brand precision. Plus, some hard truths: fast AI acceleration means mistakes move faster too. No AI model replaces careful quality control or the human sense of taste. Also in today’s episode: a robot gets “arrested” in Macau, and Fudan University turns AI-stumping into an exam sport. If you’re a creative or marketer wanting less context switching and cleaner workflows—or just want to keep up with the exploding multi-model AI universe—this episode’s for you.]]></description>
+    <pubDate>Wed, 08 Jul 2026 02:36:06 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260707122350087+-+firefly_omni_flash.mp3" length="2796528" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1783478166453</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260707122350087+-+firefly_omni_flash.jpg"/>
   </item>
 </channel>
 </rss>

@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Wed, 08 Jul 2026 02:36:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 02:37:07 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1414,6 +1414,15 @@ Don’t miss this breakdown of how the latest AI tools are moving from 'cool dem
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260707122350087+-+firefly_omni_flash.mp3" length="2796528" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1783478166453</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260707122350087+-+firefly_omni_flash.jpg"/>
+  </item>
+
+  <item>
+    <title>Google Gemini Notebook Aims for the Creative Desk</title>
+    <description><![CDATA[Today on Blue Lightning Daily, we break down Google’s big move: rebranding NotebookLM as Gemini Notebook and leveling up from a basic summarizer to a full-scale creator production desk. What does that really mean? For creators and marketers, it signals a major upgrade: built-in code execution and the new Collections feature that lets you organize notebooks like playlists. We dig into why this matters for making content workflows faster and less chaotic, and where the biggest faceplants still happen. We also contrast Google’s approach with Adobe’s Firefly Studio beta, which is chasing unified creative workspaces, and Meta’s Muse Image, which is staking its claim on agentic editing. The ecosystem race is on—Google wants to rule research and analysis, Adobe’s eyeing the creative studio, and Meta’s tailoring tools for the social factory floor. Back to Gemini Notebook: what’s great, what’s awkward, and when will code execution be available for your whole team? Plus, practical examples of how you can go from messy spreadsheet exports to instant clean charts and summaries, all inside Gemini. We wrap with clear advice for solo creators, marketers, and agencies on making the most of these new tools—without turning your workflow into another maze of tabs or rituals. If you’re tired of copy-pasting your way through a project and want source-grounded AI that plays nice with your research, this episode is for you.]]></description>
+    <pubDate>Tue, 28 Jul 2026 02:37:07 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260727122414031+-+gemini_notebook_upgrade.mp3" length="3031045" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1785206227261</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260727122414031+-+gemini_notebook_upgrade.jpg"/>
   </item>
 </channel>
 </rss>

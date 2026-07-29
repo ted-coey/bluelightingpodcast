@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 02:37:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 02:48:38 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1423,6 +1423,15 @@ Don’t miss this breakdown of how the latest AI tools are moving from 'cool dem
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260727122414031+-+gemini_notebook_upgrade.mp3" length="3031045" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1785206227261</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260727122414031+-+gemini_notebook_upgrade.jpg"/>
+  </item>
+
+  <item>
+    <title>Nvidia&apos;s OSAA: The AI Security Squad Creators Need</title>
+    <description><![CDATA[Today on Blue Lightning Daily, we break down Nvidia’s headline-grabbing launch of the Open Secure AI Alliance, or OSAA. This new coalition, joined by tech giants like Microsoft, IBM, Cisco, Salesforce, Hugging Face, and more, is aiming to make AI security as standardized as HTTPS—no more complicated, duct-tape security for your mini agent factories. We talk about audit logs, supply chain sanity, and why giving every AI agent the same permissions as your most trusted team member is a recipe for chaos. Learn how OSAA wants to move AI from vibes-based pledges to real infrastructure: open standards, traceability, and practical frameworks that anyone can inspect—and hopefully, actually uses. We also cover why open source isn’t automatically secure, how AI supply chains get messy, and why even scrappy creator teams stand to benefit from these security guardrails. Plus, we take quick side trips through Google’s Gemini Notebook, Meta’s Content Seal with Muse, Adobe’s Firefly updates, and discuss what could go wrong if alliances turn into endless committees. This is the episode for anyone building with AI who wants practical security tips and the inside scoop on why OSAA could change how your favorite tools keep you—and your brand—safe from AI gone wild.]]></description>
+    <pubDate>Wed, 29 Jul 2026 02:48:38 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260728122242520+-+osaa_ai_security_daily.mp3" length="3964021" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1785293318259</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260728122242520+-+osaa_ai_security_daily.jpg"/>
   </item>
 </channel>
 </rss>

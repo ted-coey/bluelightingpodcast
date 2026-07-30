@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Wed, 29 Jul 2026 02:48:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 02:37:31 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1432,6 +1432,15 @@ Don’t miss this breakdown of how the latest AI tools are moving from 'cool dem
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260728122242520+-+osaa_ai_security_daily.mp3" length="3964021" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1785293318259</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260728122242520+-+osaa_ai_security_daily.jpg"/>
+  </item>
+
+  <item>
+    <title>Hailuo 3 Hits Early Access: AI Video Gets Real</title>
+    <description><![CDATA[Today we dive into the hotly anticipated early access launch of Hailuo Three, MiniMax’s new AI video model that just crashed the crowded generative video scene. With competitors like Runway, Kling, Pika, and countless experimental models floating around, Hailuo Three is making bold promises: longer clips, higher resolutions, and next-level face and prompt consistency. But does it deliver? We compare new features, wrestle with workflow realities, and debate what really wins creators’ trust: slick demos or boringly predictable stability. Plus, we share first reactions from early testers, break down what matters most for creators (spoiler: it’s not cinematic lighting), and get honest about the never-ending quest for prompt adherence and face-hold magic. We also scan the week’s ecosystem shakeups from Adobe Firefly Boards to Meta Muse Image and Google’s Gemini Notebook updates, plus a look at security trends with Nvidia’s Open Secure AI Alliance. If you’re a creator wondering how to stress test a new model, build a flexible workflow, or just want to laugh about AI hands, this episode is for you. No tool loyalty, no hype, just real-world takes on AI video in 2026.]]></description>
+    <pubDate>Thu, 30 Jul 2026 02:37:31 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260729122127905+-+hailuo_three_ai_video.mp3" length="3995077" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1785379051212</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260729122127905+-+hailuo_three_ai_video.jpg"/>
   </item>
 </channel>
 </rss>

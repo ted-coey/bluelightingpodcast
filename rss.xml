@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Thu, 30 Jul 2026 02:37:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 02:34:53 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1441,6 +1441,15 @@ Don’t miss this breakdown of how the latest AI tools are moving from 'cool dem
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260729122127905+-+hailuo_three_ai_video.mp3" length="3995077" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1785379051212</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260729122127905+-+hailuo_three_ai_video.jpg"/>
+  </item>
+
+  <item>
+    <title>OpenAI Says: Stop Treating GPT-5.6 Sol Like a Chatbot</title>
+    <description><![CDATA[Today, we dive into OpenAI’s spicy advice for developers and creators: stop using GPT-5.6 Sol as a basic chat widget and start leveraging its full agent powers. The new Responses API unlocks retained reasoning and context compaction, letting your agents keep plans and context across multi-step workflows—no model retraining required. We break down why dumping endless conversation history into your requests is sabotaging your content ops and how the new workflow preserves structure without drowning your agents in distraction and confusion. Learn how to safeguard mission-critical details from context compaction, harness continuity without letting mistakes persist, and why solid checkpoints and harness design are now the superpower of reliable AI pipelines. Plus, industry updates from Nvidia’s secure agent push, Google’s Gemini Notebook rebrand, and Meta’s Muse Image provenance rollouts. Get practical migration tips, pitfalls to avoid, and creator sanity-saving moves for both API pros and no-code tool users. The future isn’t just bigger models—it’s smarter infrastructure. Magic needs good plumbing. Join us for the AI pipeline glow-up.]]></description>
+    <pubDate>Fri, 31 Jul 2026 02:34:53 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260730122428173+-+openai_stop_chatbot.mp3" length="4440277" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1785465293762</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260730122428173+-+openai_stop_chatbot.jpg"/>
   </item>
 </channel>
 </rss>

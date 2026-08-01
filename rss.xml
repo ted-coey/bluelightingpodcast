@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Fri, 31 Jul 2026 02:34:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 02:31:44 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1450,6 +1450,15 @@ Don’t miss this breakdown of how the latest AI tools are moving from 'cool dem
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260730122428173+-+openai_stop_chatbot.mp3" length="4440277" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1785465293762</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260730122428173+-+openai_stop_chatbot.jpg"/>
+  </item>
+
+  <item>
+    <title>SAGA and the Future of AI Video Attribution</title>
+    <description><![CDATA[Today on Blue Lightning Daily, we explore how the new SAGA research system is changing the landscape of AI-generated video detection. Moving beyond simple real-versus-fake judgments, SAGA analyzes the unique fingerprints different AI video generators leave behind, even when watermarks are not present. This helps platforms, brands, and creators determine not just if content is AI generated, but which model it likely came from and what kind of generation process was used. Our hosts discuss the importance of provenance in a world where AI-generated videos are everywhere, the practical use cases for SAGA such as content disputes and vendor audits, and the growing problem of "model laundering" as people attempt to evade detection. With rapid advances in video realism from models like Hailuo 3 and evolving transparency tools from Google and OpenAI, attribution and verification are quickly becoming essential parts of the AI content pipeline. Expect smart discussion of how confidence levels matter, why attribution is infrastructure not a magic button, and what subtle quirks SAGA uses to spot which generator made what. Whether you are a creator, a brand manager, or just fascinated by content authenticity, this episode explains why finding the source matters more than ever.]]></description>
+    <pubDate>Sat, 01 Aug 2026 02:31:44 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260731122134987+-+saga_ai_video_attrib.mp3" length="3970501" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1785551504456</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260731122134987+-+saga_ai_video_attrib.jpg"/>
   </item>
 </channel>
 </rss>

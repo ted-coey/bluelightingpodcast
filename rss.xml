@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sat, 01 Aug 2026 02:31:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 02:32:25 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1459,6 +1459,15 @@ Don’t miss this breakdown of how the latest AI tools are moving from 'cool dem
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260731122134987+-+saga_ai_video_attrib.mp3" length="3970501" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1785551504456</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260731122134987+-+saga_ai_video_attrib.jpg"/>
+  </item>
+
+  <item>
+    <title>MiniMax H3: 2K AI Video with Native Stereo Audio Drops</title>
+    <description><![CDATA[On today’s episode, Hunter and Riley break down a game-changing update for creators: MiniMax just launched H3, also known as Hailuo 3.0. The headline? True 2K video output and synchronized native stereo audio in a single render. No more piecing together silent clips and out-of-sync sound—H3 aims to let editors jump straight from generation to editing. We dig into how this model compresses what used to be a frustrating, multi-app workflow into a simple generate-and-edit step. First and last frame reference, plus omni reference stacking, are about to give agencies, ecommerce teams, and content ops more control and repeatability than ever before. But what about audio quality? We share classic AI sound giveaways (from haunted stereo to too-polite footstep FX) and where humans still need to step in for that final polish. Plus, will H3’s possible move to open weights bring a wave of brand-new apps—and style copycats? How will provenance systems like SAGA and the push from Open Secure AI Alliance reshape trust and security across creator tools? Tune in for insights on templates, taste, and whether H3 really delivers the production magic creators have been begging for. If your pain has been “I generate video, then juggle three apps for audio,” this episode is your solution.]]></description>
+    <pubDate>Sun, 02 Aug 2026 02:32:25 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260801122045558+-+minimax_h3_release.mp3" length="3596029" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1785637945642</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260801122045558+-+minimax_h3_release.jpg"/>
   </item>
 </channel>
 </rss>

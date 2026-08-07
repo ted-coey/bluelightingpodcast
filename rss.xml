@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sun, 02 Aug 2026 02:32:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 02:34:29 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1468,6 +1468,15 @@ Don’t miss this breakdown of how the latest AI tools are moving from 'cool dem
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260801122045558+-+minimax_h3_release.mp3" length="3596029" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1785637945642</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260801122045558+-+minimax_h3_release.jpg"/>
+  </item>
+
+  <item>
+    <title>Adobe Connector Drops: ChatGPT Goes Creative Command Line</title>
+    <description><![CDATA[Today on Blue Lightning Daily, we’re breaking down Adobe’s brand new connector for ChatGPT, a game-changing tool that turns chat into the front door for core Adobe tasks. Forget the app-juggling and file export detective work—now you can trigger background removals, resize, generate variations, handle those dreaded PDF chores, and more, right from chat. It’s a huge win for agencies, marketing teams, and solo creators who want their workflow to move at the speed of thought. But with great power comes great caution, as this connector also blurs lines on permissions, authorship, and quality control. Tune in for spicy takes, real-world advice, and a few hilarious AI fails. Discover why this isn’t Photoshop living inside ChatGPT, but rather chat becoming the creative command center for the modern era. We also zoom out to connect dots with other workflow streamliners like Gemini Notebook, Hailuo 3, SAGA, and OpenAI’s Responses API. Whether you’re a creator, an agency, or just tired of tab Olympics, you’ll want to hear how the frictionless conversation-to-output loop might save your sanity—or create infinite revision loops. Plus: best practices, unfiltered warnings, and why you should test automation on your most boring tasks before letting AI run wild on your masterpieces. Get ready for a crash course in the future of creative automation and what it means for your daily grind.]]></description>
+    <pubDate>Fri, 07 Aug 2026 02:34:29 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260806122117168+-+adobe_chatgpt_connector.mp3" length="3258468" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1786070069840</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260806122117168+-+adobe_chatgpt_connector.jpg"/>
   </item>
 </channel>
 </rss>

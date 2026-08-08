@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Fri, 07 Aug 2026 02:34:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 02:37:28 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1477,6 +1477,15 @@ Don’t miss this breakdown of how the latest AI tools are moving from 'cool dem
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260806122117168+-+adobe_chatgpt_connector.mp3" length="3258468" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1786070069840</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260806122117168+-+adobe_chatgpt_connector.jpg"/>
+  </item>
+
+  <item>
+    <title>Adobe Connects ChatGPT to Creative Cloud Workflow</title>
+    <description><![CDATA[Today on Blue Lightning Daily, we break down Adobe’s brand-new connector that transforms ChatGPT into the command center for Creative Cloud and Acrobat. Now, you can fire off over seventy different Adobe actions without ever leaving ChatGPT. The real win? Less tab chaos, more streamlined workflows, and no more "final_final_v3" file madness. Whether you’re a marketer, producer, project manager, or a designer wanting to offload those repeatable chores like resizing, background removal, and batch exporting, this update could be your productivity unlock. We debate who actually benefits, why this is a workflow revolution (not the end of manual design), and where chat-in-the-loop can dangerously accelerate file chaos if your team lacks good process. Plus, we touch on the growing push to make chat the new front door for creative tools, OpenAI’s latest pipeline moves, video generation leaps from MiniMax H3 Hailuo 3.0, and the coming era of synthetic media attribution with SAGA. It’s not just about automation; it’s about building systems that let you skip the grind, not the craft. Tune in for all the laughs, warnings, and AI-powered hot takes.]]></description>
+    <pubDate>Sat, 08 Aug 2026 02:37:28 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260807122203103+-+adobe_chatgpt_connector.mp3" length="2980068" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1786156648571</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260807122203103+-+adobe_chatgpt_connector.jpg"/>
   </item>
 </channel>
 </rss>

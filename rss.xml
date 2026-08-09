@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sat, 08 Aug 2026 02:37:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 02:36:35 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1486,6 +1486,21 @@ Don’t miss this breakdown of how the latest AI tools are moving from 'cool dem
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260807122203103+-+adobe_chatgpt_connector.mp3" length="2980068" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1786156648571</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260807122203103+-+adobe_chatgpt_connector.jpg"/>
+  </item>
+
+  <item>
+    <title>GPT 5.6: Sol Terra Luna and the Think Control Upgrade</title>
+    <description><![CDATA[Get ready for an inside look at OpenAI’s latest game-changer: GPT 5.6 inside ChatGPT, now featuring three new power modes named Sol, Terra, and Luna. In today’s episode, Hunter and Riley break down what each mode actually does, from Luna’s fast batch output to Sol’s premium-grade accuracy for high-stakes tasks. You’ll learn where each model shines and how the new Think control lets you dial up model effort when the stakes get serious.   
+
+But this episode is more than a user manual. We dive into real creator workflows, showing how consequence-based routing is the new best practice for anyone trusting AI with their work. Sol is for those “don’t embarrass me” moments, Terra gets you that structured first draft, and Luna cranks out ideas fast. Plus, the hosts deliver their favorite low-effort fact-checking hacks to keep AI outputs from going off the rails, even when you max out the Think dial.
+
+Hunter and Riley also zoom out to the industry level, covering the trend toward fewer pipeline steps and smarter AI integration. From Adobe’s new Creative Cloud connector for ChatGPT to the latest in AI video and provenance (like SAGA’s new detection tech), Blue Lightning keeps you ahead of every creative workflow curve.
+
+Whether you’re a solo creator or a team lead, this episode leaves you with practical rules and hilarious warnings about how to use and not misuse these new tools. Unlock the new powers in ChatGPT and hear why a little human oversight is still undefeated.]]></description>
+    <pubDate>Sun, 09 Aug 2026 02:36:35 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260808122033768+-+gpt_56_power_modes.mp3" length="2762532" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1786242995160</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260808122033768+-+gpt_56_power_modes.jpg"/>
   </item>
 </channel>
 </rss>

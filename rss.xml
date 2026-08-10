@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Sun, 09 Aug 2026 02:36:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 02:36:24 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1501,6 +1501,15 @@ Whether you’re a solo creator or a team lead, this episode leaves you with pra
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260808122033768+-+gpt_56_power_modes.mp3" length="2762532" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1786242995160</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260808122033768+-+gpt_56_power_modes.jpg"/>
+  </item>
+
+  <item>
+    <title>Google Lyria 3.5: The End of Royalty-Free Music Madness</title>
+    <description><![CDATA[Today on Blue Lightning Daily, Hunter and Riley break down the game-changing arrival of Google’s Lyria 3.5 music model inside Gemini and Flow Music. This isn’t just more AI-generated music: it’s longer, more controlled, and designed to fit directly into your next project. We dig into why tempo and duration controls—once unsexy—are now a must-have for anyone creating explainer videos, branded series, podcast intros, or social posts. Lyria 3.5 offers up to three minutes of evolving tracks, better section structure, and packaging that streamlines your workflow with easy audio plus shareable video exports. We debate whether longer means better, why creator-friendly controls matter, and how this shift is making music sourcing effortless—and maybe even erasing those late-night hunts for royalty-free tracks. We also talk practical tips: how to prompt Lyria for better results, why human editing always adds value, and what all this means for copyright, monetization, and creative identity in the “AI music for everyone” era. Plus, we zoom out to examine the broader trend of chat apps evolving into full workstations, collapsing creative workflows across music and video. Whether you’re a marketer needing fast approvals or a creator aiming to stand out, this episode is packed with insight on how to actually make Lyria 3.5 work for your content. Tune in to hear how taste, intent, and clever editing still separate the pros from the AI slop singularity—before your next upload sounds like everyone else’s screensaver.]]></description>
+    <pubDate>Mon, 10 Aug 2026 02:36:24 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260809122055171+-+lyria_35_music_magic.mp3" length="3832356" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1786329384990</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260809122055171+-+lyria_35_music_magic.jpg"/>
   </item>
 </channel>
 </rss>

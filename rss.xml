@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Mon, 10 Aug 2026 02:36:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 02:32:44 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1510,6 +1510,15 @@ Whether you’re a solo creator or a team lead, this episode leaves you with pra
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260809122055171+-+lyria_35_music_magic.mp3" length="3832356" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1786329384990</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260809122055171+-+lyria_35_music_magic.jpg"/>
+  </item>
+
+  <item>
+    <title>NVIDIA VoiceChat 11B: Real Time AI that Talks Back Fast</title>
+    <description><![CDATA[Get ready for a behind the scenes look at NVIDIA NemotronLabs VoiceChat Eleven B, the open weight, streaming speech to speech model built for smooth, real time conversation. Hosts Hunter and Riley dive into how VoiceChat Eleven B enables true full duplex voice agents that can listen and talk at the same time without forced pauses or awkward lag. Learn why ditching the old relay race of speech to text to LLM to speech means faster agent responses and more human like timing with interruptions, overlaps, backchannel "mm hmm" acknowledgements, and error free turn taking. But building magic goes beyond the model. The hosts unpack the underrated UX and infrastructure challenges: managing endpointing, interruption policies, and making sure your streaming stack, not just the model, delivers on low latency promises. They also call out the new risks of audio agents: spoken hallucinations, mishearing, and why voice agents need safety guardrails for tool access. Curious about use cases? This episode shows why this capability unlock is huge for interactive shows, livestreams, and voice controlled production, but also why solo creators probably want products built on top, not the raw tech. Plus, they talk licensing details the fine print that determines whether you can use these models commercially. Along the way, you’ll get the latest AI ecosystem news on Google Lyria, OpenAI Think controls, Adobe for ChatGPT, and why voice is becoming the new control layer everywhere. If you want to build AI that feels instant and truly conversational, do not miss this episode.]]></description>
+    <pubDate>Tue, 11 Aug 2026 02:32:44 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260810122036645+-+nvidia_voicechat_11b.mp3" length="3405732" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1786415564648</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260810122036645+-+nvidia_voicechat_11b.jpg"/>
   </item>
 </channel>
 </rss>

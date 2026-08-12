@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Tue, 11 Aug 2026 02:32:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 02:35:29 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1519,6 +1519,15 @@ Whether you’re a solo creator or a team lead, this episode leaves you with pra
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260810122036645+-+nvidia_voicechat_11b.mp3" length="3405732" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1786415564648</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260810122036645+-+nvidia_voicechat_11b.jpg"/>
+  </item>
+
+  <item>
+    <title>MiniMax H3: Audio-Ready AI Video That Actually Works?</title>
+    <description><![CDATA[Today on Blue Lightning Daily, Hunter and Riley dive into MiniMax’s brand new H3 model, also known as Hailuo 3—a short-form video generation tool that finally puts synced stereo audio right inside the AI output. Is this the end of painfully silent drafts and disconnected tool chains? We break down how H3 compresses your creative pipeline, making it possible to crank out review-ready, in-sync video ads in just one render. But does native audio mean reliably good audio, or just faster, flashier drafts that still need work? We get real about brand consistency, typographic chaos, and the challenges H3 faces when it comes to keeping product visuals accurate across lots of outputs. Plus, we talk about why ‘multimodal conditioning’—combining text prompts with visual references—matters so much for repeatable, campaign-ready content. We also zoom out to cover recent launches from OpenAI, Adobe, Google, and NVIDIA, exploring a broader trend: it’s not about wild new features, but about smoother creative workflows for creators and agencies drowning in deadlines. Get a no-nonsense checklist for evaluating H3, and find out why this model might signal the end of AI’s awkward silent-draft era. Whether you’re a solo creator or running a high-volume content shop, this episode is your primer on the new wave of AI video tools and how they’re really changing the game.]]></description>
+    <pubDate>Wed, 12 Aug 2026 02:35:29 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260811122057416+-+minimax_h3_video_audio.mp3" length="3318372" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1786502129814</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260811122057416+-+minimax_h3_video_audio.jpg"/>
   </item>
 </channel>
 </rss>

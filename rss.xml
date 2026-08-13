@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 02:35:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 02:53:30 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1528,6 +1528,15 @@ Whether you’re a solo creator or a team lead, this episode leaves you with pra
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260811122057416+-+minimax_h3_video_audio.mp3" length="3318372" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1786502129814</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260811122057416+-+minimax_h3_video_audio.jpg"/>
+  </item>
+
+  <item>
+    <title>Adobe Firefly Adds AI Voice: No More VO Side Quests</title>
+    <description><![CDATA[Say goodbye to endless file swapping and lost voiceover files! In this episode, we break down Adobe Firefly’s game-changing new feature: Generate Speech. Now, voiceover becomes a native, editable layer right where you already generate images and video. No more exporting, relinking, or chasing missing files—just fast, integrated text-to-speech for creators and marketing teams alike. Whether you’re cranking out TikTok hooks, localizing campaigns, or handling constant script changes, Firefly keeps your workflow smooth and cuts out major friction. We get into the details: partner voices like ElevenLabs Multilingual v2, credit pricing per thousand characters, and smart tips for budgeting without sacrificing creative iterations. Hear why the real-time voice layer matters for pacing, approvals, and campaign consistency—and why, sometimes, endless micro-tweaking is not your friend. Plus, an ecosystem check-in: MiniMax H3, NemotronLabs VoiceChat, Google’s Lyria, and OpenAI’s new creator controls. If you’re in Adobe land or just want fewer workflow headaches, this episode is your crash course in the new era of AI voiceover. And yes, this episode is 100 percent machine-made—creative direction and all.]]></description>
+    <pubDate>Thu, 13 Aug 2026 02:53:30 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260812122211458+-+firefly_voiceover_mix.mp3" length="3637284" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1786589610819</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260812122211458+-+firefly_voiceover_mix.jpg"/>
   </item>
 </channel>
 </rss>

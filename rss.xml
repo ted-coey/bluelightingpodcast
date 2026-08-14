@@ -8,7 +8,7 @@
     <link>https://yourdomain.com/podcast</link>
     <language>en-us</language>
     <copyright>© 2025 Blue Lightning</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 02:53:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 02:37:27 GMT</lastBuildDate>
     <pubDate>Sun, 31 Aug 2025 12:00:00 GMT</pubDate>
      <itunes:category text="Business">
        <itunes:category text="Entrepreneurship"/>
@@ -1537,6 +1537,15 @@ Whether you’re a solo creator or a team lead, this episode leaves you with pra
     <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260812122211458+-+firefly_voiceover_mix.mp3" length="3637284" type="audio/mpeg" />
     <guid isPermaLink="false">bl-1786589610819</guid>
     <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260812122211458+-+firefly_voiceover_mix.jpg"/>
+  </item>
+
+  <item>
+    <title>Lightricks LTX-2.5: Open Weights, 4K, Multi-Shot Magic</title>
+    <description><![CDATA[Today on Blue Lightning Daily, Hunter and Riley break down the huge news: Lightricks just dropped LTX-2.5, a video model bringing open weights, native 4K, and multi-shot generation to the world of AI video. What does this mean for creators, agencies, and brands? First, you actually own your workflow. Forget cloud-only, ‘just trust us’ video apps—now you can customize, lock your model, and stop losing sleep over melted logos or surprise updates. Second, with native 4K, you can finally get crisp frames for those critical product shots (just don’t expect to run it on a five-year-old laptop). Plus, multi-shot generation is changing how editors and agencies cut sequences, reducing identity drift and saving hours of agony. The hosts also dig into Diffusion Fidelity Rendering—spending compute power where it matters, like faces and motion, so your work looks great in all the right spots. The ecosystem gets big love, too, with ComfyUI allowing plug-and-play nodes, easy workflows, and fast onboarding. They zoom out for a look at the trend: end-to-end creator stacks now include Firefly’s new Generate Speech, MiniMax H3 for social clips, NVIDIA’s NemotronLabs VoiceChat for real-time voice, and Google’s Lyria in Gemini pushing music AI. The big takeaway? Open weights is about more than saving money—it's about true version control, repeatability, privacy, and freedom. Whether you’re building pipelines for brands or making quick drafts in the cloud, LTX-2.5 is an inflection point for the future of video. Listen for practical tips, hot takes, and a crash course on keeping your creative rig stable in the AI video era.]]></description>
+    <pubDate>Fri, 14 Aug 2026 02:37:27 GMT</pubDate>
+    <enclosure url="https://coey-podcast.s3.us-east-2.amazonaws.com/20260813122132711+-+lightricks_ltx_25_podcast.mp3" length="3077220" type="audio/mpeg" />
+    <guid isPermaLink="false">bl-1786675047690</guid>
+    <itunes:image href="https://coey-podcast.s3.us-east-2.amazonaws.com/Image+20260813122132711+-+lightricks_ltx_25_podcast.jpg"/>
   </item>
 </channel>
 </rss>
